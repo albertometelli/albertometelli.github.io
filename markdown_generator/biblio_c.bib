@@ -1,0 +1,219 @@
+@incollection{metelli2020control,
+ abstract = {The choice of the control frequency of a system has a relevant impact on the ability of reinforcement learning algorithms to learn a highly performing policy. In this paper, we introduce the notion of action persistence  that consists in the repetition of an action for a fixed number of decision steps, having the effect of modifying the control frequency. We start analyzing how action persistence affects the performance of the optimal policy, and then we present a novel algorithm, Persistent Fitted Q-Iteration (PFQI), that extends FQI, with the goal of learning the optimal value function at a given persistence. After having provided a theoretical study of PFQI and a heuristic approach to identify the optimal persistence, we present an experimental campaign on benchmark domains to show the advantages of action persistence and proving the effectiveness of our persistence selection method.},
+ author = {Metelli, Alberto Maria and Mazzolini, Flavio and Bisi, Lorenzo and Sabbioni, Luca and Restelli, Marcello},
+ booktitle = {Proceedings of the 37th International Conference on Machine Learning, Vienna, Austria, PMLR 119, 2020},
+ pages = {4102--4113},
+ title = {Control Frequency Adaptation via Action Persistence in Batch Reinforcement Learning},
+ year = {2020},
+ acceptance={Acceptance rate: 1088/4990 (21.8\%)},
+ url={https://proceedings.icml.cc/book/3621.pdf},
+}
+
+
+@InProceedings{ramponi2020truly,
+  title = 	 {Truly Batch Model-Free Inverse Reinforcement Learning about Multiple Intentions},
+  author = 	 {Ramponi, Giorgia and Likmeta, Amarildo and Metelli, Alberto Maria and Tirinzoni, Andrea and Restelli, Marcello},
+  booktitle = 	 {Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics},
+  pages = 	 {2359--2369},
+  year = 	 {2020},
+  editor = 	 {Chiappa, Silvia and Calandra, Roberto},
+  volume = 	 {108},
+  series = 	 {Proceedings of Machine Learning Research},
+  address = 	 {Online},
+  publisher = 	 {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v108/ramponi20a/ramponi20a.pdf},
+  url = 	 {http://proceedings.mlr.press/v108/ramponi20a.html},
+  abstract = 	 {We consider Inverse Reinforcement Learning (IRL) about multiple intentions, \ie the problem of estimating the unknown reward functions optimized by a group of experts that demonstrate optimal behaviors. Most of the existing algorithms either require access to a model of the environment or need to repeatedly compute the optimal policies for the hypothesized rewards. However, these requirements are rarely met in real-world applications, in which interacting with the environment can be expensive or even dangerous. In this paper, we address the IRL about multiple intentions in a fully model-free and batch setting. We first cast the single IRL problem as a constrained likelihood maximization and then we use this formulation to cluster agents based on the likelihood of the assignment. In this way, we can efficiently solve, without interactions with the environment, both the IRL and the clustering problem. Finally, we evaluate the proposed methodology on simulated domains and on a real-world social-network application.}
+}
+
+@inproceedings{doro2019gradient,
+  author    = {Pierluca D'Oro and
+               Alberto Maria Metelli and
+               Andrea Tirinzoni and
+               Matteo Papini and
+               Marcello Restelli},
+  title     = {Gradient-Aware Model-Based Policy Search},
+  booktitle = {The Thirty-Fourth {AAAI} Conference on Artificial Intelligence, {AAAI}
+               2020, The Thirty-Second Innovative Applications of Artificial Intelligence
+               Conference, {IAAI} 2020, The Tenth {AAAI} Symposium on Educational
+               Advances in Artificial Intelligence, {EAAI} 2020, New York, NY, USA,
+               February 7-12, 2020},
+  pages     = {3801--3808},
+  publisher = {{AAAI} Press},
+  year      = {2020},
+  abstract = {Traditional model-based reinforcement learning approaches learn a model of the environment dynamics without explicitly considering how it will be used by the agent. In the presence of misspecified model classes, this can lead to poor estimates, as some relevant available information is ignored. In this paper, we introduce a novel model-based policy search approach that exploits the knowledge of the current agent policy to learn an approximate transition model, focusing on the portions of the environment that are most relevant for policy improvement. We leverage a weighting scheme, derived from the minimization of the error on the model-based policy gradient estimator, in order to define a suitable objective function that is optimized for learning the approximate transition model. Then, we integrate this procedure into a batch policy improvement algorithm, named Gradient-Aware Model-based Policy Search (GAMPS), which iteratively learns a transition model and uses it, together with the collected trajectories, to compute the new policy parameters. Finally, we empirically validate GAMPS on benchmark domains analyzing and discussing its properties.},
+  acceptance={Acceptance rate: 1591/7737 (20.6\%)},
+  url={https://aaai.org/ojs/index.php/AAAI/article/view/5791},
+  supplementary={https://arxiv.org/abs/1909.04115}
+}
+
+@inproceedings{metelli2019propagating,
+  author    = {Alberto Maria Metelli and
+               Amarildo Likmeta and
+               Marcello Restelli},
+  title     = {Propagating Uncertainty in Reinforcement Learning via Wasserstein Barycenters
+},
+  booktitle = {Advances in Neural Information Processing Systems 32: Annual Conference
+               on Neural Information Processing Systems 2019, NeurIPS 2019, 9-14 December
+               2019, Vancouver, Canada.},
+  year      = {2019},
+  abstract = {How does the uncertainty of the value function propagate when performing temporal difference learning? In this paper, we address this question by proposing a Bayesian framework in which we employ approximate posterior distributions to model the uncertainty of the value function and Wasserstein barycenters to propagate it across state-action pairs. Leveraging on these tools, we present an algorithm, Wasserstein Q-Learning (WQL), starting in the tabular case and then, we show how it can be extended to deal with continuous domains. Furthermore, we prove that, under mild assumptions, a slight variation of WQL enjoys desirable theoretical properties in the tabular setting. Finally, we present an experimental campaign to show the effectiveness of WQL on finite problems, compared to several RL algorithms, some of which are specifically designed for exploration, along with some preliminary results on Atari games.},
+  url={https://papers.nips.cc/paper/8685-propagating-uncertainty-in-reinforcement-learning-via-wasserstein-barycenters},
+  acceptance={Acceptance rate: 428/6743 (21.2\%)},
+  poster = {https://albertometelli.github.io/download/poster_neurips2019.pdf},
+  code = {https://github.com/albertometelli/wql}
+}
+
+@inproceedings{beraha2019feature,
+  author    = {Mario Beraha and
+               Alberto Maria Metelli and
+               Matteo Papini and
+               Andrea Tirinzoni and
+               Marcello Restelli},
+  title     = {Feature Selection via Mutual Information: New Theoretical Insights},
+  booktitle = {International Joint Conference on Neural Networks, {IJCNN} 2019 Budapest,
+               Hungary, July 14-19, 2019},
+  pages     = {1--9},
+  publisher = {{IEEE}},
+  year      = {2019},
+  url       = {https://doi.org/10.1109/IJCNN.2019.8852410},
+  doi       = {10.1109/IJCNN.2019.8852410},
+  timestamp = {Wed, 16 Oct 2019 14:14:55 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/ijcnn/BerahaMPTR19},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  abstract = {Mutual information has been successfully adopted in filter feature-selection methods to assess both the relevancy of a subset of features in predicting the target variable and the redundancy with respect to other variables. However, existing algorithms are mostly heuristic and do not offer any guarantee on the proposed solution. In this paper, we provide novel theoretical results showing that conditional mutual information naturally arises when bounding the ideal regression/classification errors achieved by different subsets of features. Leveraging on these insights, we propose a novel stopping condition for backward and forward greedy methods which ensures that the ideal prediction error using the selected feature subset remains bounded by a user-specified threshold. We provide numerical simulations to support our theoretical claims and compare to common heuristic methods.}
+}
+
+@inproceedings{metelli2019reinforcement,
+  author    = {Alberto Maria Metelli and
+               Emanuele Ghelfi and
+               Marcello Restelli},
+  editor    = {Kamalika Chaudhuri and
+               Ruslan Salakhutdinov},
+  title     = {Reinforcement Learning in Configurable Continuous Environments},
+  booktitle = {Proceedings of the 36th International Conference on Machine Learning,
+               {ICML} 2019, 9-15 June 2019, Long Beach, California, {USA}},
+  series    = {Proceedings of Machine Learning Research},
+  volume    = {97},
+  pages     = {4546--4555},
+  publisher = {{PMLR}},
+  year      = {2019},
+  url       = {http://proceedings.mlr.press/v97/metelli19a.html},
+  timestamp = {Tue, 11 Jun 2019 15:37:38 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icml/MetelliGR19},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  abstract = {Configurable Markov Decision Processes (Conf-MDPs) have been recently introduced as an extension of the usual MDP model to account for the possibility of configuring the environment to improve the agent’s performance. Currently, there is still no suitable algorithm to solve the learning problem for real-world Conf-MDPs. In this paper, we fill this gap by proposing a trust-region method, Relative Entropy Model Policy Search (REMPS), able to learn both the policy and the MDP configuration in continuous domains without requiring the knowledge of the true model of the environment. After introducing our approach and providing a finite-sample analysis, we empirically evaluate REMPS on both benchmark and realistic environments by comparing our results with those of the gradient methods.},
+  acceptance = {Acceptance rate: 773/3424 (22.6\%)},
+  code = {https://github.com/albertometelli/remps},
+  poster = {https://albertometelli.github.io/download/icml2019-remps/poster.pdf},
+  slides = {https://albertometelli.github.io/download/icml2019-remps/slides.pdf}
+}
+
+@inproceedings{papini2019optimistic,
+  author    = {Matteo Papini and
+               Alberto Maria Metelli and
+               Lorenzo Lupo and
+               Marcello Restelli},
+  editor    = {Kamalika Chaudhuri and
+               Ruslan Salakhutdinov},
+  title     = {Optimistic Policy Optimization via Multiple Importance Sampling},
+  booktitle = {Proceedings of the 36th International Conference on Machine Learning,
+               {ICML} 2019, 9-15 June 2019, Long Beach, California, {USA}},
+  series    = {Proceedings of Machine Learning Research},
+  volume    = {97},
+  pages     = {4989--4999},
+  publisher = {{PMLR}},
+  year      = {2019},
+  url       = {http://proceedings.mlr.press/v97/papini19a.html},
+  timestamp = {Tue, 11 Jun 2019 15:37:38 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icml/PapiniMLR19},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  abstract = {Policy Search (PS) is an effective approach to Reinforcement Learning (RL) for solving
+control tasks with continuous state-action spaces. In this paper, we address the exploration-exploitation trade-off in PS by proposing an approach based on Optimism in the Face of Uncertainty. We cast the PS problem as a suitable Multi Armed Bandit (MAB) problem, defined over the policy parameter space, and we propose a class of algorithms that effectively exploit the problem structure, by leveraging Multiple Importance Sampling to perform an off-policy estimation of the expected return.
+We show that the regret of the proposed approach is bounded by $\widetilde{\mathcal{O}}(\sqrt{T})$ for both discrete and continuous parameter spaces. Finally, we evaluate our algorithms on tasks of varying difficulty, comparing them with existing MAB and RL algorithms.},
+  acceptance = {Acceptance rate: 773/3424 (22.6\%)},
+  code = {https://github.com/WolfLo/optimist},
+  poster = {https://t3p.github.io/download/poster_optimist.pdf},
+  slides = {https://icml.cc/media/Slides/icml/2019/104(11-14-00)-11-14-25-5158-optimistic_poli.pdf}
+}
+
+@inproceedings{metelli2018configurable,
+  author    = {Alberto Maria Metelli and
+               Mirco Mutti and
+               Marcello Restelli},
+  editor    = {Jennifer G. Dy and
+               Andreas Krause},
+  title     = {Configurable Markov Decision Processes},
+  booktitle = {Proceedings of the 35th International Conference on Machine Learning,
+               {ICML} 2018, Stockholmsm{\"{a}}ssan, Stockholm, Sweden, July
+               10-15, 2018},
+  series    = {Proceedings of Machine Learning Research},
+  volume    = {80},
+  pages     = {3488--3497},
+  publisher = {{PMLR}},
+  year      = {2018},
+  url       = {http://proceedings.mlr.press/v80/metelli18a.html},
+  timestamp = {Wed, 03 Apr 2019 18:17:30 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icml/MetelliMR18},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  abstract = {In many real-world problems, there is the possibility to configure, to a limited extent, some environmental parameters to improve the performance of a learning agent. In this paper, we propose a novel framework, Configurable Markov Decision Processes (Conf-MDPs), to model this new type of interaction with the environment. Furthermore, we provide a new learning algorithm, Safe Policy-Model Iteration (SPMI), to jointly and adaptively optimize the policy and the environment configuration. After having introduced our approach and derived some theoretical results, we present the experimental evaluation in two explicative problems to show the benefits of the environment configurability on the performance of the learned policy.},
+  acceptance = {Acceptance rate: 618/2473 (25.0\%)},
+  code = {https://github.com/albertometelli/Configurable-Markov-Decision-Processes-ICML-2018},
+  poster = {https://albertometelli.github.io/download/poster_icml2018.pdf},
+  slides = {https://albertometelli.github.io/download/slides_icml2018.pdf}
+}
+
+@inproceedings{metelli2018policy,
+  author    = {Alberto Maria Metelli and
+               Matteo Papini and
+               Francesco Faccio and
+               Marcello Restelli},
+  editor    = {Samy Bengio and
+               Hanna M. Wallach and
+               Hugo Larochelle and
+               Kristen Grauman and
+               Nicol{\`{o}} Cesa{-}Bianchi and
+               Roman Garnett},
+  title     = {Policy Optimization via Importance Sampling},
+  booktitle = {Advances in Neural Information Processing Systems 31: Annual Conference
+               on Neural Information Processing Systems 2018, NeurIPS 2018, 3-8 December
+               2018, Montr{\'{e}}al, Canada.},
+  pages     = {5447--5459},
+  year      = {2018},
+  url       = {http://papers.nips.cc/paper/7789-policy-optimization-via-importance-sampling},
+  timestamp = {Sun, 16 Dec 2018 17:30:05 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/nips/MetelliPFR18},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  abstract = {Policy optimization is an effective reinforcement learning approach to solve continuous control tasks. Recent achievements have shown that alternating online and offline optimization is a successful choice for efficient trajectory reuse. However, deciding when to stop optimizing and collect new trajectories is non-trivial, as it requires to account for the variance of the objective function estimate. In this paper, we propose a novel, model-free, policy search algorithm, POIS, applicable in both action-based and parameter-based settings. We first derive a high-confidence bound for importance sampling estimation; then we define a surrogate objective function, which is optimized offline whenever a new batch of trajectories is collected. Finally, the algorithm is tested on a selection of continuous control tasks, with both linear and deep policies, and compared with state-of-the-art policy optimization methods.},
+  acceptance = {Acceptance rate: 1011/4856 (20.8\%), Oral: 30/4856 (0.62\%)},
+  code = {https://github.com/T3p/pois},
+  poster = {https://t3p.github.io/download/poster_NIPS18.pdf},
+  slides = {https://t3p.github.io/download/talk_NeurIPS18.pdf}
+}
+
+@inproceedings{metelli2017compatible,
+  author    = {Alberto Maria Metelli and
+               Matteo Pirotta and
+               Marcello Restelli},
+  editor    = {Isabelle Guyon and
+               Ulrike von Luxburg and
+               Samy Bengio and
+               Hanna M. Wallach and
+               Rob Fergus and
+               S. V. N. Vishwanathan and
+               Roman Garnett},
+  title     = {Compatible Reward Inverse Reinforcement Learning},
+  booktitle = {Advances in Neural Information Processing Systems 30: Annual Conference
+               on Neural Information Processing Systems 2017, 4-9 December 2017,
+               Long Beach, CA, {USA}},
+  pages     = {2047--2056},
+  year      = {2017},
+  url       = {http://papers.nips.cc/paper/6800-compatible-reward-inverse-reinforcement-learning},
+  timestamp = {Mon, 27 Nov 2017 12:38:48 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/nips/MetelliPR17},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  abstract = {Inverse Reinforcement Learning (IRL) is an effective approach to recover a reward function that explains the behavior of an expert by observing a set of demonstrations. This paper is about a novel model-free IRL approach that, differently from most of the existing IRL algorithms, does not require to specify a function space where to search for the expert's reward function. Leveraging on the fact that the policy gradient needs to be zero for any optimal policy, the algorithm generates a set of basis functions that span the subspace of reward functions that make the policy gradient vanish. Within this subspace, using a second-order criterion, we search for the reward function that penalizes the most a deviation from the expert's policy. After introducing our approach for finite domains, we extend it to continuous ones. The proposed approach is empirically compared to other IRL methods both in the (finite) Taxi domain and in the (continuous) Linear Quadratic Gaussian (LQG) and Car on the Hill environments.},
+  acceptance = {Acceptance rate: 678/3240 (20.9\%)},
+  code = {https://github.com/albertometelli/crirl},
+  poster = {https://albertometelli.github.io/download/poster_nips2017.pdf}
+}
