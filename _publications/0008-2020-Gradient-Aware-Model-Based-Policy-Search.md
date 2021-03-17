@@ -4,11 +4,11 @@ collection: publ_conferences
 permalink: /publication/0008-2020-Gradient-Aware-Model-Based-Policy-Search
 acceptance: 'Acceptance rate: 1591/7737 (20.6%)'
 date: 2020-01-01
-venue: 'The Thirty-Fourth AAAI Conference on Artificial Intelligence, AAAI 2020, The Thirty-Second Innovative Applications of Artificial Intelligence Conference, IAAI 2020, The Tenth AAAI Symposium on Educational Advances in Artificial Intelligence, EAAI 2020, New York, NY, USA, February 7-12, 2020'
+venue: 'The Thirty-Fourth AAAI Conference on Artificial Intelligence, AAAI 2020, New York, NY, USA, February 7-12, 2020'
 paperurl: 'https://aaai.org/ojs/index.php/AAAI/article/view/5791'
 pubtype: 'conferences'
 authors: ' Pierluca  D&apos;Oro,  Alberto Maria Metelli,  Andrea  Tirinzoni,  Matteo  Papini, and  Marcello  Restelli'
-citation: ' Pierluca  D&apos;Oro,  Alberto Maria Metelli,  Andrea  Tirinzoni,  Matteo  Papini, and  Marcello  Restelli&quot;Gradient-Aware Model-Based Policy Search.&quot; The Thirty-Fourth AAAI Conference on Artificial Intelligence, AAAI 2020, The Thirty-Second Innovative Applications of Artificial Intelligence Conference, IAAI 2020, The Tenth AAAI Symposium on Educational Advances in Artificial Intelligence, EAAI 2020, New York, NY, USA, February 7-12, 2020, 2020.'
+citation: ' Pierluca  D&apos;Oro,  Alberto Maria Metelli,  Andrea  Tirinzoni,  Matteo  Papini, and  Marcello  Restelli&quot;Gradient-Aware Model-Based Policy Search.&quot; The Thirty-Fourth AAAI Conference on Artificial Intelligence, AAAI 2020, New York, NY, USA, February 7-12, 2020, 2020.'
 bibtexfile: '/files/bibtex/doro2019gradient.bib'
 ---
 Abstract
@@ -18,7 +18,7 @@ Abstract
 <pre> @inproceedings{doro2019gradient,
     author = "D'Oro, Pierluca and Metelli, Alberto Maria and Tirinzoni, Andrea and Papini, Matteo and Restelli, Marcello",
     title = "Gradient-Aware Model-Based Policy Search",
-    booktitle = "The Thirty-Fourth {AAAI} Conference on Artificial Intelligence, {AAAI} 2020, The Thirty-Second Innovative Applications of Artificial Intelligence Conference, {IAAI} 2020, The Tenth {AAAI} Symposium on Educational Advances in Artificial Intelligence, {EAAI} 2020, New York, NY, USA, February 7-12, 2020",
+    booktitle = "The Thirty-Fourth {AAAI} Conference on Artificial Intelligence, {AAAI} 2020, New York, NY, USA, February 7-12, 2020",
     pages = "3801--3808",
     publisher = "{AAAI} Press",
     year = "2020",
