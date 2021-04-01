@@ -11,7 +11,7 @@ redirect_from:
 Since March 2021, I am Postdoctoral Research Assistant at the Dipartimento di Elettronica, Informazione e Bioingegneria 
 ([DEIB](https://www.deib.polimi.it/)), in the Artificial Intelligence and Robotic Laboratory ([AIRLab](http://airlab.deib.polimi.it/)) 
 of [Politecnico di Milano](https://www.polimi.it/). In March 2021, I received the  Ph.D. in Information Technology at Politecnico di 
-Milano (with honors), defending the dissertation "Exploiting Environment Configurability in Reinforcement Learning" ([Slides](https://albertometelli.github.io/files/slides_phd_thesis.pdf)),
+Milano (with honors), defending the dissertation "[Exploiting Environment Configurability in Reinforcement Learning](https://www.politesi.polimi.it/handle/10589/170616)" ([Slides](https://albertometelli.github.io/files/slides_phd_thesis.pdf)),
 under the supervision of Prof. [Marcello Restelli](http://home.deib.polimi.it/restelli/MyWebSite/index.shtml). 
 In July 2015, I obtained the Bachelor of Science in Computer Engineering at Politecnico di Milano (with honors) and in July 2017, 
 I received the Master of Science in Computer Science and Engineering at Politecnico di Milano (with honors), 
