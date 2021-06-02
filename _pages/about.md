@@ -33,6 +33,8 @@ Major Research topic
 In this research, we introduce a novel framework to model <i>Configurable Markov Decision Processes</i> (Conf-MDPs), i.e., MDPs that admit the possibility to alter some environmental parameters to a limited extent. At an intuitive level, there exists a tight connection between environment, policy and learning process. First, in some contexts, the agent is allowed to select the task to solve within a given set. In this case, it is beneficial to configure the environment in order to identify the MDP maximizing the performance of the optimal policy. Second, even when the task is fixed, it might be convenient to dynamically change the environment (eg., the reward function or the discount factor) in order to ease the learning process, speeding up convergence to the optimal policy. For both cases, we will start with the formulation of RL in the CMDP framework, we will derive learning algorithms capable of taking advantage of the environment configurability and study their theoretical properties. Then, we will compare our algorithms with the state-of-the-art methods, especially with reward shaping and intrinsically motivated learning, in some relevant application like vehicle configuration or teaching planning.
 -->
 
+<!--
 Reading Group RL POLIMI
 ---
 Together with [Giorgia Ramponi](https://gioramponi.github.io/), I co-organize the [Reading Group RL POLIMI](https://sites.google.com/view/rgrlpolimi/).
+-->
