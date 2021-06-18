@@ -15,7 +15,7 @@ bibtexfile: '/files/bibtex/metelli2021provably.bib'
     author = "Metelli, Alberto Maria and Ramponi, Giorgia and Concetti, Alessandro and Restelli, Marcello",
     title = "Provably Efficient Learning of Transferable Rewards",
     booktitle = "International Conference on Machine Learning, {ICML} 2021",
-    publisher = "",
+    publisher = "PMLR",
     year = "2021",
     note = "To appear"
 } </pre>
