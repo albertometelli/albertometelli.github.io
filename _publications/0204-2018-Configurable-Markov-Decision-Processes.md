@@ -1,7 +1,7 @@
 ---
 title: "Configurable Markov Decision Processes"
 collection: publ_workshops
-permalink: /publication/0020-2018-Configurable-Markov-Decision-Processes
+permalink: /publication/0204-2018-Configurable-Markov-Decision-Processes
 date: 2018-01-01
 venue: 'European Workshop on Reinforcement Learning 14 (EWRL 14)'
 paperurl: 'https://ewrl.files.wordpress.com/2018/09/ewrl_14_2018_paper_5.pdf'

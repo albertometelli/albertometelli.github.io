@@ -1,7 +1,7 @@
 ---
 title: "Gradient-Aware Model-based Policy Search"
 collection: publ_workshops
-permalink: /publication/0019-2019-Gradient-Aware-Model-based-Policy-Search
+permalink: /publication/0203-2019-Gradient-Aware-Model-based-Policy-Search
 date: 2019-01-01
 venue: 'Workshop on Meta-Learning (MetaLearn 2019) @NeurIPS 2019'
 pubtype: 'workshops'

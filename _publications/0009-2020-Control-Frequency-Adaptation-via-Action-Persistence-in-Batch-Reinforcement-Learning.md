@@ -1,7 +1,7 @@
 ---
 title: "Control Frequency Adaptation via Action Persistence in Batch Reinforcement Learning"
 collection: publ_conferences
-permalink: /publication/0010-2020-Control-Frequency-Adaptation-via-Action-Persistence-in-Batch-Reinforcement-Learning
+permalink: /publication/0009-2020-Control-Frequency-Adaptation-via-Action-Persistence-in-Batch-Reinforcement-Learning
 acceptance: 'Acceptance rate: 1088/4990 (21.8%)'
 date: 2020-01-01
 venue: 'Proceedings of the 37th International Conference on Machine Learning, ICML 2020, 13-18 July 2020, Virtual Event'

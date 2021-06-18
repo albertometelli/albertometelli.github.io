@@ -1,7 +1,7 @@
 ---
 title: "Gradient-Aware Model-Based Policy Search"
 collection: publ_conferences
-permalink: /publication/0008-2020-Gradient-Aware-Model-Based-Policy-Search
+permalink: /publication/0007-2020-Gradient-Aware-Model-Based-Policy-Search
 acceptance: 'Acceptance rate: 1591/7737 (20.6%)'
 date: 2020-01-01
 venue: 'The Thirty-Fourth AAAI Conference on Artificial Intelligence, AAAI 2020, New York, NY, USA, February 7-12, 2020'

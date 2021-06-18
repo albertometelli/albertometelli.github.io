@@ -1,7 +1,7 @@
 ---
 title: "Configurable Markov Decision Processes"
 collection: publ_conferences
-permalink: /publication/0003-2018-Configurable-Markov-Decision-Processes
+permalink: /publication/0002-2018-Configurable-Markov-Decision-Processes
 acceptance: 'Acceptance rate: 618/2473 (25.0%)'
 date: 2018-01-01
 venue: 'Proceedings of the 35th International Conference on Machine Learning, ICML 2018, Stockholmsm&quot;assan, Stockholm, Sweden, July 10-15, 2018'

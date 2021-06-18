@@ -1,7 +1,7 @@
 ---
 title: "Compatible Reward Inverse Reinforcement Learning"
 collection: publ_conferences
-permalink: /publication/0001-2017-Compatible-Reward-Inverse-Reinforcement-Learning
+permalink: /publication/0000-2017-Compatible-Reward-Inverse-Reinforcement-Learning
 acceptance: 'Acceptance rate: 678/3240 (20.9%)'
 date: 2017-01-01
 venue: 'Advances in Neural Information Processing Systems 30: Annual Conference on Neural Information Processing Systems 2017, 4-9 December 2017, Long Beach, CA, USA'

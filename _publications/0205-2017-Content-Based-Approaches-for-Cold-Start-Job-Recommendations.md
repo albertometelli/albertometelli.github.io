@@ -1,7 +1,7 @@
 ---
 title: "Content-Based Approaches for Cold-Start Job Recommendations"
 collection: publ_workshops
-permalink: /publication/0021-2017-Content-Based-Approaches-for-Cold-Start-Job-Recommendations
+permalink: /publication/0205-2017-Content-Based-Approaches-for-Cold-Start-Job-Recommendations
 date: 2017-01-01
 venue: 'Proceedings of the Recommender Systems Challenge 2017'
 paperurl: 'http://doi.acm.org/10.1145/3124791.3124793'

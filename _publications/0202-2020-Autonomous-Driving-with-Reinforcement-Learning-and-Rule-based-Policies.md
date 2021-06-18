@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Driving with Reinforcement Learning and Rule-based Policies"
 collection: publ_workshops
-permalink: /publication/0018-2020-Autonomous-Driving-with-Reinforcement-Learning-and-Rule-based-Policies
+permalink: /publication/0202-2020-Autonomous-Driving-with-Reinforcement-Learning-and-Rule-based-Policies
 date: 2020-01-01
 venue: 'Workshop on AI for Autonomous Driving (AIAD) @ICML 2020'
 paperurl: 'https://drive.google.com/file/d/1ASJa-pOgZ_Z78KTVjrTV1kqqtQ5-RP_w/view'

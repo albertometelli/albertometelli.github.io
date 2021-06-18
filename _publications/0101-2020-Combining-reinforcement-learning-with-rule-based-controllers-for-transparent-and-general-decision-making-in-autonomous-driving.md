@@ -1,7 +1,7 @@
 ---
 title: "Combining reinforcement learning with rule-based controllers for transparent and general decision-making in autonomous driving"
 collection: publ_journals
-permalink: /publication/0013-2020-Combining-reinforcement-learning-with-rule-based-controllers-for-transparent-and-general-decision-making-in-autonomous-driving
+permalink: /publication/0101-2020-Combining-reinforcement-learning-with-rule-based-controllers-for-transparent-and-general-decision-making-in-autonomous-driving
 date: 2020-01-01
 venue: 'Robotics and Autonomous Systems'
 paperurl: 'http://www.sciencedirect.com/science/article/pii/S0921889020304085'

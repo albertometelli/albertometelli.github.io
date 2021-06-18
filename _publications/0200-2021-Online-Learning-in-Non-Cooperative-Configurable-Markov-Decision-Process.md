@@ -1,7 +1,7 @@
 ---
 title: "Online Learning in Non-Cooperative Configurable Markov Decision Process"
 collection: publ_workshops
-permalink: /publication/0016-2021-Online-Learning-in-Non-Cooperative-Configurable-Markov-Decision-Process
+permalink: /publication/0200-2021-Online-Learning-in-Non-Cooperative-Configurable-Markov-Decision-Process
 date: 2021-01-01
 venue: 'AAAI-21 Workshop on Reinforcement Learning in Games'
 paperurl: 'http://aaai-rlg.mlanctot.info/papers/AAAI21-RLG_paper_7.pdf'

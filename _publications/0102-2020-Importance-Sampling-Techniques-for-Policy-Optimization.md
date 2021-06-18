@@ -1,7 +1,7 @@
 ---
 title: "Importance Sampling Techniques for Policy Optimization"
 collection: publ_journals
-permalink: /publication/0014-2020-Importance-Sampling-Techniques-for-Policy-Optimization
+permalink: /publication/0102-2020-Importance-Sampling-Techniques-for-Policy-Optimization
 date: 2020-01-01
 venue: 'Journal of Machine Learning Research'
 paperurl: 'http://jmlr.org/papers/v21/20-124.html'

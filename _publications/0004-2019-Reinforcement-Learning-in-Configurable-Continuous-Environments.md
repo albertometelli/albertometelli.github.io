@@ -1,7 +1,7 @@
 ---
 title: "Reinforcement Learning in Configurable Continuous Environments"
 collection: publ_conferences
-permalink: /publication/0005-2019-Reinforcement-Learning-in-Configurable-Continuous-Environments
+permalink: /publication/0004-2019-Reinforcement-Learning-in-Configurable-Continuous-Environments
 acceptance: 'Acceptance rate: 773/3424 (22.6%)'
 date: 2019-01-01
 venue: 'Proceedings of the 36th International Conference on Machine Learning, ICML 2019, 9-15 June 2019, Long Beach, California, USA'

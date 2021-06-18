@@ -1,7 +1,7 @@
 ---
 title: "Dealing with multiple experts and non-stationarity in inverse reinforcement learning: an application to real-life problems"
 collection: publ_journals
-permalink: /publication/0015-2021-Dealing-with-multiple-experts-and-non-stationarity-in-inverse-reinforcement-learning-an-application-to-real-life-problems
+permalink: /publication/0103-2021-Dealing-with-multiple-experts-and-non-stationarity-in-inverse-reinforcement-learning-an-application-to-real-life-problems
 date: 2021-03-14
 venue: 'Machine Learning'
 paperurl: 'https://doi.org/10.1007/s10994-020-05939-8'

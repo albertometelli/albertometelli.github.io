@@ -1,7 +1,7 @@
 ---
 title: "Handling Non-Stationary Experts in Inverse Reinforcement Learning: A Water System Control Case Study"
 collection: publ_workshops
-permalink: /publication/0017-2020-Handling-Non-Stationary-Experts-in-Inverse-Reinforcement-Learning-A-Water-System-Control-Case-Study
+permalink: /publication/0201-2020-Handling-Non-Stationary-Experts-in-Inverse-Reinforcement-Learning-A-Water-System-Control-Case-Study
 date: 2020-01-01
 venue: 'Challenges of Real-World RL Workshop @ NeurIPS 2020'
 paperurl: 'https://drive.google.com/file/d/1v3CiRlWtOVJZry15DQdxzeh98UoNAWbA/view'

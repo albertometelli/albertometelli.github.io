@@ -1,7 +1,7 @@
 ---
 title: "Truly Batch Model-Free Inverse Reinforcement Learning about Multiple Intentions"
 collection: publ_conferences
-permalink: /publication/0009-2020-Truly-Batch-Model-Free-Inverse-Reinforcement-Learning-about-Multiple-Intentions
+permalink: /publication/0008-2020-Truly-Batch-Model-Free-Inverse-Reinforcement-Learning-about-Multiple-Intentions
 date: 2020-01-01
 venue: 'Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics'
 paperurl: 'http://proceedings.mlr.press/v108/ramponi20a.html'

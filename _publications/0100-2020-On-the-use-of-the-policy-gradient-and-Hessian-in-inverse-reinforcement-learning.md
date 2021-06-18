@@ -1,7 +1,7 @@
 ---
 title: "On the use of the policy gradient and Hessian in inverse reinforcement learning"
 collection: publ_journals
-permalink: /publication/0012-2020-On-the-use-of-the-policy-gradient-and-Hessian-in-inverse-reinforcement-learning
+permalink: /publication/0100-2020-On-the-use-of-the-policy-gradient-and-Hessian-in-inverse-reinforcement-learning
 date: 2020-01-01
 venue: 'Intelligenza Artificiale'
 paperurl: 'https://doi.org/10.3233/IA-180011'

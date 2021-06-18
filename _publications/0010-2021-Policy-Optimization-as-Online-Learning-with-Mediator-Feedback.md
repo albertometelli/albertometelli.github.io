@@ -1,8 +1,7 @@
 ---
 title: "Policy Optimization as Online Learning with Mediator Feedback"
 collection: publ_conferences
-permalink: /publication/0011-2021-Policy-Optimization-as-Online-Learning-with-Mediator-Feedback
-note: 'To appear'
+permalink: /publication/0010-2021-Policy-Optimization-as-Online-Learning-with-Mediator-Feedback
 acceptance: 'Acceptance rate: 1692/7911 (21.4%)'
 date: 2021-01-01
 venue: 'The Thirty-Fifth AAAI Conference on Artificial Intelligence, AAAI 2021, Online'
@@ -22,6 +21,5 @@ Abstract
     booktitle = "The Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI} 2021, Online",
     publisher = "{AAAI} Press",
     year = "2021",
-    url = "https://arxiv.org/abs/2012.08225",
-    note = "To appear"
+    url = "https://arxiv.org/abs/2012.08225"
 } </pre>

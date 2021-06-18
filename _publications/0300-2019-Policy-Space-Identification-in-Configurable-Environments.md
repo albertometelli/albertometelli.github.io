@@ -1,7 +1,7 @@
 ---
 title: "Policy Space Identification in Configurable Environments"
 collection: publ_preparation
-permalink: /publication/0023-2019-Policy-Space-Identification-in-Configurable-Environments
+permalink: /publication/0300-2019-Policy-Space-Identification-in-Configurable-Environments
 date: 2019-01-01
 venue: 'CoRR'
 paperurl: 'http://arxiv.org/abs/1909.03984'

@@ -1,7 +1,7 @@
 ---
 title: "Feature Selection via Mutual Information: New Theoretical Insights"
 collection: publ_conferences
-permalink: /publication/0006-2019-Feature-Selection-via-Mutual-Information-New-Theoretical-Insights
+permalink: /publication/0005-2019-Feature-Selection-via-Mutual-Information-New-Theoretical-Insights
 date: 2019-01-01
 venue: 'International Joint Conference on Neural Networks, IJCNN 2019 Budapest, Hungary, July 14-19, 2019'
 paperurl: 'https://doi.org/10.1109/IJCNN.2019.8852410'

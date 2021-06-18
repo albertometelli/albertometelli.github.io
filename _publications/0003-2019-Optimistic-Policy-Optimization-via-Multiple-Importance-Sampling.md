@@ -1,7 +1,7 @@
 ---
 title: "Optimistic Policy Optimization via Multiple Importance Sampling"
 collection: publ_conferences
-permalink: /publication/0004-2019-Optimistic-Policy-Optimization-via-Multiple-Importance-Sampling
+permalink: /publication/0003-2019-Optimistic-Policy-Optimization-via-Multiple-Importance-Sampling
 acceptance: 'Acceptance rate: 773/3424 (22.6%)'
 date: 2019-01-01
 venue: 'Proceedings of the 36th International Conference on Machine Learning, ICML 2019, 9-15 June 2019, Long Beach, California, USA'

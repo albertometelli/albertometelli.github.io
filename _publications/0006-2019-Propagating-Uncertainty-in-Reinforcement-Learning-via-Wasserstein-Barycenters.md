@@ -1,7 +1,7 @@
 ---
 title: "Propagating Uncertainty in Reinforcement Learning via Wasserstein Barycenters"
 collection: publ_conferences
-permalink: /publication/0007-2019-Propagating-Uncertainty-in-Reinforcement-Learning-via-Wasserstein-Barycenters
+permalink: /publication/0006-2019-Propagating-Uncertainty-in-Reinforcement-Learning-via-Wasserstein-Barycenters
 acceptance: 'Acceptance rate: 428/6743 (21.2%)'
 date: 2019-01-01
 venue: 'Advances in Neural Information Processing Systems 32: Annual Conference on Neural Information Processing Systems 2019, NeurIPS 2019, 9-14 December 2019, Vancouver, Canada.'

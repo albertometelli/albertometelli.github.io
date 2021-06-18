@@ -1,7 +1,7 @@
 ---
 title: "Policy Optimization via Importance Sampling"
 collection: publ_conferences
-permalink: /publication/0002-2018-Policy-Optimization-via-Importance-Sampling
+permalink: /publication/0001-2018-Policy-Optimization-via-Importance-Sampling
 acceptance: 'Acceptance rate: 1011/4856 (20.8%), Oral: 30/4856 (0.62%)'
 date: 2018-01-01
 venue: 'Advances in Neural Information Processing Systems 31: Annual Conference on Neural Information Processing Systems 2018, NeurIPS 2018, 3-8 December 2018, Montr&apos;eal, Canada.'
