@@ -13,7 +13,7 @@ location: "Milan, Italy"
 Course website: [WeBeep](https://webeep.polimi.it/course/view.php?id=175) 
 
 2021/10/01 afternoon - 1 - FAI - Exercises on Uninformed Search
-[Link](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=e00e24b716bc2cf40c2a39d10261fdba)
+[[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=e00e24b716bc2cf40c2a39d10261fdba)
 
 2021/10/01 afternoon - 2 - FAI - Exercises on Uninformed Search
-[Link](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=a61a6bba01e42284b6c323c3b48fd8dc)
+[[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=a61a6bba01e42284b6c323c3b48fd8dc)
