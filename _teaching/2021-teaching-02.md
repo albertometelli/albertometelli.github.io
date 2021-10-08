@@ -17,3 +17,8 @@ Course website: [WeBeep](https://webeep.polimi.it/course/view.php?id=175)
 
 2021/10/01 afternoon - 2 - FAI - Exercises on Uninformed Search
 [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=a61a6bba01e42284b6c323c3b48fd8dc)
+
+2021/10/08 afternoon - FAI - Exercises on Informed Search
+[[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=be94a3fb78876265beb581892c05d10f)
+[[Slides]](https://albertometelli.github.io/files/2021-fai/FAI-10-08-2021.pdf)
+
