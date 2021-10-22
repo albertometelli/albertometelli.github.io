@@ -26,13 +26,13 @@ Some exercises shown during the exercise sessions [[PDF]](https://albertometelli
 [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=be94a3fb78876265beb581892c05d10f)
 [[Slides]](https://albertometelli.github.io/files/2021-fai/FAI-10-08-2021.pdf)
 
-2021/10/08 afternoon - FAI - Exercises on Adversarial Search
+2021/10/15 afternoon - FAI - Exercises on Adversarial Search
 [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=a4e8bc7816c96a9a3264ca4ddba5b78f)
 [[Slides]](https://albertometelli.github.io/files/2021-fai/FAI-10-15-2021.pdf)
 
-2021/10/08 afternoon - FAI - Exercises on Reinforcement Learning
+2021/10/22 afternoon - FAI - Exercises on Reinforcement Learning
 [[Link]]()
 [[Slides]](https://albertometelli.github.io/files/2021-fai/FAI-10-22-2021.pdf)
-[[Exercise on Q-Learning]](https://albertometelli.github.io/files/2021-fai/exercise_qlearning.pdf)
+[[Ex Q-Learning]](https://albertometelli.github.io/files/2021-fai/exercise_qlearning.pdf)
 
 **New! Fill the Student Feedback form** [[Link]](https://bit.ly/3C3fs5e)
