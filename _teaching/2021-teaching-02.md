@@ -10,8 +10,6 @@ when: "Academic year: 2021-2022, first semester"
 location: "Milan, Italy"
 ---
 
-**New! Fill the Student Feedback form** [[Link]](https://bit.ly/3C3fs5e)
-
 Course website: [[WeBeep]](https://webeep.polimi.it/course/view.php?id=175) 
 
 Personal Room: [[Webex]](https://politecnicomilano.webex.com/meet/albertomaria.metelli)
@@ -32,6 +30,4 @@ Some exercises shown during the exercise sessions [[PDF]](https://albertometelli
 [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=a4e8bc7816c96a9a3264ca4ddba5b78f)
 [[Slides]](https://albertometelli.github.io/files/2021-fai/FAI-10-15-2021.pdf)
 
-
-
-
+**New! Fill the Student Feedback form** [[Link]](https://bit.ly/3C3fs5e)
