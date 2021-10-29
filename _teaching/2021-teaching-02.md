@@ -35,4 +35,7 @@ Some exercises shown during the exercise sessions [[PDF]](https://albertometelli
 [[Slides]](https://albertometelli.github.io/files/2021-fai/FAI-10-22-2021.pdf)
 [[Ex Q-Learning]](https://albertometelli.github.io/files/2021-fai/exercise_qlearning.pdf)
 
+2021/10/22 afternoon - FAI - Exercises on CSP
+[[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=233a08c6a1ebfd4afee4e33997cf2572)
+
 **New! Fill the Student Feedback form** [[Link]](https://bit.ly/3C3fs5e)
