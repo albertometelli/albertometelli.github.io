@@ -39,4 +39,7 @@ Some exercises shown during the exercise sessions [[PDF]](https://albertometelli
 [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=233a08c6a1ebfd4afee4e33997cf2572)
 [[Slides]](https://albertometelli.github.io/files/2021-fai/FAI-10-29-2021.pdf)
 
+2021/12/11 afternoon - FAI - Exercises on Propositional Logic
+[[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=ffb6a6ace90e2fb66470feb4309be23b)
+
 **New! Fill the Student Feedback form** [[Link]](https://bit.ly/3C3fs5e)
