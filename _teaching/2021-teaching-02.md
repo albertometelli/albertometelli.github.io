@@ -42,4 +42,8 @@ Some exercises shown during the exercise sessions [[PDF]](https://albertometelli
 2021/12/11 afternoon - FAI - Exercises on Propositional Logic
 [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=ffb6a6ace90e2fb66470feb4309be23b)
 
+2021/11/19 afternoon - FAI - Exercises on STRIPS
+[[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=12a20ee6220bc8ae5593765ba78f7aff)
+[[Slides]](https://albertometelli.github.io/files/2021-fai/FAI-11-19-2021.pdf)
+
 **New! Fill the Student Feedback form** [[Link]](https://bit.ly/3C3fs5e)
