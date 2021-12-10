@@ -49,4 +49,7 @@ Some exercises shown during the exercise sessions [[PDF]](https://albertometelli
 2021/12/03 afternoon - FAI - Exercises from Past Exams
 [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=e57b9db7aeca379367353e9237b5f45d)
 
+2021/12/10 afternoon - FAI - Exercises from Past Exams
+[[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=7c5fb7d33e200ca95826b79e206dede7)
+
 **New! Fill the Student Feedback form** [[Link]](https://bit.ly/3C3fs5e)
