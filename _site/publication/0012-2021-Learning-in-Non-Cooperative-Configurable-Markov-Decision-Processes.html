@@ -1,0 +1,408 @@
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+
+<meta charset="utf-8">
+
+
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>Learning in Non-Cooperative Configurable Markov Decision Processes - Alberto Maria Metelli, Ph.D.</title>
+
+
+
+
+
+
+
+<meta property="og:locale" content="en-US">
+<meta property="og:site_name" content="Alberto Maria Metelli, Ph.D.">
+<meta property="og:title" content="Learning in Non-Cooperative Configurable Markov Decision Processes">
+
+
+  <link rel="canonical" href="https://albertometelli.github.io/publication/0012-2021-Learning-in-Non-Cooperative-Configurable-Markov-Decision-Processes">
+  <meta property="og:url" content="https://albertometelli.github.io/publication/0012-2021-Learning-in-Non-Cooperative-Configurable-Markov-Decision-Processes">
+
+
+
+  <meta property="og:description" content="Abstract  The Configurable Markov Decision Process framework includes two entities: a Reinforcement Learning agent and a configurator that can modify some environmental parameters to improve the agent&#39;s performance. This presupposes that the two actors have the same reward functions. What if the configurator does not have the same intentions as the agent? This paper introduces the Non-Cooperative Configurable Markov Decision Process, a setting that allows having two (possibly different) reward functions for the configurator and the agent. Then, we consider an online learning problem, where the configurator has to find the best among a finite set of possible configurations. We propose two learning algorithms to minimize the configurator&#39;s expected regret, which exploits the problem&#39;s structure, depending on the agent&#39;s feedback. While a naive application of the UCB algorithm yields a regret that grows indefinitely over time, we show that our approach suffers only bounded regret. Furthermore, we empirically show the performance of our algorithm in simulated domains. ">
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="2021-01-01T00:00:00+01:00">
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Alberto Maria Metelli",
+      "url" : "https://albertometelli.github.io",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="https://albertometelli.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Alberto Maria Metelli, Ph.D. Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="https://albertometelli.github.io/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+    
+
+<!-- start custom head snippets -->
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://albertometelli.github.io/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="60x60" href="https://albertometelli.github.io/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="72x72" href="https://albertometelli.github.io/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="76x76" href="https://albertometelli.github.io/images/apple-touch-icon-76x76.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="114x114" href="https://albertometelli.github.io/images/apple-touch-icon-114x114.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="120x120" href="https://albertometelli.github.io/images/apple-touch-icon-120x120.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="144x144" href="https://albertometelli.github.io/images/apple-touch-icon-144x144.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="152x152" href="https://albertometelli.github.io/images/apple-touch-icon-152x152.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="180x180" href="https://albertometelli.github.io/images/apple-touch-icon-180x180.png?v=M44lzPylqQ">
+<link rel="icon" type="image/png" href="https://albertometelli.github.io/images/favicon-32x32.png?v=M44lzPylqQ" sizes="32x32">
+<link rel="icon" type="image/png" href="https://albertometelli.github.io/images/android-chrome-192x192.png?v=M44lzPylqQ" sizes="192x192">
+<link rel="icon" type="image/png" href="https://albertometelli.github.io/images/favicon-96x96.png?v=M44lzPylqQ" sizes="96x96">
+<link rel="icon" type="image/png" href="https://albertometelli.github.io/images/favicon-16x16.png?v=M44lzPylqQ" sizes="16x16">
+<link rel="manifest" href="https://albertometelli.github.io/images/manifest.json?v=M44lzPylqQ">
+<link rel="mask-icon" href="https://albertometelli.github.io/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#000000">
+<link rel="shortcut icon" href="/images/favicon.ico?v=M44lzPylqQ">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileImage" content="https://albertometelli.github.io/images/mstile-144x144.png?v=M44lzPylqQ">
+<meta name="msapplication-config" content="https://albertometelli.github.io/images/browserconfig.xml?v=M44lzPylqQ">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="https://albertometelli.github.io/assets/css/academicons.css"/>
+
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="https://albertometelli.github.io/">Alberto Maria Metelli, Ph.D.</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://albertometelli.github.io/about/">About Me</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://albertometelli.github.io/news/">News</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://albertometelli.github.io/publications/">Publications</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://albertometelli.github.io/teaching/">Teaching</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://albertometelli.github.io/contacts/">Contacts</a></li>
+          
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+
+
+<div id="main" role="main">
+  
+
+
+  <div class="sidebar sticky">
+  
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+<div itemscope itemtype="http://schema.org/Person">
+
+  <div class="author__avatar">
+    
+    	<img src="https://albertometelli.github.io/images/profile3.png" class="author__avatar" alt="Alberto Maria Metelli">
+    
+  </div>
+
+  <div class="author__content">
+    <h3 class="author__name">Alberto Maria Metelli</h3>
+    <p class="author__bio">Postdoctoral Researcher at Politecnico di Milano</p>
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Milan, Italy</li>
+      
+      
+      
+      
+      
+        <li><a href="https://www.deib.polimi.it/eng/people/details/926910"><i class="fa fa-university"></i> Institutional Page</a></li>
+      
+      
+        <li><a href="https://www.linkedin.com/in/alberto-maria-metelli-01504214b"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+      
+      
+        <li><a href="https://twitter.com/alberto_metelli"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+      
+      
+        <li><a href="https://github.com/albertometelli"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        <li><a href="https://scholar.google.it/citations?user=R31IsPwAAAAJ&hl=en"><i class="ai ai-google-scholar ai"></i> Google Scholar</a></li>
+      
+      <!--
+      
+        <li><a href="https://www.researchgate.net/profile/Alberto_Maria_Metelli"><i class="ai ai-researchgate ai" aria-hidden="true"></i> ResearchGate</a></li>
+      
+      
+      
+        <li><a href="https://orcid.org/0000-0002-3424-5212"><i class="ai ai-orcid ai"></i> ORCID</a></li>
+      
+      
+      
+	  
+        <li><a href="https://dblp.org/pid/209/4941.html"><i class="ai ai-dblp ai"></i> dblp</a></li>
+      
+      
+        <li><a href="https://www.scopus.com/authid/detail.uri?authorId=57195947711"><i class="ai ai-scopus ai"></i> Scopus</a></li>
+      
+      -->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Learning in Non-Cooperative Configurable Markov Decision Processes">
+    <meta itemprop="description" content="Abstract  The Configurable Markov Decision Process framework includes two entities: a Reinforcement Learning agent and a configurator that can modify some environmental parameters to improve the agent&#39;s performance. This presupposes that the two actors have the same reward functions. What if the configurator does not have the same intentions as the agent? This paper introduces the Non-Cooperative Configurable Markov Decision Process, a setting that allows having two (possibly different) reward functions for the configurator and the agent. Then, we consider an online learning problem, where the configurator has to find the best among a finite set of possible configurations. We propose two learning algorithms to minimize the configurator&#39;s expected regret, which exploits the problem&#39;s structure, depending on the agent&#39;s feedback. While a naive application of the UCB algorithm yields a regret that grows indefinitely over time, we show that our approach suffers only bounded regret. Furthermore, we empirically show the performance of our algorithm in simulated domains. ">
+    <meta itemprop="datePublished" content="January 01, 2021">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">Learning in Non-Cooperative Configurable Markov Decision Processes
+</h1>
+          
+        
+        
+        
+			<p><b> Giorgia  Ramponi,  Alberto Maria Metelli,  Alessandro  Concetti, and  Marcello  Restelli</b></p> 
+		
+        
+        
+          <p><i>Advances in Neural Information Processing Systems 34 (NeurIPS)</i>, 2021.
+		  
+		  </p>
+          
+          <p>
+          
+			<b>Acceptance rate: 2344/9122 (25.7%)</b><br>
+          
+          
+          
+			<b>CORE 2021: A*</b>&emsp;&emsp;
+          
+          
+          
+          
+          
+			<b>GGS 2021: A++</b>
+          
+          </p>
+          
+          
+        
+        
+             
+        <!--
+          <p>Recommended citation:  Giorgia  Ramponi,  Alberto Maria Metelli,  Alessandro  Concetti, and  Marcello  Restelli&quot;Learning in Non-Cooperative Configurable Markov Decision Processes.&quot; Advances in Neural Information Processing Systems 34 (NeurIPS), 2021 <a href="https://proceedings.neurips.cc/paper/2021/hash/c0f52c6624ae1359e105c8a5d8cd956a-Abstract.html"><u>https://proceedings.neurips.cc/paper/2021/hash/c0f52c6624ae1359e105c8a5d8cd956a-Abstract.html</u></a></p>
+        -->
+    
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <p>Abstract
+ <br /> The Configurable Markov Decision Process framework includes two entities: a Reinforcement Learning agent and a configurator that can modify some environmental parameters to improve the agent's performance. This presupposes that the two actors have the same reward functions. What if the configurator does not have the same intentions as the agent? This paper introduces the Non-Cooperative Configurable Markov Decision Process, a setting that allows having two (possibly different) reward functions for the configurator and the agent. Then, we consider an online learning problem, where the configurator has to find the best among a finite set of possible configurations. We propose two learning algorithms to minimize the configurator's expected regret, which exploits the problem's structure, depending on the agent's feedback. While a naive application of the UCB algorithm yields a regret that grows indefinitely over time, we show that our approach suffers only bounded regret. Furthermore, we empirically show the performance of our algorithm in simulated domains. <br /></p>
+
+<p>[<a href="https://proceedings.neurips.cc/paper/2021/hash/c0f52c6624ae1359e105c8a5d8cd956a-Abstract.html" target="_blank">Link</a>] [<a href="https://albertometelli.github.io/files/poster_neurips2021conf.png" target="_blank">Poster</a>] [<a href="/files/bibtex/metelli2021learning.bib" target="_blank">BibTeX</a>]</p>
+<pre> @incollection{metelli2021learning,
+    author = "Ramponi, Giorgia and Metelli, Alberto Maria and Concetti, Alessandro and Restelli, Marcello",
+    title = "Learning in Non-Cooperative Configurable Markov Decision Processes",
+    booktitle = "Advances in Neural Information Processing Systems 34 (NeurIPS)",
+    year = "2021",
+    url = "https://proceedings.neurips.cc/paper/2021/hash/c0f52c6624ae1359e105c8a5d8cd956a-Abstract.html"
+} </pre>
+
+        
+      </section>
+      
+      <footer class="page__meta">
+        
+        
+
+
+
+
+      </footer>
+
+      
+
+      
+
+
+  <nav class="pagination">
+    
+      <a href="https://albertometelli.github.io/publication/0011-2021-Provably-Efficient-Learning-of-Transferable-Rewards" class="pagination--pager" title="Provably Efficient Learning of Transferable Rewards
+">Previous</a>
+    
+    
+      <a href="https://albertometelli.github.io/publication/0013-2021-Subgaussian-and-Differentiable-Importance-Sampling-for-Off-Policy-Evaluation-and-Learning" class="pagination--pager" title="Subgaussian and Differentiable Importance Sampling for Off-Policy Evaluation and Learning
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+<!--<a href="/sitemap/">Sitemap</a> -->
+<!-- end custom footer snippets -->
+
+        
+
+<div class="page__footer-copyright">&copy; 2022 Alberto Maria Metelli. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    <script src="https://albertometelli.github.io/assets/js/main.min.js"></script>
+
+
+
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+
+
+
+
+  </body>
+</html>
+

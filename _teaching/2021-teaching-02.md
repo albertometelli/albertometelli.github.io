@@ -1,5 +1,5 @@
 ---
-title: "Foundations of Artificial Intelligence (AA 2021-2022)"
+title: "Foundations of Artificial Intelligence"
 collection: teaching
 role: "Teaching Assistant"
 type: "B.Sc. and M.Sc. in Computer Science and Engineering, Prof: Francesco Amigoni and Pier Luca Lanzi"

@@ -1,5 +1,5 @@
 ---
-title: "Informatica A (AA 2017-2018)"
+title: "Informatica A"
 collection: teaching
 role: "Laboratory Teaching Assistant"
 type: "B.Sc. in Management Engineering, Prof: Florian Daniel"

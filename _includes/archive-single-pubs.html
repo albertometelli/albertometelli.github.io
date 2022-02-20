@@ -12,6 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -42,11 +43,16 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     
+		{% capture year %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endcapture %}
         {% if post.collection == 'publications' %}
-          {% if post.venue == '' %}
-			<br>{{ post.date | default: "1900-01-01" | date: "%Y" }}.
-          {% else %}
-			<br><i>{{ post.venue}}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.
+		  {% if year == "1900" %}
+			<br>
+		  {% else %}
+			  {% if post.venue == '' %}
+				<br>{{ year }}.
+			  {% else %}
+				<br><i>{{ post.venue}}</i>, {{ year }}.
+			  {% endif %}
           {% endif %}
           {% if post.note %}
 			<i>({{ post.note }})</i>

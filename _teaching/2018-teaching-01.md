@@ -1,5 +1,5 @@
 ---
-title: "Informatica (AA 2018-2019)"
+title: "Informatica"
 collection: teaching
 role: "Teaching Assistant and Laboratory Teaching Assistant"
 type: "B.Sc. in Environmental and Land Planning Engineering, Prof: Andrea Bonarini"

@@ -1,44 +1,47 @@
-@inproceedings{bianchi2017content,
- author = {Bianchi, Mattia and Cesaro, Federico and Ciceri, Filippo and Dagrada, Mattia and Gasparin, Alberto and Grattarola, Daniele and Inajjar, Ilyas and Metelli, Alberto Maria and Cella, Leonardo},
- title = {Content-Based Approaches for Cold-Start Job Recommendations},
- booktitle = {Proceedings of the Recommender Systems Challenge 2017},
- series = {RecSys Challenge '17},
- year = {2017},
- isbn = {978-1-4503-5391-5},
- location = {Como, Italy},
- pages = {6:1--6:5},
- articleno = {6},
- numpages = {5},
- url = {http://doi.acm.org/10.1145/3124791.3124793},
- doi = {10.1145/3124791.3124793},
- acmid = {3124793},
- publisher = {ACM},
- address = {New York, NY, USA},
- keywords = {ACM RecSys Challenge 2017, Cold-Start recommendations, Content-Based Filtering, Job recommendations, Recommendation Systems},
- abstract = {This paper provides an overview of the approach we adopted as team Lunatic Goats for the ACM RecSys Challenge 2017 [7]. The competition, organized by XING.com, focuses on a cold start job recommendation scenario. The goal was to design and tune a recommendation system able to predict past users’ interactions, for the offline stage, and to provide recommendations pushed every day to real users through the XING portal, for the online stage. Our strategy, which saw models coming from different techniques combined in a multi-layer ensemble, granted us the first place in the offline part and the qualification as second best team in the final leaderboard. All our algorithms mainly resort to content-based approaches, that, thanks to its ability to provide good recommendations even for cold-start items allowed us, quite unexpectedly, to achieve good results in terms of prediction quality and computational time.}
+@article{metelli2021optimalis,
+  author    = {Alberto Maria Metelli and Samuele Meta and Marcello Restelli},
+  title     = {Policy Optimization via Optimal Policy Evaluation},
+  journal = {Deep Reinforcement Learning Workshop - NeurIPS 2021},
+  year = {2021},
+  url = {https://openreview.net/forum?id=iseuu3iLqn},
+  abstract ={Off-policy methods are the basis of a large number of effective Policy Optimization (PO) algorithms. In this setting, Importance Sampling (IS) is typically employed as a what-if analysis tool, with the goal of estimating the performance of a target policy, given samples collected with a different behavioral policy. However, in Monte Carlo simulation, IS represents a variance minimization approach. In this field, a suitable behavioral distribution is employed for sampling, allowing diminishing the variance of the estimator below the one achievable when sampling from the target distribution. In this paper, we analyze IS in these two guises, showing the connections between the two objectives. We illustrate that variance minimization can be used as a performance improvement tool, with the advantage, compared with direct off-policy learning, of implicitly enforcing a trust region. We make use of these theoretical findings to build a PO algorithm, Policy Optimization via Optimal Policy Evaluation (PO2PE), that employs variance minimization as an inner loop. Finally, we present empirical evaluations on continuous RL benchmarks, with a particular focus on the robustness to small batch sizes.},
 }
 
-@article{metelli2018configurableWorkshop,
-  author    = {Alberto Maria Metelli and
-               Mirco Mutti and
-               Marcello Restelli},
-  title     = {Configurable Markov Decision Processes},
-  journal = {European Workshop on Reinforcement Learning 14 (EWRL 14)},
-  year = {2018},
-  abstract = {In many real-world problems, there is the possibility to configure, to a limited extent, some environmental parameters to improve the performance of a learning agent. In this paper, we propose a novel framework, Configurable Markov Decision Processes (Conf-MDPs), to model this new type of interaction with the environment. Furthermore, we provide a new learning algorithm, Safe Policy-Model Iteration (SPMI), to jointly and adaptively optimize the policy and the environment configuration. After having introduced our approach, we present the experimental evaluation in two explicative problems to show the benefits of the environment configurability on the performance of the learned policy.},
-  url       = {https://ewrl.files.wordpress.com/2018/09/ewrl_14_2018_paper_5.pdf},
+@article{metelli2021subgaussian,
+  author    = {Alberto Maria Metelli and Alessio Russo and Marcello Restelli},
+  title     = {Subgaussian Importance Sampling for Off-Policy Evaluation and Learning},
+  journal = {ICML-21 Workshop on Reinforcement Learning Theory},
+  year = {2021},
+  url = {https://lyang36.github.io/icml2021_rltheory/camera_ready/7.pdf},
+  abstract ={Importance Sampling (IS) is a widely used building block for a large variety of off-policy estimation and learning algorithms. However, empirical and theoretical studies have progressively shown that vanilla IS leads to poor estimations whenever the behavioral and target policies are too dissimilar. In this paper, we analyze the theoretical properties of the IS estimator by deriving a probabilistic deviation lower bound that formalizes the intuition behind its undesired behavior. Then, we propose a class of IS transformations, based on the notion of power mean, that are able, under certain circumstances, to achieve a subgaussian concentration rate. Differently from existing methods, like weight truncation, our estimator preserves the differentiability in the target distribution.},
 }
 
-@article{doro2019gradientWorkshop,
-  author    = {Pierluca D'Oro and
-               Alberto Maria Metelli and
-               Andrea Tirinzoni and
-               Matteo Papini and
-               Marcello Restelli},
-  title     = {Gradient-Aware Model-based Policy Search},
-  journal = {Workshop on Meta-Learning (MetaLearn 2019) @NeurIPS 2019},
-  abstract = {Traditional MBRL approaches learn a model of the environment dynamics without explicitly considering how it will be used by the agent. In the presence of misspecified model classes, this can lead to poor estimates, as some relevant information is ignored.  In this paper, we introduce a model-based policy search approach that, by meta-learning, exploits the knowledge of the current agent policy to learn an approximate transition model, focusing on the portions of the environment that are most relevant for policy improvement. We integrate gradient-aware model learning into a batch policy improvement algorithm, named Gradient-Aware Model-based Policy Search (GAMPS), which iteratively learns a transition model and uses it, together with the collected trajectories, to update the policy. Finally, we empirically validate GAMPS on benchmark domains analyzing and discussing its properties.},
-  year = {2019},
+@article{ramponi2021efficient,
+  author    = {Giorgia Ramponi* and Alberto Maria Metelli* and Marcello Restelli},
+  title     = {Efficient Inverse Reinforcement Learning of Transferable Rewards},
+  journal = {ICML-21 Workshop on Reinforcement Learning Theory},
+  year = {2021},
+  url = {https://lyang36.github.io/icml2021_rltheory/camera_ready/22.pdf},
+  abstract ={The reward function is widely accepted as a succinct, robust, and transferable representation of a task. Typical approaches, at the basis of Inverse Reinforcement Learning (IRL), leverage on expert demonstrations to recover a reward function. In this paper, we study the theoretical properties of the class of reward functions that are compatible with the expert’s behavior. We analyze how the limited knowledge of the expert’s policy and the environment affects the reward reconstruction phase. Then, we examine how the error propagates to the learned policy’s performance when transferring the reward function to a different environment. We employ these findings to devise a provably efficient active sampling approach, aware of the need for transferring the reward function, that can be paired with a large variety of IRL algorithms.},
+}
+
+@article{ramponi2021online,
+  author    = {Giorgia Ramponi and Alberto Maria Metelli and Alessandro Concetti and Marcello Restelli},
+  title     = {Online Learning in Non-Cooperative Configurable Markov Decision Process},
+  journal = {AAAI-21 Workshop on Reinforcement Learning in Games},
+  year = {2021},
+  url = {http://aaai-rlg.mlanctot.info/papers/AAAI21-RLG_paper_7.pdf},
+  abstract ={In the Configurable Markov Decision Processes there are two entities, a Reinforcement Learning agent and a configurator which can modify some parameters of the environment to improve the performance of the agent. What if the configurator does not have the same intentions as the agent? In this paper, we introduce the Non-Cooperative Configurable Markov Decision Process, a framework that allows having two (possibly different) reward functions for the configurator and for the agent. In this setting, we consider an online learning problem, where the configurator has to find the best among a finite set of possible configurations. We propose a learning algorithm to minimize the configurator expected regret, which exploits the structure of the problem. While a naïve application of the UCB algorithm yields a regret that grows indefinitely over time, we show that our approach suffers only bounded regret. Furthermore, we empirically show the performance of our algorithm in simulated domains.},
+}
+
+@article{likmeta2020handling,
+  author    = {Amarildo Likmeta and Alberto Maria Metelli and Giorgia Ramponi and Andrea Tirinzoni and Matteo Giuliani and Marcello Restelli},
+  title     = {Handling Non-Stationary Experts in Inverse Reinforcement Learning: A Water System Control Case Study},
+  journal = {Challenges of Real-World RL Workshop @ NeurIPS 2020},
+  year = {2020},
+  url = {https://drive.google.com/file/d/1v3CiRlWtOVJZry15DQdxzeh98UoNAWbA/view},
+  talk = {https://slideslive.com/38943284/handling-nonstationary-experts-in-inverse-reinforcement-learning-a-water-system-control-case-study},
+  abstract={One of the challenges for applying Reinforcement Learning (RL) in real-world scenarios is the absence of a formalized reward signal, especially in presence of multiple, possibly conflicting, objectives. However, observational data of many real systems are nowadays available, providing demonstrations from experts (e.g., human operators) that can be used in Inverse Reinforcement Learning (IRL) to formalize the observed task in an RL fashion. In this paper, we address the problem of inferring the preferences of the historical operation of Lake Como.In this case study, no interaction with the environment is allowed, and only a fixed dataset of demonstrations is available. Moreover, the expert is non-stationary since its intentions change during decades when exposed to changing external forces. For this reason, we propose an extension of the batch model-free algorithm Σ-GIRL to the non-stationary case. For the Lake Como scenario we provide formalization, experiments and a discussion to interpret the obtained results.},
 }
 
 @article{likmeta2020autonomous,
@@ -52,27 +55,47 @@
   abstract={The design of high-level decision-making systems is a topical problem in the field of autonomous driving. In this paper, we combine rule-based strategies and reinforcement learning (RL) with the goal of achieving transparency and robustness of the learned controllers while maintaining the generality of a policy learned by environment interaction. We combine the best properties of these two worlds by designing parametric rule-based controllers, in which interpretable rules can be provided by domain experts and their parameters are learned via RL. After illustrating how to apply parameter-based RL methods (PGPE), we present numerical simulations in the highway and in two urban scenarios: intersection and roundabout.}
 }
 
-@article{likmeta2020handling,
-  author    = {Amarildo Likmeta and Alberto Maria Metelli and Giorgia Ramponi and Andrea Tirinzoni and Matteo Giuliani and Marcello Restelli},
-  title     = {Handling Non-Stationary Experts in Inverse Reinforcement Learning: A Water System Control Case Study},
-  journal = {Challenges of Real-World RL Workshop @ NeurIPS 2020},
-  year = {2020},
-  url = {https://drive.google.com/file/d/1v3CiRlWtOVJZry15DQdxzeh98UoNAWbA/view},
-  talk = {https://slideslive.com/38943284/handling-nonstationary-experts-in-inverse-reinforcement-learning-a-water-system-control-case-study},
-  abstract={One of the challenges for applying Reinforcement Learning (RL) in real-world scenarios is the absence of a formalized reward signal, especially in presence of multiple, possibly conflicting, objectives. However, observational data of many real systems are nowadays available, providing demonstrations from experts (e.g., human operators) that can be used in Inverse Reinforcement Learning (IRL) to formalize the observed task in an RL fashion. In this paper, we address the problem of inferring the preferences of the historical operation of Lake Como.In this case study, no interaction with the environment is allowed, and only a fixed dataset of demonstrations is available. Moreover, the expert is non-stationary since its intentions change during decades when exposed to changing external forces. For this reason, we propose an extension of the batch model-free algorithm Σ-GIRL to the non-stationary case. For the Lake Como scenario we provide formalization, experiments and a discussion to interpret the obtained results.},
+@article{doro2019gradientWorkshop,
+  author    = {Pierluca D'Oro* and
+               Alberto Maria Metelli* and
+               Andrea Tirinzoni and
+               Matteo Papini and
+               Marcello Restelli},
+  title     = {Gradient-Aware Model-based Policy Search},
+  journal = {Workshop on Meta-Learning (MetaLearn 2019) @NeurIPS 2019},
+  abstract = {Traditional MBRL approaches learn a model of the environment dynamics without explicitly considering how it will be used by the agent. In the presence of misspecified model classes, this can lead to poor estimates, as some relevant information is ignored.  In this paper, we introduce a model-based policy search approach that, by meta-learning, exploits the knowledge of the current agent policy to learn an approximate transition model, focusing on the portions of the environment that are most relevant for policy improvement. We integrate gradient-aware model learning into a batch policy improvement algorithm, named Gradient-Aware Model-based Policy Search (GAMPS), which iteratively learns a transition model and uses it, together with the collected trajectories, to update the policy. Finally, we empirically validate GAMPS on benchmark domains analyzing and discussing its properties.},
+  year = {2019},
+  url={http://metalearning.ml/2019/papers/metalearn2019-doro.pdf},
 }
 
-@article{ramponi2021online,
-  author    = {Giorgia Ramponi and Alberto Maria Metelli and Alessandro Concetti and Marcello Restelli},
-  title     = {Online Learning in Non-Cooperative Configurable Markov Decision Process},
-  journal = {AAAI-21 Workshop on Reinforcement Learning in Games},
-  year = {2021},
-  url = {http://aaai-rlg.mlanctot.info/papers/AAAI21-RLG_paper_7.pdf},
-  abstract ={In the Configurable Markov Decision Processes there are two entities, a Reinforcement Learning agent and a configurator which can modify some parameters of the environment to improve the performance of the agent. What if the configurator does not have the same intentions as the agent? In this paper, we introduce the Non-Cooperative Configurable Markov Decision Process, a framework that allows having two (possibly different) reward functions for the configurator and for the agent. In this setting, we consider an online learning problem, where the configurator has to find the best among a finite set of possible configurations. We propose a learning algorithm to minimize the configurator expected regret, which exploits the structure of the problem. While a naïve application of the UCB algorithm yields a regret that grows indefinitely over time, we show that our approach suffers only bounded regret. Furthermore, we empirically show the performance of our algorithm in simulated domains.},
-  
+@article{metelli2018configurableWorkshop,
+  author    = {Alberto Maria Metelli* and
+               Mirco Mutti* and
+               Marcello Restelli},
+  title     = {Configurable Markov Decision Processes},
+  journal = {European Workshop on Reinforcement Learning 14 (EWRL 14)},
+  year = {2018},
+  abstract = {In many real-world problems, there is the possibility to configure, to a limited extent, some environmental parameters to improve the performance of a learning agent. In this paper, we propose a novel framework, Configurable Markov Decision Processes (Conf-MDPs), to model this new type of interaction with the environment. Furthermore, we provide a new learning algorithm, Safe Policy-Model Iteration (SPMI), to jointly and adaptively optimize the policy and the environment configuration. After having introduced our approach, we present the experimental evaluation in two explicative problems to show the benefits of the environment configurability on the performance of the learned policy.},
+  url       = {https://ewrl.files.wordpress.com/2018/09/ewrl_14_2018_paper_5.pdf},
 }
 
-
+@inproceedings{bianchi2017content,
+ author = {Bianchi, Mattia and Cesaro, Federico and Ciceri, Filippo and Dagrada, Mattia and Gasparin, Alberto and Grattarola, Daniele and Inajjar, Ilyas and Metelli, Alberto Maria and Cella, Leonardo},
+ title = {Content-Based Approaches for Cold-Start Job Recommendations},
+ booktitle = {Proceedings of the Recommender Systems Challenge 2017},
+ series = {RecSys Challenge '17},
+ year = {2017},
+ isbn = {978-1-4503-5391-5},
+ pages = {6:1--6:5},
+ articleno = {6},
+ numpages = {5},
+ url = {http://doi.acm.org/10.1145/3124791.3124793},
+ doi = {10.1145/3124791.3124793},
+ acmid = {3124793},
+ publisher = {ACM},
+ keywords = {ACM RecSys Challenge 2017, Cold-Start recommendations, Content-Based Filtering, Job recommendations, Recommendation Systems},
+ abstract = {This paper provides an overview of the approach we adopted as team Lunatic Goats for the ACM RecSys Challenge 2017 [7]. The competition, organized by XING.com, focuses on a cold start job recommendation scenario. The goal was to design and tune a recommendation system able to predict past users’ interactions, for the offline stage, and to provide recommendations pushed every day to real users through the XING portal, for the online stage. Our strategy, which saw models coming from different techniques combined in a multi-layer ensemble, granted us the first place in the offline part and the qualification as second best team in the final leaderboard. All our algorithms mainly resort to content-based approaches, that, thanks to its ability to provide good recommendations even for cold-start items allowed us, quite unexpectedly, to achieve good results in terms of prediction quality and computational time.}
+}
 
 
 
