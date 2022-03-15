@@ -25,9 +25,6 @@ My main research interests revolve around Artificial Intelligence and Machine Le
 in configurable environments, off-policy reinforcement learning, and inverse reinforcement learning. I am also interested in algorithms, optimization, statistics, probability, and recommendation systems.
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are excited to announce the 15th European Workshop on Reinforcement Learning <a href="https://twitter.com/hashtag/EWRL2022?src=hash&amp;ref_src=twsrc%5Etfw">#EWRL2022</a> that will be a physical event hosted by <a href="https://twitter.com/polimi?ref_src=twsrc%5Etfw">@polimi</a> on 19-21 September in Milan! The <a href="https://twitter.com/hashtag/CFP?src=hash&amp;ref_src=twsrc%5Etfw">#CFP</a> is finally out at <a href="https://t.co/rnRO23FuUy">https://t.co/rnRO23FuUy</a>. Join us to discuss the latest advancements in <a href="https://twitter.com/hashtag/RL?src=hash&amp;ref_src=twsrc%5Etfw">#RL</a>!</p>&mdash; Alberto Maria Metelli (@alberto_metelli) <a href="https://twitter.com/alberto_metelli/status/1503409848884645890?ref_src=twsrc%5Etfw">March 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 Technology Transfer
 ---
 I am co-founder of [ML cube S.r.l.](https://www.mlcube.com/), a Politecnico di Milano <b>spin-off innovative startup</b>, part of Kayrhos Group, providing cutting-edge solutions 
