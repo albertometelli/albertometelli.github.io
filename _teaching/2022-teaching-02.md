@@ -10,7 +10,7 @@ when: "Academic year: 2022-2023, first semester"
 location: "Milan, Italy"
 ---
 
-<h2>New! Fill the Student Feedback form</h2> [[Link]](https://forms.gle/FjaqCA5URPRmRuVT9)
+<b>New! Fill the Student Feedback form</b> [[Link]](https://forms.gle/FjaqCA5URPRmRuVT9)
 
 Course website: [[WeBeep - Amigoni]](https://webeep.polimi.it/course/view.php?id=7914) [[WeBeep - Lanzi]](https://webeep.polimi.it/course/view.php?id=7113) 
 
