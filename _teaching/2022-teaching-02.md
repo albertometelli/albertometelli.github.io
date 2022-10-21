@@ -26,3 +26,11 @@ FAI - Informed Search - 14-10-2022 - Morning [[Link]](https://politecnicomilano.
 
 FAI - Informed Search - 14-10-2022 - Afternoon [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=027611c8dea5bd26f31865890135af0a)
 
+FAI - Adversarial Search - 17-10-2022 [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=86532474caa45fad3b15d9a269ef8fa9)
+
+FAI - Adversarial Search - 18-10-2022 [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=f06638304d6d91338b8118676f24cb8c)
+
+FAI - Reinforcement Learning - 21-10-2022 - Morning [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=cbc2564e6d1be49ed68524a6658033bf) [[Slides]](https://albertometelli.github.io/files/2022-fai/FAI_ExAdvSearch.pdf) [[Ex Q-Learning]](https://albertometelli.github.io/files/2022-fai/exercise_qlearning.pdf) 
+
+FAI - Reinforcement Learning - 21-10-2022 - Afternoon [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=d1e26ef8dd59207e41891f207f39ccec) [[Slides]](https://albertometelli.github.io/files/2022-fai/FAI_ExAdvSearch.pdf) [[Ex Q-Learning]](https://albertometelli.github.io/files/2022-fai/exercise_qlearning.pdf)
+
