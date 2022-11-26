@@ -3,7 +3,7 @@ title: "Tight Performance Guarantees of Imitator Policies with Continuous Action
 collection: publ_conferences
 permalink: /publication/0021-2023-Tight-Performance-Guarantees-of-Imitator-Policies-with-Continuous-Actions
 note: 'To appear'
-acceptance: 'Acceptance rate: 1721/8777 (19.6%)'
+acceptance: 'Acceptance rate: 19.6%'
 rankCORE: 'CORE 2021: A*'
 rankGGS: 'GGS 2021: A++'
 date: 2023-01-01
