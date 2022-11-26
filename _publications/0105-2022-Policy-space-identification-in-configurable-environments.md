@@ -1,15 +1,15 @@
 ---
-title: "Policy Space Identification in Configurable Environments"
+title: "Policy space identification in configurable environments"
 collection: publ_journals
-permalink: /publication/0105-2021-Policy-Space-Identification-in-Configurable-Environments
+permalink: /publication/0105-2022-Policy-space-identification-in-configurable-environments
 rankCORE: 'CORE 2020: A'
 rankSJR: 'SJR 2020: Q1'
-date: 2021-01-01
+date: 2022-01-01
 venue: 'Machine Learning'
 paperurl: 'https://doi.org/10.1007/s10994-021-06033-3'
 pubtype: 'journals'
 authors: ' Alberto Maria Metelli,  Guglielmo  Manneschi, and  Marcello  Restelli'
-citation: ' Alberto Maria Metelli,  Guglielmo  Manneschi, and  Marcello  Restelli&quot;Policy Space Identification in Configurable Environments.&quot; Machine Learning, 2021'
+citation: ' Alberto Maria Metelli,  Guglielmo  Manneschi, and  Marcello  Restelli&quot;Policy space identification in configurable environments.&quot; Machine Learning, 2022'
 bibtexfile: '/files/bibtex/metelli2019policy.bib'
 ---
 Abstract
@@ -18,10 +18,12 @@ Abstract
  [[Link](https://doi.org/10.1007/s10994-021-06033-3){:target="_blank"}] [[Slides](https://albertometelli.github.io/files/slides_ecml2021.pdf){:target="_blank"}] [[BibTeX](/files/bibtex/metelli2019policy.bib){:target="_blank"}] 
 <pre> @article{metelli2019policy,
     author = "Metelli, Alberto Maria and Manneschi, Guglielmo and Restelli, Marcello",
-    title = "Policy Space Identification in Configurable Environments",
+    title = "Policy space identification in configurable environments",
     journal = "Machine Learning",
-    year = "2021",
+    volume = "111",
+    number = "6",
+    pages = "2093--2145",
+    year = "2022",
     url = "https://doi.org/10.1007/s10994-021-06033-3",
-    doi = "https://doi.org/10.1007/s10994-021-06033-3",
-    pages = "1-53"
+    doi = "10.1007/s10994-021-06033-3"
 } </pre>
