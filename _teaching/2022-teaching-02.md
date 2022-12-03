@@ -40,3 +40,6 @@ FAI - Constraint Satisfaction Problems - 11-11-2022 - Afternoon [[Link]](https:/
 
 <b>A clarification about the properties of AC-3</b>: If AC-3 terminates with the domain of at least one variable <b>empty</b>, then the CSP has <b>no solution</b>; otherwise, the CSP <b>might have a solution</b>, but we are not guaranteed.
 
+FAI - Propositional Logic - 02-12-2022 - Morning [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=5e601108305e2e81c9fa785616c28ce6) [[Slides]](https://albertometelli.github.io/files/2022-fai/FAI-consistency.pdf)
+
+FAI - Propositional Logic - 02-12-2022 - Afternoon [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=1da3b9c592b8815ef669a6cf2989c86a) [[Slides]](https://albertometelli.github.io/files/2022-fai/FAI-consistency.pdf)
