@@ -43,3 +43,7 @@ FAI - Constraint Satisfaction Problems - 11-11-2022 - Afternoon [[Link]](https:/
 FAI - Propositional Logic - 02-12-2022 - Morning [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=5e601108305e2e81c9fa785616c28ce6) [[Slides]](https://albertometelli.github.io/files/2022-fai/FAI-consistency.pdf)
 
 FAI - Propositional Logic - 02-12-2022 - Afternoon [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=1da3b9c592b8815ef669a6cf2989c86a) [[Slides]](https://albertometelli.github.io/files/2022-fai/FAI-consistency.pdf)
+
+FAI - Classical Planning - 16-12-2022 - Morning [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=2e8ab2f3262117ac6bbd4dd78e0cc61a)
+
+FAI - Classical Planning - 16-12-2022 - Afternoon [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=50bcdf8f7be4252e3c5e0e46836c0a5d)
