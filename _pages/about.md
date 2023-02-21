@@ -25,6 +25,13 @@ My main research interests revolve around Artificial Intelligence and Machine Le
 in configurable environments, off-policy reinforcement learning, and inverse reinforcement learning. I am also interested in algorithms, optimization, statistics, probability, and recommendation systems.
 
 
+Theses Proposals - Spring 2023
+---
+Presentation: <b>23 February 2023 - 4.30pm - Room 2.1.2</b>
+[[Link]](https://polimi365-my.sharepoint.com/:w:/g/personal/10433984_polimi_it/EQfYogCryZBCpn3mzPYHyuoB_d4UbcdZocLPAqpBXmZYDQ?e=yaLxKH)
+
+
+
 Technology Transfer
 ---
 I am co-founder of [ML cube S.r.l.](https://www.mlcube.com/), a Politecnico di Milano <b>spin-off innovative startup</b>, part of Kayrhos Group, providing cutting-edge solutions 
