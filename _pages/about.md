@@ -28,7 +28,9 @@ in configurable environments, off-policy reinforcement learning, and inverse rei
 Theses Proposals - Spring 2023
 ---
 Presentation: <b>23 February 2023 - 4.30pm - Room 2.1.2</b><br>
-List of proposed theses: [[Link]](https://polimi365-my.sharepoint.com/:w:/g/personal/10433984_polimi_it/EQfYogCryZBCpn3mzPYHyuoB_d4UbcdZocLPAqpBXmZYDQ?e=yaLxKH)
+List of proposed theses: [[Link]](https://polimi365-my.sharepoint.com/:w:/g/personal/10433984_polimi_it/EQfYogCryZBCpn3mzPYHyuoB_d4UbcdZocLPAqpBXmZYDQ?e=yaLxKH)<br>
+Slides: [[Link]](https://www.dropbox.com/s/6gkgpnksy3twxa5/thesis%20proposals%202023%20-%20first%20call.pdf?dl=0)<br>
+Registration: [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=2993764158862ee06d1fba61d9805b3a)<br>
 
 
 
