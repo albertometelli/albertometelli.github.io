@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ---
-Since March 2021, I am Postdoctoral Researcher at the Dipartimento di Elettronica, Informazione e Bioingegneria 
+Since March 2021, I am an Assistant Professor with the Dipartimento di Elettronica, Informazione e Bioingegneria 
 ([DEIB](https://www.deib.polimi.it/)), in the Artificial Intelligence and Robotic Laboratory ([AIRLab](http://airlab.deib.polimi.it/)) 
 of [Politecnico di Milano](https://www.polimi.it/). In March 2021, I received the  Ph.D. in Information Technology at Politecnico di 
 Milano (with honors), defending the dissertation "[Exploiting Environment Configurability in Reinforcement Learning](https://www.politesi.polimi.it/handle/10589/170616)",
