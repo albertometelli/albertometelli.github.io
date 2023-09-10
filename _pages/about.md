@@ -25,12 +25,12 @@ My main research interests revolve around Artificial Intelligence and Machine Le
 in configurable environments, off-policy reinforcement learning, and inverse reinforcement learning. I am also interested in algorithms, optimization, statistics, probability, and recommendation systems.
 
 
-Theses Proposals - Spring 2023
+Theses Proposals - Fall 2023
 ---
-Presentation: <b>23 February 2023 - 4.30pm - Room 2.1.2</b><br>
-List of proposed theses: [[Link]](https://polimi365-my.sharepoint.com/:w:/g/personal/10433984_polimi_it/EQfYogCryZBCpn3mzPYHyuoB_d4UbcdZocLPAqpBXmZYDQ?e=yaLxKH)<br>
-Slides: [[Link]](https://www.dropbox.com/s/6gkgpnksy3twxa5/thesis%20proposals%202023%20-%20first%20call.pdf?dl=0)<br>
-Registration: [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=2993764158862ee06d1fba61d9805b3a)<br>
+List of proposed theses: [[Link]](https://rl.airlab.deib.polimi.it/wp-content/uploads/2023/09/Thesis-proposals-Fall-2023.pdf)<br>
+Slides: [[Link]](https://rl.airlab.deib.polimi.it/wp-content/uploads/2023/09/slides.pdf)<br>
+Registration: [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=bd33a5fe6896a6ba418f8b9850ce3bd5)<br>
+Apply here: [[Link]](https://docs.google.com/forms/d/e/1FAIpQLScixoApzSl5E20yjl9L3CoYrjZGb26qnnF1t0KSJrDXiKjw0g/viewform)
 
 
 
