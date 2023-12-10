@@ -39,6 +39,7 @@ Technology Transfer
 I am co-founder of [ML cube S.r.l.](https://www.mlcube.com/), a Politecnico di Milano <b>spin-off innovative startup</b>, part of Kayrhos Group
 * [ML cube Platform](https://www.mlcube.com/platform/) - B2B platform analyzes data and models, providing insights and alerts while connecting AI performance to Business KPIs for informed decisions
 <br>[![ML cube](/images/ml_cube.png){: width="300" .align-right}](https://www.mlcube.com/platform/)
+<br>
 * [AD cube](https://adcube.ai/) -  AI platform for the optimization of multi-channel advertising campaigns
 <br>[![AD cube](/images/adcube.png){: width="300" .align-right}](https://adcube.ai/)
 
