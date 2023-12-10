@@ -1,5 +1,5 @@
 ---
-title: "Foundations of Artificial Intelligence"
+title: "Reinforcement Learning"
 collection: teaching
 role: "Lecturer and co-coordinator"
 type: "Ph.D. in Information Technology and M.Sc. in Computer Science and Engineering, Co-lecturer: Prof. Marcello Restelli"
