@@ -33,16 +33,19 @@ author_profile: true
 -->
 
 <h2>Books</h2>
+{% assign count = 0 %}
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'book' %}
+{{ amount | plus:1 }}
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}
 
 <h2>Book Chapters</h2>
+{% assign count = 0 %}
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'bookchapter' %}
-X
+{{ amount | plus:1 }}
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}
@@ -50,7 +53,6 @@ X
 <h2>International Journal Articles</h2>
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'journals' %}
-J
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}
