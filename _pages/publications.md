@@ -23,6 +23,8 @@ author_profile: true
 
 
 
+<p style="background-color:tomato;">This is a paragraph.</p>
+
 
 
 <h2>Book Chapters</h2>
