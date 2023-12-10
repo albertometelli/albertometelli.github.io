@@ -41,25 +41,25 @@
 			<br>
 		  {% else %}
 			  {% if post.venue == '' %}
-				<br>{{ year }}.
+				{{ year }}.
 			  {% else %}
-				<br><b>{{ post.venue}}</b>, {{ year }}.
+				<b>{{ post.venue}}</b>, {{ year }}.
 			  {% endif %}
           {% endif %}
           {% if post.note %}
-			<i>({{ post.note }})</i>
+			<i>({{ post.note }})</i>.
           {% endif %}
           {% if post.acceptance %}
 			<b>{{ post.acceptance }}</b>.
           {% endif %}
           {% if post.rankCORE %}
-			<b>{{ post.rankCORE }}</b>.
+			{{ post.rankCORE }}.
           {% endif %}
           {% if post.rankGGS %}
-			<b>{{ post.rankGGS }}</b>.
+			{{ post.rankGGS }}.
           {% endif %}
           {% if post.rankSJR %}
-			<b>{{ post.rankSJR }}</b>
+			{{ post.rankSJR }}.
           {% endif %}
           {% if post.bibtexfile %}
 		[<a href="{{ post.bibtexfile }}">BibTeX</a>]

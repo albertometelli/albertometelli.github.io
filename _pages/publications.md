@@ -42,6 +42,7 @@ author_profile: true
 <h2>Book Chapters</h2>
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'bookchapter' %}
+X
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}
@@ -49,6 +50,7 @@ author_profile: true
 <h2>International Journal Articles</h2>
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'journals' %}
+J
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}
