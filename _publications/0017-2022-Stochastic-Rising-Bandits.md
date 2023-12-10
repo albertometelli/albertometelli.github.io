@@ -19,5 +19,8 @@ bibtexfile: '/files/bibtex/metelli2022stochastic.bib'
     title = "Stochastic Rising Bandits",
     booktitle = "Proceedings of the 39th International Conference on Machine Learning ({ICML})",
     year = "2022",
+    volume = "162",
+    pages = "15421--15457",
+    publisher = "{PMLR}",
     url = "https://proceedings.mlr.press/v162/metelli22a.html"
 } </pre>

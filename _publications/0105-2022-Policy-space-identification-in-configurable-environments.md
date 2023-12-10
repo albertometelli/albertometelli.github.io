@@ -3,7 +3,7 @@ title: "Policy space identification in configurable environments"
 collection: publ_journals
 permalink: /publication/0105-2022-Policy-space-identification-in-configurable-environments
 rankCORE: 'CORE 2020: A'
-rankSJR: 'SJR 2020: Q1'
+rankSJR: 'SJR 2022: Q1'
 date: 2022-01-01
 venue: 'Machine Learning'
 paperurl: 'https://doi.org/10.1007/s10994-021-06033-3'

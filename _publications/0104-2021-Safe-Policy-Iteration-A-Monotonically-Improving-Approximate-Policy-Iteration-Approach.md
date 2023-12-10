@@ -3,7 +3,7 @@ title: "Safe Policy Iteration: A Monotonically Improving Approximate Policy Iter
 collection: publ_journals
 permalink: /publication/0104-2021-Safe-Policy-Iteration-A-Monotonically-Improving-Approximate-Policy-Iteration-Approach
 rankCORE: 'CORE 2020: A*'
-rankSJR: 'SJR 2020: Q1'
+rankSJR: 'SJR 2021: Q1'
 date: 2021-01-01
 venue: 'Journal of Machine Learning Research'
 paperurl: 'http://jmlr.org/papers/v22/19-707.html'

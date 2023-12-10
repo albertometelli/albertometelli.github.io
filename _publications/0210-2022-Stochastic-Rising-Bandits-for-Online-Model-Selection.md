@@ -9,7 +9,7 @@ authors: ' Alberto Maria Metelli,  Matteo  Pirola,  Francesco  Trovò, and  Marc
 citation: ' Alberto Maria Metelli,  Matteo  Pirola,  Francesco  Trovò, and  Marcello  Restelli&quot;Stochastic Rising Bandits for Online Model Selection.&quot; Complex Feedback in Online Learning Workshop @ ICML 2022, 2022'
 bibtexfile: '/files/bibtex/metelli2022stochasticWS.bib'
 ---[[BibTeX](/files/bibtex/metelli2022stochasticWS.bib){:target="_blank"}] 
-<pre> @incollection{metelli2022stochasticWS,
+<pre> @article{metelli2022stochasticWS,
     author = "Metelli, Alberto Maria and Pirola, Matteo and Trovò, Francesco and Restelli, Marcello",
     title = "Stochastic Rising Bandits for Online Model Selection",
     journal = "Complex Feedback in Online Learning Workshop @ ICML 2022",

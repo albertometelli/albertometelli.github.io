@@ -3,7 +3,7 @@ title: "Combining reinforcement learning with rule-based controllers for transpa
 collection: publ_journals
 permalink: /publication/0101-2020-Combining-reinforcement-learning-with-rule-based-controllers-for-transparent-and-general-decision-making-in-autonomous-driving
 rankCORE: 'CORE 2020: B'
-rankSJR: 'SJR 2020: Q1'
+rankSJR: 'SJR 2020: Q1 (Computer Science Applications)'
 date: 2020-01-01
 venue: 'Robotics and Autonomous Systems'
 paperurl: 'https://doi.org/10.1016/j.robot.2020.103568'

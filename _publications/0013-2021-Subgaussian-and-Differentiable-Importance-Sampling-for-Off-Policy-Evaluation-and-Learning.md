@@ -22,5 +22,6 @@ Abstract
     title = "Subgaussian and Differentiable Importance Sampling for Off-Policy Evaluation and Learning",
     booktitle = "Advances in Neural Information Processing Systems 34 (NeurIPS)",
     year = "2021",
+    pages = "8119--8132",
     url = "https://proceedings.neurips.cc/paper/2021/hash/4476b929e30dd0c4e8bdbcc82c6ba23a-Abstract.html"
 } </pre>

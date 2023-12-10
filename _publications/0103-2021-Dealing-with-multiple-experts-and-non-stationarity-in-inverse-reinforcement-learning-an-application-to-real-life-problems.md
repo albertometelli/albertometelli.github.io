@@ -3,7 +3,7 @@ title: "Dealing with multiple experts and non-stationarity in inverse reinforcem
 collection: publ_journals
 permalink: /publication/0103-2021-Dealing-with-multiple-experts-and-non-stationarity-in-inverse-reinforcement-learning-an-application-to-real-life-problems
 rankCORE: 'CORE 2020: A'
-rankSJR: 'SJR 2020: Q1'
+rankSJR: 'SJR 2021: Q1'
 date: 2021-01-01
 venue: 'Machine Learning'
 paperurl: 'https://doi.org/10.1007/s10994-020-05939-8'
