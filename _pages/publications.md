@@ -33,11 +33,15 @@ author_profile: true
 -->
 
 <h2>Books</h2>
+<ol>
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'book' %}
+<li>
 {% include archive-single-pubs.html %}
+</li>
 {% endif %}
 {% endfor %}
+</ol> 
 
 <h2>Book Chapters</h2>
 {% for post in site.publications reversed %}
