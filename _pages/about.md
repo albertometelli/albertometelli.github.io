@@ -78,4 +78,4 @@ Research Projects
 * 2023-2027: [AI4REALNET](https://www.linkedin.com/company/ai4realnet-project) - AI for REAL-world NETwork operation (HORIZON EUROPE)
 * 2023-2028: iBeCHANGE - Addressing psychosocial and lifestyle risk factors to promote primary cancer prevention: an integrated platform to promote behavioural change (HORIZON RIA)
 * 2023-2026: [FAIR](https://future-ai-research.it/) - Future Artificial Intelligence Research - Spoke 4: Adaptive AI (PNRR Extended Partnership)
-* 2021-2025: [CLINT](https://climateintelligence.eu/) - CLImate INTelligence (HORIZON 2020)
+* 2021-2025: [CLINT](https://climateintelligence.eu/) - CLImate INTelligence: Extreme events detection, attribution and adaptation design using machine learning (HORIZON 2020)
