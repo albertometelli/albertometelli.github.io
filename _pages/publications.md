@@ -21,19 +21,18 @@ author_profile: true
 &emsp;[<i class="ai ai-semantic-scholar ai-1x"></i>]({{ author.semantic-scholar }}){:target="_blank"}{:rel="noopener noreferrer"}&nbsp;[Semantic Scholar]({{ author.semantic-scholar }}){:target="_blank"}{:rel="noopener noreferrer"}
 &emsp;[<i class="ai ai-publons ai-1x"></i>]({{ author.publons }}){:target="_blank"}{:rel="noopener noreferrer"}&nbsp;[Publons]({{ author.publons }}){:target="_blank"}{:rel="noopener noreferrer"}
 
-
-<p style="background-color:tomato;">This is a paragraph.</p>
-
-<p style="background-color:blue;">
-A
-<ul style="background-color:tomato;>
+<ul>
 <li><b>Scientific Productivity</b> (updated December 2023): 41 publications, 51 co-authors according to Scopus</li>
 <ul>
-	<li><u>Peer-reviewed International Journal papers</u>:</li>
+	<li>
+		<u>Peer-reviewed International Journal articles</u>: <b>11 publications</b> (4 as main contributor, 1 single-author), including <b>JMLR</b> (<b>2</b>), <b>Machine Learning</b> (<b>2</b>), <b>RAS</b> (<b>1</b>), <b>ESWA</b> (<b>1</b>), <b>IEEE TNNLS</b> (<b>1</b>), and <b>IEEE T-ITS</b> (<b>1</b>)
+	</li>
+	<li>
+		<u>Peer-reviewed Intenrational Conference papers</u>: <b>30 publications</b> (11 as main contributor), including <b>ICML</b> (<b>10</b>), <b>NeurIPS</b> (<b>8</b>), <b>AAAI</b> (<b>6</b>), <b>AISTATS</b> (<b>2</b>), and <b>UAI</b> (<b>1</b>)
+	</li>
 </ul>
 <li><b>Publication Impact</b> (updated December 2023): 713 citations and  h-index 15 according to Google Scholar</li>
 </ul>
-</p>
 
 
 <h2>Books</h2>
