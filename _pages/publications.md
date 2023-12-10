@@ -14,7 +14,7 @@ author_profile: true
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 
-<div style="background-color: #7a8288; overflow: hidden;">
+<div style="background-color: #8FB4E6; overflow: hidden;">
 <ul style="list-style-type:none;background-color:#7a8288;">
 <li><b>Scientific Productivity</b> (updated December 2023): 41 publications, 51 co-authors according to Scopus</li>
 <ul>
