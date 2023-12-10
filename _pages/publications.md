@@ -44,43 +44,68 @@ author_profile: true
 </ol> 
 
 <h2>Book Chapters</h2>
+<ol>
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'bookchapter' %}
+<li>
 {% include archive-single-pubs.html %}
+</li>
 {% endif %}
 {% endfor %}
+</ol> 
 
 <h2>International Journal Articles</h2>
+<ol>
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'journals' %}
+<li>
 {% include archive-single-pubs.html %}
+</li>
 {% endif %}
 {% endfor %}
+</ol> 
 
 <h2>International Conference Papers</h2>
+<ol>
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'conferences' %}
+<li>
 {% include archive-single-pubs.html %}
+</li>
 {% endif %}
 {% endfor %}
+</ol> 
 
 <h2>International Workshop Papers</h2>
+<ol>
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'workshops' %}
+<li>
 {% include archive-single-pubs.html %}
+</li>
 {% endif %}
 {% endfor %}
+</ol> 
 
 <h2>International Conference Abstracts</h2>
+<ol>
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'abstract' %}
+<li>
 {% include archive-single-pubs.html %}
+</li>
 {% endif %}
 {% endfor %}
+</ol> 
 
 <h2>Theses</h2>
+<ol>
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'thesis' %}
+<li>
 {% include archive-single-pubs.html %}
+</li>
 {% endif %}
 {% endfor %}
+</ol> 
+
