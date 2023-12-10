@@ -36,7 +36,8 @@
     </h3>
     
     {% if post.authors %}
-      {{ post.authors }}
+	  {% assign auth = post.authors | remove: "Alberto" %}
+      {{ auth }}
     {% endif %}
     
     {% if post.read_time %}
