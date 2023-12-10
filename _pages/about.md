@@ -41,8 +41,9 @@ I am co-founder of [ML cube S.r.l.](https://www.mlcube.com/), a Politecnico di M
 * [ML cube Platform](https://www.mlcube.com/platform/) - B2B platform analyzes data and models, providing insights and alerts while connecting AI performance to Business KPIs for informed decisions
 * [AD cube](https://adcube.ai/) -  AI platform for the optimization of multi-channel advertising campaigns
 
-[![ML cube](/images/ml_cube.png){: width="300" .align-right}](https://www.mlcube.com/platform/)    [![AD cube](/images/adcube.png){: width="300" .align-right}](https://adcube.ai/)
+[![ML cube](/images/ml_cube.png){: width="300" .align-left}](https://www.mlcube.com/platform/)    [![AD cube](/images/adcube.png){: width="300" .align-right}](https://adcube.ai/)
 
+<br>
 <br>
 
 Academic Experience
@@ -64,7 +65,7 @@ Education
 * M.Sc. in Computer Science and Engineering, Politecnico di Milano, 2017
 * B.Sc. in Engineering of Computing Systems, Politecnico di Milano, 2015
 
-Main Awards
+Awards and Recognitions (selected)
 ---
 * [AAAI 2024 - New Faculty Highlights](https://aaai.org/aaai-conference/aaai-24-new-faculty-highlights/)
 * [DAAD AInet Fellowship](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/) - Postdoc-NeT-AI on Human-centered AI
