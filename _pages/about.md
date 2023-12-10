@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ---
-Since March 2023, I am an Assistant Professor with the Dipartimento di Elettronica, Informazione e Bioingegneria 
+Since March 2023, I am an Assistant Professor of Computer Engineering with the Dipartimento di Elettronica, Informazione e Bioingegneria 
 ([DEIB](https://www.deib.polimi.it/)), in the Artificial Intelligence and Robotic Laboratory ([AIRLab](http://airlab.deib.polimi.it/)) 
 of [Politecnico di Milano](https://www.polimi.it/). In March 2021, I received the  Ph.D. in Information Technology at Politecnico di 
 Milano (with honors), defending the dissertation "[Exploiting Environment Configurability in Reinforcement Learning](https://www.politesi.polimi.it/handle/10589/170616)",
@@ -33,19 +33,6 @@ Registration: [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr
 Apply here: [[Link]](https://docs.google.com/forms/d/e/1FAIpQLScixoApzSl5E20yjl9L3CoYrjZGb26qnnF1t0KSJrDXiKjw0g/viewform)
 -->
 
-
-Technology Transfer
----
-I am co-founder of [ML cube S.r.l.](https://www.mlcube.com/), a Politecnico di Milano <b>spin-off innovative startup</b>, part of Kayrhos Group
-
-* [ML cube Platform](https://www.mlcube.com/platform/) - B2B platform analyzes data and models, providing insights and alerts while connecting AI performance to Business KPIs for informed decisions
-* [AD cube](https://adcube.ai/) -  AI platform for the optimization of multi-channel advertising campaigns
-
-[![ML cube](/images/ml_cube.png){: width="300" .align-left}](https://www.mlcube.com/platform/)    [![AD cube](/images/adcube.png){: width="300" .align-right}](https://adcube.ai/)
-
-<br>
-<br>
-
 Academic Experience
 ---
 * Assistant Professor, DEIB, Politecnico di Milano, 2023-present
@@ -65,15 +52,30 @@ Education
 * M.Sc. in Computer Science and Engineering, Politecnico di Milano, 2017
 * B.Sc. in Engineering of Computing Systems, Politecnico di Milano, 2015
 
+Technology Transfer
+---
+I am co-founder of [ML cube S.r.l.](https://www.mlcube.com/), a Politecnico di Milano <b>spin-off innovative startup</b>, part of Kayrhos Group
+
+* [ML cube Platform](https://www.mlcube.com/platform/) - B2B platform analyzes data and models, providing insights and alerts while connecting AI performance to Business KPIs for informed decisions
+* [AD cube](https://adcube.ai/) -  AI platform for the optimization of multi-channel advertising campaigns
+
+[![ML cube](/images/ml_cube.png){: width="300" .align-left}](https://www.mlcube.com/platform/)    [![AD cube](/images/adcube.png){: width="300" .align-right}](https://adcube.ai/)
+
+<br>
+<br>
+
+
 Awards and Recognitions (selected)
 ---
 * [AAAI 2024 - New Faculty Highlights](https://aaai.org/aaai-conference/aaai-24-new-faculty-highlights/)
 * [DAAD AInet Fellowship](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/) - Postdoc-NeT-AI on Human-centered AI
+* Oral presentation at [NeurIPS 2018](https://nips.cc/Conferences/2018) (top 0.62%), spotlight presentation at [NeurIPS 2021](https://nips.cc/Conferences/2021) (top 2.9%), notable paper at [AISTATS 2023](https://virtual.aistats.org/Conferences/2023) (top 1.9%), oral presentation at [ICML 2023](https://icml.cc/Conferences/2023) (top 2.39%).
 * [Premio NeoDottori di Ricerca Marco Cadoli 2021](https://aixia.it/premi/premio-per-neodottori-di-ricerca-marco-cadoli-annuale/) ([AIxIA](https://aixia.it/)) - best Italian Ph.D. thesis in AI
 * [Premio NeoLaureati Leonardo Lesmo 2018](https://aixia.it/premi/premio-per-neolaureati-leonardo-lesmo-annuale/) ([AIxIA](https://aixia.it/)) - best Italian M.Sc. thesis in AI
+* Ph.D. Scholarship (MIUR)
 * Runner-up (Best academic team) at [ACM RecSys Challenge 2017](http://www.recsyschallenge.com/2017/)
 
-Research Projects
+Competitive Research Projects
 ---
 * 2023-2027: [AI4REALNET](https://www.linkedin.com/company/ai4realnet-project) - AI for REAL-world NETwork operation (HORIZON EUROPE)
 * 2023-2028: iBeCHANGE - - Addressing Psychosocial and Lifestyle Risk Factors to Promote Primary Cancer Prevention: An Integrated Platform to Promote Behavioural Change (HORIZON RIA)
