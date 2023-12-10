@@ -34,57 +34,70 @@ author_profile: true
 
 <h2>Books</h2>
 {% assign count = 0 %}
+{% assign letter = 'B' %}
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'book' %}
-{ count | plus:1 }
+{% count | plus:1 %}
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}
 
 <h2>Book Chapters</h2>
 {% assign count = 0 %}
+{% assign letter = 'H' %}
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'bookchapter' %}
-{ count | plus:1 }
+{% count | plus:1 %}
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}
 
 <h2>International Journal Articles</h2>
 {% assign count = 0 %}
+{% assign letter = 'J' %}
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'journals' %}
-{ count | plus:1 }
+{% count | plus:1 %}
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}
 
 <h2>International Conference Papers</h2>
 {% assign count = 0 %}
+{% assign letter = 'C' %}
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'conferences' %}
-{ count | plus:1 }
+{% count | plus:1 %}
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}
 
 <h2>International Workshop Papers</h2>
+{% assign count = 0 %}
+{% assign letter = 'W' %}
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'workshops' %}
+{% count | plus:1 %}
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}
 
 <h2>International Conference Abstracts</h2>
+{% assign count = 0 %}
+{% assign letter = 'A' %}
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'abstract' %}
+{% count | plus:1 %}
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}
 
 <h2>Theses</h2>
+{% assign count = 0 %}
+{% assign letter = 'T' %}
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'thesis' %}
+{% count | plus:1 %}
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}

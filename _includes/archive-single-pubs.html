@@ -13,8 +13,21 @@
 {% endif %}
 
 
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if include.type == "grid" and teaser %}
+      <div class="archive__item-teaser">
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="">
+      </div>
+    {% endif %}
  
-	[{{ count }}]
+	[{{ letter }}{{ count }}]
     
     {% if post.authors %}
 	  {% assign myauth = post.authors | replace: "Alberto Maria Metelli", "<u>Alberto Maria Metelli</u>" | replace: "Alberto Metelli", "<u>Alberto Metelli</u>"%}
@@ -58,3 +71,5 @@
     {% endif %}
         {% endif %}
         <br>
+  </article>
+</div>
