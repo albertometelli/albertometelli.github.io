@@ -22,15 +22,17 @@ author_profile: true
 &emsp;[<i class="ai ai-publons ai-1x"></i>]({{ author.publons }}){:target="_blank"}{:rel="noopener noreferrer"}&nbsp;[Publons]({{ author.publons }}){:target="_blank"}{:rel="noopener noreferrer"}
 
 
-* <b>Scientific Productivity</b> (updated December 2023): 41 publications, 51 co-authors according to Scopus
-* <b>Publication Impact</b> (updated December 2023): 713 citations and  h-index 15 according to Google Scholar
 
-<!--
 <p style="background-color:blue;">
-* <b>Scientific Productivity</b> (updated December 2023): 41 publications, 51 co-authors according to Scopus
-* <b>Publication Impact</b> (updated December 2023): 713 citations and  h-index 15 according to Google Scholar
+<ul>
+<li>Scientific Productivity</b> (updated December 2023): 41 publications, 51 co-authors according to Scopus</li>
+<ul>
+	<li><u>Peer-reviewed International Journal papers</u>:</li>
+</ul>
+<li>Publication Impact</b> (updated December 2023): 713 citations and  h-index 15 according to Google Scholar</li>
+</ul>
 </p>
--->
+
 
 <h2>Books</h2>
 <ol>
