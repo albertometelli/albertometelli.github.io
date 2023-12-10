@@ -26,6 +26,11 @@
           alt="">
       </div>
     {% endif %}
+    
+    {% if post.authors %}
+	  {% assign myauth = post.authors | replace: "Alberto Maria Metelli", "<u>Alberto Maria Metelli</u>" | replace: "Alberto Metelli", "<u>Alberto Metelli</u>"%}
+      {{ myauth }}
+    {% endif %}
 
     <h3 class="archive__item-title" itemprop="headline">
       {% if post.link %}
@@ -34,12 +39,7 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
-    
-    {% if post.authors %}
-	  {% assign myauth = post.authors | replace: "Alberto Maria Metelli", "<u>Alberto Maria Metelli</u>" | replace: "Alberto Metelli", "<u>Alberto Metelli</u>"%}
-      {{ myauth }}
-    {% endif %}
-    
+  
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
@@ -52,7 +52,7 @@
 			  {% if post.venue == '' %}
 				<br>{{ year }}.
 			  {% else %}
-				<br><i>{{ post.venue}}</i>, {{ year }}.
+				<br><b>{{ post.venue}}</b>, {{ year }}.
 			  {% endif %}
           {% endif %}
           {% if post.note %}
