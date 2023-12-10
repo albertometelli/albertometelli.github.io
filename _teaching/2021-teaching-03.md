@@ -1,7 +1,7 @@
 ---
 title: "Reinforcement Learning"
 collection: teaching
-role: "Adjunct Professor"
+role: "Lecturer and co-cordinator"
 type: "Ph.D. in Information Technology and M.Sc. in Computer Science and Engineering, Co-lecturer: Prof. Marcello Restelli"
 permalink: /teaching/2021-teaching-rl
 venue: "Politecnico di Milano - Campus Leonardo"
