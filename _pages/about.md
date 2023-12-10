@@ -24,24 +24,38 @@ Research Interests
 My main research interests revolve around Artificial Intelligence and Machine Learning, in particular <b>Reinfocement Learning</b>. I am currently working on reinforcement learning
 in configurable environments, off-policy reinforcement learning, and inverse reinforcement learning. I am also interested in algorithms, optimization, statistics, probability, and recommendation systems.
 
-
+<!--
 Theses Proposals - Fall 2023
 ---
 List of proposed theses: [[Link]](https://rl.airlab.deib.polimi.it/wp-content/uploads/2023/09/Thesis-proposals-Fall-2023.pdf)<br>
 Slides: [[Link]](https://rl.airlab.deib.polimi.it/wp-content/uploads/2023/09/slides.pdf)<br>
 Registration: [[Link]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=bd33a5fe6896a6ba418f8b9850ce3bd5)<br>
 Apply here: [[Link]](https://docs.google.com/forms/d/e/1FAIpQLScixoApzSl5E20yjl9L3CoYrjZGb26qnnF1t0KSJrDXiKjw0g/viewform)
-
+-->
 
 
 Technology Transfer
 ---
-I am co-founder of [ML cube S.r.l.](https://www.mlcube.com/), a Politecnico di Milano <b>spin-off innovative startup</b>, part of Kayrhos Group, providing cutting-edge solutions 
-for Machine Learning Systems and Life-Cycle-Management Optimization.
-<br>[![ML cube](/images/ml_cube.png){: width="300" .align-right}](https://www.mlcube.com/)
-
+I am co-founder of [ML cube S.r.l.](https://www.mlcube.com/), a Politecnico di Milano <b>spin-off innovative startup</b>, part of Kayrhos Group
+* [ML cube Platform](https://www.mlcube.com/platform/) - B2B platform analyzes data and models, providing insights and alerts while connecting AI performance to Business KPIs for informed decisions
+<br>[![ML cube](/images/ml_cube.png){: width="300" .align-right}](https://www.mlcube.com/platform/)
+* [AD cube](https://adcube.ai/) -  AI platform for the optimization of multi-channel advertising campaigns
+<br>[![AD cube](/images/adcube.png){: width="300" .align-right}](https://adcube.ai/)
 
 <br>
+
+Academic Experience
+---
+* Assistant Professor, DEIB, Politecnico di Milano, 2023-present
+* Postdoctoral Researcher, DEIB, Politecnico di Milano, 2020-2023
+
+National Scientific Qualifications
+---
+* As Italian Associate Professor, 09/H1 - Computer engineering (until 2034)
+
+National Professional Qualifications
+---
+* As Italian Information Engineer (since 2021)
 
 Education
 ---
@@ -51,11 +65,15 @@ Education
 
 Main Awards
 ---
-* Winner of "[Premio NeoDottori di Ricerca Marco Cadoli 2021](https://aixia.it/premi/premio-per-neodottori-di-ricerca-marco-cadoli-annuale/)" awarded by [AIxIA](https://aixia.it/) for the best Italian Ph.D. thesis in AI
-* Recipient of a "[Springer Award](https://link.springer.com/book/10.1007/978-3-030-32094-2)", publication in a Polimi SpringerBriefs volume awarded by [DEIB](https://www.deib.polimi.it/ita/home) awarded for the best results from the IT PhD program doctors
-* Winner of "[Premio NeoLaureati Leonardo Lesmo 2018](https://aixia.it/premi/premio-per-neolaureati-leonardo-lesmo-annuale/)" awarded by [AIxIA](https://aixia.it/) for the best Italian M.Sc. thesis in AI
-* Second place at [ACM RecSys Challenge 2017](http://www.recsyschallenge.com/2017/)
+* [AAAI 2024 - New Faculty Highlights](https://aaai.org/aaai-conference/aaai-24-new-faculty-highlights/)
+* [DAAD AInet Fellowship](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/) - Postdoc-NeT-AI on Human-centered AI
+* [Premio NeoDottori di Ricerca Marco Cadoli 2021](https://aixia.it/premi/premio-per-neodottori-di-ricerca-marco-cadoli-annuale/) awarded by [AIxIA](https://aixia.it/) for the best Italian Ph.D. thesis in AI
+* [Premio NeoLaureati Leonardo Lesmo 2018](https://aixia.it/premi/premio-per-neolaureati-leonardo-lesmo-annuale/) awarded by [AIxIA](https://aixia.it/) for the best Italian M.Sc. thesis in AI
+* Runner-up (Best academic team) at [ACM RecSys Challenge 2017](http://www.recsyschallenge.com/2017/)
 
 Research Projects
 ---
-* 2021-2025: [CLINT](https://climateintelligence.eu/) - CLImate INTelligence: extreme events detection, attribution and adaptation design using machine learning (EU-H2020)
+* 2023-2027: [AI4REALNET](https://www.linkedin.com/company/ai4realnet-project) - AI for REAL-world NETwork operation (HORIZON EUROPE)
+* 2023-2028: iBeCHANGE - Addressing psychosocial and lifestyle risk factors to promote primary cancer prevention: an integrated platform to promote behavioural change (HORIZON RIA)
+* 2023-2026: [FAIR](https://future-ai-research.it/) - Future Artificial Intelligence Research - Spoke 4: Adaptive AI (PNRR Extended Partnership)
+* 2021-2025: [CLINT](https://climateintelligence.eu/) - CLImate INTelligence (HORIZON 2020)
