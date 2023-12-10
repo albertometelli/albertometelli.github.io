@@ -36,7 +36,7 @@
     </h3>
     
     {% if post.authors %}
-	  {% assign myauth = post.authors | replace: "Alberto Maria Metelli" "<u>Alberto Maria Metelli</u>" | replace: "Alberto Metelli" "<u>Alberto Metelli</u>"%}
+	  {% assign myauth = post.authors | replace: "Alberto Maria Metelli", "<u>Alberto Maria Metelli</u>" | replace: "Alberto Metelli", "<u>Alberto Metelli</u>"%}
       {{ myauth }}
     {% endif %}
     
