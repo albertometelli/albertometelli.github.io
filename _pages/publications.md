@@ -21,7 +21,8 @@ author_profile: true
 &emsp;[<i class="ai ai-semantic-scholar ai-1x"></i>]({{ author.semantic-scholar }}){:target="_blank"}{:rel="noopener noreferrer"}&nbsp;[Semantic Scholar]({{ author.semantic-scholar }}){:target="_blank"}{:rel="noopener noreferrer"}
 &emsp;[<i class="ai ai-publons ai-1x"></i>]({{ author.publons }}){:target="_blank"}{:rel="noopener noreferrer"}&nbsp;[Publons]({{ author.publons }}){:target="_blank"}{:rel="noopener noreferrer"}
 
-<ul>
+<div style="background-color: blue; overflow: hidden;">
+<ul style="list-style-type:none;background-color:blue;">
 <li><b>Scientific Productivity</b> (updated December 2023): 41 publications, 51 co-authors according to Scopus</li>
 <ul>
 	<li>
@@ -33,6 +34,7 @@ author_profile: true
 </ul>
 <li><b>Publication Impact</b> (updated December 2023): 713 citations and  h-index 15 according to Google Scholar</li>
 </ul>
+</div>
 
 
 <h2>Books</h2>
