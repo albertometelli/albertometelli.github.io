@@ -26,7 +26,7 @@ author_profile: true
 
 <p style="background-color:blue;">
 A
-<ul>
+<ul style="background-color:tomato;>
 <li><b>Scientific Productivity</b> (updated December 2023): 41 publications, 51 co-authors according to Scopus</li>
 <ul>
 	<li><u>Peer-reviewed International Journal papers</u>:</li>
