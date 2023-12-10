@@ -10,7 +10,8 @@ pubtype: 'conferences'
 authors: ' Eldowa Khaled Mazen Mahmoud Elsayed,  Nicolò  Cesa-Bianchi,  Alberto Maria Metelli, and  Marcello  Restelli'
 citation: ' Eldowa Khaled Mazen Mahmoud Elsayed,  Nicolò  Cesa-Bianchi,  Alberto Maria Metelli, and  Marcello  Restelli&quot;Bandits with Stochastic Experts: Towards Instance-Based Optimality.&quot; 2023 IEEE Information Theory Workshop (ITW), 2023'
 bibtexfile: '/files/bibtex/inprepInfoTheo.bib'
----[[BibTeX](/files/bibtex/inprepInfoTheo.bib){:target="_blank"}] 
+---
+[[BibTeX](/files/bibtex/inprepInfoTheo.bib){:target="_blank"}] 
 <pre> @inproceedings{inprepInfoTheo,
     author = "Elsayed, Eldowa Khaled Mazen Mahmoud and Cesa-Bianchi, Nicolò and Metelli, Alberto Maria and Restelli, Marcello",
     title = "Bandits with Stochastic Experts: Towards Instance-Based Optimality",
