@@ -64,7 +64,7 @@ I am co-founder of [ML cube S.r.l.](https://www.mlcube.com/), a Politecnico di M
 * [ML cube Platform](https://www.mlcube.com/platform/) - B2B platform analyzes data and models, providing insights and alerts while connecting AI performance to Business KPIs for informed decisions
 * [AD cube](https://adcube.ai/) -  AI platform for the optimization of multi-channel advertising campaigns
 
-[AAAAAAA![ML cube](/images/ml_cube.png){: width="250" .align-left}](https://www.mlcube.com/platform/)    [![AD cube](/images/adcube.png){: width="250" .align-right}](https://adcube.ai/)
+[![ML cube](/images/ml_cube.png){: width="250" .align-center}](https://www.mlcube.com/platform/)    [![AD cube](/images/adcube.png){: width="250" .align-right}](https://adcube.ai/)
 
 <br>
 <br>
