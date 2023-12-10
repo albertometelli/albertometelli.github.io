@@ -36,7 +36,7 @@ author_profile: true
 {% assign count = 0 %}
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'book' %}
-{{ amount | plus:1 }}
+{{ count | plus:1 }}
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}
@@ -45,7 +45,7 @@ author_profile: true
 {% assign count = 0 %}
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'bookchapter' %}
-{{ amount | plus:1 }}
+{{ count | plus:1 }}
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}
