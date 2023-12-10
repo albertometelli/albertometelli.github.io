@@ -39,10 +39,9 @@ Technology Transfer
 I am co-founder of [ML cube S.r.l.](https://www.mlcube.com/), a Politecnico di Milano <b>spin-off innovative startup</b>, part of Kayrhos Group
 
 * [ML cube Platform](https://www.mlcube.com/platform/) - B2B platform analyzes data and models, providing insights and alerts while connecting AI performance to Business KPIs for informed decisions
-[![ML cube](/images/ml_cube.png){: width="300" .align-right}](https://www.mlcube.com/platform/)
-
 * [AD cube](https://adcube.ai/) -  AI platform for the optimization of multi-channel advertising campaigns
-[![AD cube](/images/adcube.png){: width="300" .align-right}](https://adcube.ai/)
+
+[![ML cube](/images/ml_cube.png){: width="300" .align-right}](https://www.mlcube.com/platform/)    [![AD cube](/images/adcube.png){: width="300" .align-right}](https://adcube.ai/)
 
 <br>
 
@@ -76,6 +75,6 @@ Main Awards
 Research Projects
 ---
 * 2023-2027: [AI4REALNET](https://www.linkedin.com/company/ai4realnet-project) - AI for REAL-world NETwork operation (HORIZON EUROPE)
-* 2023-2028: iBeCHANGE - Addressing psychosocial and lifestyle risk factors to promote primary cancer prevention: an integrated platform to promote behavioural change (HORIZON RIA)
+* 2023-2028: iBeCHANGE - - Addressing Psychosocial and Lifestyle Risk Factors to Promote Primary Cancer Prevention: An Integrated Platform to Promote Behavioural Change (HORIZON RIA)
 * 2023-2026: [FAIR](https://future-ai-research.it/) - Future Artificial Intelligence Research - Spoke 4: Adaptive AI (PNRR Extended Partnership)
 * 2021-2025: [CLINT](https://climateintelligence.eu/) - CLImate INTelligence: Extreme events detection, attribution and adaptation design using machine learning (HORIZON 2020)
