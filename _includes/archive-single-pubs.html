@@ -58,7 +58,16 @@
 			<i>({{ post.note }})</i>
           {% endif %}
           {% if post.acceptance %}
-			<b>{{ post.acceptance }}</b>
+			<b>{{ post.acceptance }}</b>.
+          {% endif %}
+          {% if post.rankCORE %}
+			<b>{{ post.rankCORE }}</b>.
+          {% endif %}
+          {% if post.rankGGS %}
+			<b>{{ post.rankGGS }}</b>.
+          {% endif %}
+          {% if post.rankSJR %}
+			<b>{{ post.rankSJR }}</b>
           {% endif %}
           {% if post.bibtexfile %}
 		[<a href="{{ post.bibtexfile }}">BibTeX</a>]
