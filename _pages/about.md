@@ -69,8 +69,8 @@ Main Awards
 ---
 * [AAAI 2024 - New Faculty Highlights](https://aaai.org/aaai-conference/aaai-24-new-faculty-highlights/)
 * [DAAD AInet Fellowship](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/) - Postdoc-NeT-AI on Human-centered AI
-* [Premio NeoDottori di Ricerca Marco Cadoli 2021](https://aixia.it/premi/premio-per-neodottori-di-ricerca-marco-cadoli-annuale/) awarded by [AIxIA](https://aixia.it/) for the best Italian Ph.D. thesis in AI
-* [Premio NeoLaureati Leonardo Lesmo 2018](https://aixia.it/premi/premio-per-neolaureati-leonardo-lesmo-annuale/) awarded by [AIxIA](https://aixia.it/) for the best Italian M.Sc. thesis in AI
+* [Premio NeoDottori di Ricerca Marco Cadoli 2021](https://aixia.it/premi/premio-per-neodottori-di-ricerca-marco-cadoli-annuale/) ([AIxIA](https://aixia.it/)) - best Italian Ph.D. thesis in AI
+* [Premio NeoLaureati Leonardo Lesmo 2018](https://aixia.it/premi/premio-per-neolaureati-leonardo-lesmo-annuale/) ([AIxIA](https://aixia.it/)) - best Italian M.Sc. thesis in AI
 * Runner-up (Best academic team) at [ACM RecSys Challenge 2017](http://www.recsyschallenge.com/2017/)
 
 Research Projects
