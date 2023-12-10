@@ -32,51 +32,80 @@ author_profile: true
 </p>
 -->
 
-<h2>Books</h2>
+<h2>Book Chapters</h2>
+{% assign writtenYear = 'None' %}
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'book' %}
-{% include archive-single-pubs.html %}
+{% capture year %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endcapture %}
+{% if year != writtenYear %}
+<h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+{% capture writtenYear %}{{ year }}{% endcapture %}
 {% endif %}
-{% endfor %}
-
-<h2>Book Chapters</h2>
-{% for post in site.publications reversed %}
-{% if post.pubtype == 'bookchapter' %}
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}
 
 <h2>International Journal Articles</h2>
+{% assign writtenYear = 'None' %}
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'journals' %}
+{% capture year %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endcapture %}
+{% if year != writtenYear %}
+<h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+{% capture writtenYear %}{{ year }}{% endcapture %}
+{% endif %}
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}
 
 <h2>International Conference Papers</h2>
+{% assign writtenYear = 'None' %}
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'conferences' %}
+{% capture year %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endcapture %}
+{% if year != writtenYear %}
+<h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+{% capture writtenYear %}{{ year }}{% endcapture %}
+{% endif %}
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}
 
 <h2>International Workshop Papers</h2>
+{% assign writtenYear = 'None' %}
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'workshops' %}
+{% capture year %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endcapture %}
+{% if year != writtenYear %}
+<h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+{% capture writtenYear %}{{ year }}{% endcapture %}
+{% endif %}
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}
 
 <h2>International Conference Abstracts</h2>
+{% assign writtenYear = 'None' %}
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'abstract' %}
+{% capture year %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endcapture %}
+{% if year != writtenYear %}
+<h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+{% capture writtenYear %}{{ year }}{% endcapture %}
+{% endif %}
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}
 
 <h2>Theses</h2>
+{% assign writtenYear = 'None' %}
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'thesis' %}
+{% capture year %}{{ post.date | default: "1900-01-01" | date: "%Y" }}{% endcapture %}
+{% if year != writtenYear %}
+<h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+{% capture writtenYear %}{{ year }}{% endcapture %}
+{% endif %}
 {% include archive-single-pubs.html %}
 {% endif %}
 {% endfor %}
