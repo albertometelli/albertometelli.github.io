@@ -23,14 +23,14 @@ author_profile: true
 
 
 * <b>Scientific Productivity</b> (updated December 2023): 41 publications, 51 co-authors according to Scopus
-* Peer-reviewed International Journal papers
 * <b>Publication Impact</b> (updated December 2023): 713 citations and  h-index 15 according to Google Scholar
 
+<!--
 <p style="background-color:blue;">
 * <b>Scientific Productivity</b> (updated December 2023): 41 publications, 51 co-authors according to Scopus
 * <b>Publication Impact</b> (updated December 2023): 713 citations and  h-index 15 according to Google Scholar
 </p>
-
+-->
 
 <h2>Book Chapters</h2>
 {% assign writtenYear = 'None' %}
