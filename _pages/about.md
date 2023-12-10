@@ -21,8 +21,13 @@ Download my [Curriculum Vitae](/files/cv.pdf){:target="_blank"}{:rel="noopener n
 
 Research Interests
 ---
-My main research interests revolve around Artificial Intelligence and Machine Learning, in particular <b>Reinfocement Learning</b>. I am currently working on reinforcement learning
-in configurable environments, off-policy reinforcement learning, and inverse reinforcement learning. I am also interested in algorithms, optimization, statistics, probability, and recommendation systems.
+My main research interests revolve around Artificial Intelligence and Machine Learning, in particular <b>Reinfocement Learning</b>. I am currently working on theoretical
+and algorithmic aspects of:
+* <i>Inverse Reinforcement Learning</i>
+* <i>Efficient Sample (Re)Use in Reinforcement Learning</i>
+* <i>Multi-Armed Bandits</i>
+* <i>Automated Reinforcement Learning</i>
+I am also interested in algorithms, optimization, statistics, probability, and recommendation systems.
 
 <!--
 Theses Proposals - Fall 2023
@@ -59,7 +64,7 @@ I am co-founder of [ML cube S.r.l.](https://www.mlcube.com/), a Politecnico di M
 * [ML cube Platform](https://www.mlcube.com/platform/) - B2B platform analyzes data and models, providing insights and alerts while connecting AI performance to Business KPIs for informed decisions
 * [AD cube](https://adcube.ai/) -  AI platform for the optimization of multi-channel advertising campaigns
 
-[![ML cube](/images/ml_cube.png){: width="300" .align-left}](https://www.mlcube.com/platform/)    [![AD cube](/images/adcube.png){: width="300" .align-right}](https://adcube.ai/)
+[AAAAAAA![ML cube](/images/ml_cube.png){: width="250" .align-left}](https://www.mlcube.com/platform/)    [![AD cube](/images/adcube.png){: width="250" .align-right}](https://adcube.ai/)
 
 <br>
 <br>
@@ -68,9 +73,12 @@ I am co-founder of [ML cube S.r.l.](https://www.mlcube.com/), a Politecnico di M
 Awards and Recognitions (selected)
 ---
 * [AAAI 2024 - New Faculty Highlights](https://aaai.org/aaai-conference/aaai-24-new-faculty-highlights/)
-* [DAAD AInet Fellowship](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/) - Postdoc-NeT-AI on Human-centered AI
-* Oral presentation at [NeurIPS 2018](https://nips.cc/Conferences/2018) (top 0.62%), spotlight presentation at [NeurIPS 2021](https://nips.cc/Conferences/2021) (top 2.9%), notable paper at [AISTATS 2023](https://virtual.aistats.org/Conferences/2023) (top 1.9%), oral presentation at [ICML 2023](https://icml.cc/Conferences/2023) (top 2.39%).
+* [DAAD AInet Fellowship](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/) - Postdoc-NeT-AI on Human-centered AI (2023)
+* Oral presentation at [ICML 2023](https://icml.cc/Conferences/2023) (top 2.39%)
+* Notable paper at [AISTATS 2023](https://virtual.aistats.org/Conferences/2023) (top 1.9%)
+* Spotlight presentation at [NeurIPS 2021](https://nips.cc/Conferences/2021) (top 2.9%)
 * [Premio NeoDottori di Ricerca Marco Cadoli 2021](https://aixia.it/premi/premio-per-neodottori-di-ricerca-marco-cadoli-annuale/) ([AIxIA](https://aixia.it/)) - best Italian Ph.D. thesis in AI
+* Oral presentation at [NeurIPS 2018](https://nips.cc/Conferences/2018) (top 0.62%)
 * [Premio NeoLaureati Leonardo Lesmo 2018](https://aixia.it/premi/premio-per-neolaureati-leonardo-lesmo-annuale/) ([AIxIA](https://aixia.it/)) - best Italian M.Sc. thesis in AI
 * Ph.D. Scholarship (MIUR)
 * Runner-up (Best academic team) at [ACM RecSys Challenge 2017](http://www.recsyschallenge.com/2017/)
