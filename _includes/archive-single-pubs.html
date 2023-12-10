@@ -62,6 +62,9 @@
           {% endif %}
           {% if post.bibtexfile %}
 		[<a href="{{ post.bibtexfile }}">BibTeX</a>]
+		{% if post.paperurl %}
+			[<a href="{{ post.paperurl }}">Link</a>]
+		{% endif %}
     {% endif %}
         {% endif %}
   </article>
