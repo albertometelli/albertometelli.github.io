@@ -27,7 +27,8 @@ and algorithmic aspects of:
 * <i>Efficient Sample (Re)Use in Reinforcement Learning</i>
 * <i>Multi-Armed Bandits</i>
 * <i>Automated Reinforcement Learning</i>
-<br>I am also interested in algorithms, optimization, statistics, probability, and recommendation systems.
+
+I am also interested in algorithms, optimization, statistics, probability, and recommendation systems.
 
 <!--
 Theses Proposals - Fall 2023
