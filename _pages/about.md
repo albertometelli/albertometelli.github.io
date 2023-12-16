@@ -21,7 +21,7 @@ Download my [Curriculum Vitae](/files/cv.pdf){:target="_blank"}{:rel="noopener n
 
 Research Interests
 ---
-My main research interests focus on Artificial Intelligence and Machine Learning, in particular <b>Reinfocement Learning</b>. I am currently working on theoretical
+My research interests focus on Artificial Intelligence and Machine Learning, in particular <b>Reinfocement Learning</b>. I am currently working on theoretical
 and algorithmic aspects of:
 * <b>Inverse Reinforcement Learning</b>
 * <b>Efficient Sample (Re)Use in Reinforcement Learning</b>
