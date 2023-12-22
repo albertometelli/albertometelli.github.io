@@ -26,4 +26,4 @@ FAI - Propositional Logic - 24-11-2023 - [[Slides]](https://albertometelli.githu
 
 FAI - Classical Planning - 15-12-2023 [[Slides]](https://albertometelli.github.io/files/2023-fai/FAI - 15-12-2023.pdf) [[Solution Hanoi Tower]](https://albertometelli.github.io/files/2023-fai/hanoi_sol.pdf) [[Recording - Morning]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=791b74fc980ff867a5be73e52ade56df) [[Recording - Afternoon]](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=6035c5656724ee0f41c0a134b70ea880)
 
-FAI - Simulated Exam [[PDF]](https://albertometelli.github.io/files/2023-fai/FAI20230118-00000.pdf)
+FAI - Simulated Exam [[PDF]](https://albertometelli.github.io/files/FAI20230118-00000.pdf)
