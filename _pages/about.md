@@ -23,10 +23,10 @@ Research Interests
 ---
 My research interests focus on Artificial Intelligence and Machine Learning, in particular <b>Reinfocement Learning</b>. I am currently working on theoretical
 and algorithmic aspects of:
-* <b>Inverse Reinforcement Learning</b>
-* <b>Efficient Sample (Re)Use in Reinforcement Learning</b>
-* <b>Multi-Armed Bandits</b>
-* <b>Automated Reinforcement Learning</b>
+* <i>Inverse Reinforcement Learning</i>
+* <i>Efficient Sample (Re)Use in Reinforcement Learning</i>
+* <i>Multi-Armed Bandits</i>
+* <i>Automated Reinforcement Learning</i>
 
 I am also interested in algorithms, optimization, statistics, probability, and recommendation systems.
 
