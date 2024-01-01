@@ -90,3 +90,7 @@ Competitive Research Projects
 * 2023-2028: iBeCHANGE - - Addressing Psychosocial and Lifestyle Risk Factors to Promote Primary Cancer Prevention: An Integrated Platform to Promote Behavioural Change (HORIZON RIA)
 * 2023-2026: [FAIR](https://future-ai-research.it/) - Future Artificial Intelligence Research - Spoke 4: Adaptive AI (PNRR Extended Partnership)
 * 2021-2025: [CLINT](https://climateintelligence.eu/) - CLImate INTelligence: Extreme events detection, attribution and adaptation design using machine learning (HORIZON 2020)
+
+Trivia
+---
+* [My Erdős Number](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project) is [<b>3</b>](https://www.csauthors.net/distance/paul-erdos/alberto-maria-metelli)
