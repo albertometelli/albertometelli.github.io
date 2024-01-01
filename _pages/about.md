@@ -93,4 +93,4 @@ Competitive Research Projects
 
 Trivia
 ---
-* [My Erdős Number](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project) is [<b>3</b>](https://www.csauthors.net/distance/paul-erdos/alberto-maria-metelli)
+* My [Erdős Number](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project) is [<b>3</b>](https://www.csauthors.net/distance/paul-erdos/alberto-maria-metelli)
