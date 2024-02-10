@@ -94,4 +94,3 @@ Competitive Research Projects
 Trivia
 ---
 * My [Erdős Number](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project) is [<b>3</b>](https://www.csauthors.net/distance/paul-erdos/alberto-maria-metelli)
-* [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/id.php?id=308643)
