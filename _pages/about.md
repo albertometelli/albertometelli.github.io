@@ -73,7 +73,7 @@ I am co-founder of [ML cube S.r.l.](https://www.mlcube.com/), a Politecnico di M
 
 Awards and Recognitions (selected)
 ---
-* [AAAI 2024 - New Faculty Highlights](https://aaai.org/aaai-conference/aaai-24-new-faculty-highlights/)
+* [AAAI 2024 - New Faculty Highlights](https://aaai.org/aaai-conference/nfh-24-program/)
 * [DAAD AInet Fellowship](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/) - Postdoc-NeT-AI on Human-centered AI (2023)
 * Oral presentation at [ICML 2023](https://icml.cc/Conferences/2023) (top 2.39%)
 * Notable paper at [AISTATS 2023](https://virtual.aistats.org/Conferences/2023) (top 1.9%)
