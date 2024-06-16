@@ -4,6 +4,7 @@ collection: publ_conferences
 permalink: /publication/0046-2024-Projection-by-Convolution-Optimal-Sample-Complexity-for-RL-in-Continuous-Space-MDPs
 note: 'Accepted'
 acceptance: 'Acceptance rate: 160/448 (35.7%)'
+alphabetic: 'yes'
 rankCORE: 'CORE 2023: A*'
 rankGGS: 'GGS 2021: A+'
 date: 2024-01-01
@@ -21,6 +22,5 @@ bibtexfile: '/files/bibtex/maran2024projection.bib'
     booktitle = "Annual Conference on Learning Theory (COLT)",
     year = "2024",
     note = "Accepted",
-    alphabetic = "yes",
     url = "https://arxiv.org/abs/2405.06363"
 } </pre>

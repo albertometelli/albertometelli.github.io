@@ -4,6 +4,7 @@ collection: publ_conferences
 permalink: /publication/0040-2024-No-Regret-Reinforcement-Learning-in-Smooth-MDPs
 note: 'Accepted'
 acceptance: 'Acceptance rate: 2609/9473 (27.5%)'
+alphabetic: 'yes'
 rankCORE: 'CORE 2023: A*'
 rankGGS: 'GGS 2021: A++'
 date: 2024-01-01
@@ -21,6 +22,5 @@ bibtexfile: '/files/bibtex/maran2024noregret.bib'
     booktitle = "International Conference on Machine Learning (ICML)",
     year = "2024",
     url = "https://openreview.net/forum?id=GGnYDXZC1B",
-    alphabetic = "yes",
     note = "Accepted"
 } </pre>

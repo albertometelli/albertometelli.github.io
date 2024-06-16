@@ -3,6 +3,7 @@ title: "Dissimilarity Bandits"
 collection: publ_conferences
 permalink: /publication/0032-2024-Dissimilarity-Bandits
 acceptance: 'Acceptance rate: 546/1980 (27.6%)'
+alphabetic: 'yes'
 rankCORE: 'CORE 2023: A'
 rankGGS: 'GGS 2021: A+'
 date: 2024-01-01
@@ -22,6 +23,5 @@ bibtexfile: '/files/bibtex/batt2024iss.bib'
     year = "2024",
     volume = "238",
     publisher = "PMLR",
-    url = "https://proceedings.mlr.press/v238/battellani24a.html",
-    alphabetic = "yes"
+    url = "https://proceedings.mlr.press/v238/battellani24a.html"
 } </pre>
