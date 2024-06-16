@@ -10,7 +10,8 @@ pubtype: 'conferences'
 authors: ' Angelo  Damiani,  Gustavo Viera López,  Giorgio  Manganini,  Alberto Maria Metelli, and  Marcello  Restelli'
 citation: ' Angelo  Damiani,  Gustavo Viera López,  Giorgio  Manganini,  Alberto Maria Metelli, and  Marcello  Restelli&quot;Transfer Learning for Dynamical Systems Models via Autoencoders and GANs.&quot; American Control Conference (ACC), 2024'
 bibtexfile: '/files/bibtex/damiani2024transfer.bib'
----[[BibTeX](/files/bibtex/damiani2024transfer.bib){:target="_blank"}] 
+---
+ [[BibTeX](/files/bibtex/damiani2024transfer.bib){:target="_blank"}] 
 <pre> @incollection{damiani2024transfer,
     author = "Damiani, Angelo and López, Gustavo Viera and Manganini, Giorgio and Metelli, Alberto Maria and Restelli, Marcello",
     title = "Transfer Learning for Dynamical Systems Models via Autoencoders and GANs",
