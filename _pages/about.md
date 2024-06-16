@@ -17,7 +17,7 @@ In July 2015, I obtained the Bachelor of Science in Computer Engineering at Poli
 I received the Master of Science in Computer Science and Engineering at Politecnico di Milano (with honors), 
 defending the thesis "[Compatible Reward Inverse Reinforcement Learning](https://www.politesi.polimi.it/handle/10589/135141)". Since November 2021, I am an [ELLIS](https://ellis.eu/) Member.
 
-Download my [Curriculum Vitae](/files/cv.pdf){:target="_blank"}{:rel="noopener noreferrer"} (updated December 2023)
+Download my [Curriculum Vitae](/files/cv.pdf){:target="_blank"}{:rel="noopener noreferrer"} (updated June 2024)
 
 Research Interests
 ---
@@ -73,6 +73,7 @@ I am co-founder of [ML cube S.r.l.](https://www.mlcube.com/), a Politecnico di M
 
 Awards and Recognitions (selected)
 ---
+* Two spotlight papers at [ICML 2024](https://icml.cc/Conferences/2024) (top 3.5%)
 * [AAAI 2024 - New Faculty Highlights](https://aaai.org/aaai-conference/nfh-24-program/)
 * [DAAD AInet Fellowship](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/) - Postdoc-NeT-AI on Human-centered AI (2023)
 * Oral presentation at [ICML 2023](https://icml.cc/Conferences/2023) (top 2.39%)
@@ -87,7 +88,7 @@ Awards and Recognitions (selected)
 Competitive Research Projects
 ---
 * 2023-2027: [AI4REALNET](https://www.linkedin.com/company/ai4realnet-project) - AI for REAL-world NETwork operation (HORIZON EUROPE)
-* 2023-2028: iBeCHANGE - - Addressing Psychosocial and Lifestyle Risk Factors to Promote Primary Cancer Prevention: An Integrated Platform to Promote Behavioural Change (HORIZON RIA)
+* 2023-2028: [iBeCHANGE](https://www.polimi.it/en/spotlight/news-details/home/ibechange-project-kicks-off) - Addressing Psychosocial and Lifestyle Risk Factors to Promote Primary Cancer Prevention: An Integrated Platform to Promote Behavioural Change (HORIZON RIA)
 * 2023-2026: [FAIR](https://future-ai-research.it/) - Future Artificial Intelligence Research - Spoke 4: Adaptive AI (PNRR Extended Partnership)
 * 2021-2025: [CLINT](https://climateintelligence.eu/) - CLImate INTelligence: Extreme events detection, attribution and adaptation design using machine learning (HORIZON 2020)
 

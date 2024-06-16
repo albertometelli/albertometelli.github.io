@@ -6,11 +6,11 @@ acceptance: 'Acceptance rate: 1692/7911 (21.4%)'
 rankCORE: 'CORE 2021: A*'
 rankGGS: 'GGS 2021: A++'
 date: 2021-01-01
-venue: 'The Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI)'
+venue: 'AAAI Conference on Artificial Intelligence (AAAI)'
 paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/17083'
 pubtype: 'conferences'
 authors: ' Alberto Maria Metelli*,  Matteo  Papini*,  Pierluca  D&apos;Oro, and  Marcello  Restelli'
-citation: ' Alberto Maria Metelli*,  Matteo  Papini*,  Pierluca  D&apos;Oro, and  Marcello  Restelli&quot;Policy Optimization as Online Learning with Mediator Feedback.&quot; The Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021'
+citation: ' Alberto Maria Metelli*,  Matteo  Papini*,  Pierluca  D&apos;Oro, and  Marcello  Restelli&quot;Policy Optimization as Online Learning with Mediator Feedback.&quot; AAAI Conference on Artificial Intelligence (AAAI), 2021'
 bibtexfile: '/files/bibtex/metelli2021policy.bib'
 ---
 Abstract
@@ -20,7 +20,7 @@ Abstract
 <pre> @incollection{metelli2021policy,
     author = "Metelli*, Alberto Maria and Papini*, Matteo and D'Oro, Pierluca and Restelli, Marcello",
     title = "Policy Optimization as Online Learning with Mediator Feedback",
-    booktitle = "The Thirty-Fifth {AAAI} Conference on Artificial Intelligence ({AAAI})",
+    booktitle = "{AAAI} Conference on Artificial Intelligence ({AAAI})",
     publisher = "{AAAI} Press",
     year = "2021",
     pages = "8958--8966",

@@ -6,11 +6,11 @@ acceptance: 'Acceptance rate: 1088/4990 (21.8%)'
 rankCORE: 'CORE 2020: A*'
 rankGGS: 'GGS 2018: A++'
 date: 2020-01-01
-venue: 'Proceedings of the 37th International Conference on Machine Learning (ICML)'
+venue: 'International Conference on Machine Learning (ICML)'
 paperurl: 'http://proceedings.mlr.press/v119/metelli20a.html'
 pubtype: 'conferences'
 authors: ' Alberto Maria Metelli,  Flavio  Mazzolini,  Lorenzo  Bisi,  Luca  Sabbioni, and  Marcello  Restelli'
-citation: ' Alberto Maria Metelli,  Flavio  Mazzolini,  Lorenzo  Bisi,  Luca  Sabbioni, and  Marcello  Restelli&quot;Control Frequency Adaptation via Action Persistence in Batch Reinforcement Learning.&quot; Proceedings of the 37th International Conference on Machine Learning (ICML), 2020'
+citation: ' Alberto Maria Metelli,  Flavio  Mazzolini,  Lorenzo  Bisi,  Luca  Sabbioni, and  Marcello  Restelli&quot;Control Frequency Adaptation via Action Persistence in Batch Reinforcement Learning.&quot; International Conference on Machine Learning (ICML), 2020'
 bibtexfile: '/files/bibtex/metelli2020control.bib'
 ---
 Abstract
@@ -20,7 +20,7 @@ Abstract
 <pre> @incollection{metelli2020control,
     author = "Metelli, Alberto Maria and Mazzolini, Flavio and Bisi, Lorenzo and Sabbioni, Luca and Restelli, Marcello",
     title = "Control Frequency Adaptation via Action Persistence in Batch Reinforcement Learning",
-    booktitle = "Proceedings of the 37th International Conference on Machine Learning ({ICML})",
+    booktitle = "International Conference on Machine Learning ({ICML})",
     volume = "119",
     pages = "6862--6873",
     publisher = "{PMLR}",

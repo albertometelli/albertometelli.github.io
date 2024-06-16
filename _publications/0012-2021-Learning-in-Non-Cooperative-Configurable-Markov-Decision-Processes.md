@@ -6,11 +6,11 @@ acceptance: 'Acceptance rate: 2344/9122 (25.7%)'
 rankCORE: 'CORE 2021: A*'
 rankGGS: 'GGS 2021: A++'
 date: 2021-01-01
-venue: 'Advances in Neural Information Processing Systems 34 (NeurIPS)'
+venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
 paperurl: 'https://proceedings.neurips.cc/paper/2021/hash/c0f52c6624ae1359e105c8a5d8cd956a-Abstract.html'
 pubtype: 'conferences'
 authors: ' Giorgia  Ramponi,  Alberto Maria Metelli,  Alessandro  Concetti, and  Marcello  Restelli'
-citation: ' Giorgia  Ramponi,  Alberto Maria Metelli,  Alessandro  Concetti, and  Marcello  Restelli&quot;Learning in Non-Cooperative Configurable Markov Decision Processes.&quot; Advances in Neural Information Processing Systems 34 (NeurIPS), 2021'
+citation: ' Giorgia  Ramponi,  Alberto Maria Metelli,  Alessandro  Concetti, and  Marcello  Restelli&quot;Learning in Non-Cooperative Configurable Markov Decision Processes.&quot; Advances in Neural Information Processing Systems (NeurIPS), 2021'
 bibtexfile: '/files/bibtex/metelli2021learning.bib'
 ---
 Abstract
@@ -20,7 +20,7 @@ Abstract
 <pre> @incollection{metelli2021learning,
     author = "Ramponi, Giorgia and Metelli, Alberto Maria and Concetti, Alessandro and Restelli, Marcello",
     title = "Learning in Non-Cooperative Configurable Markov Decision Processes",
-    booktitle = "Advances in Neural Information Processing Systems 34 (NeurIPS)",
+    booktitle = "Advances in Neural Information Processing Systems (NeurIPS)",
     year = "2021",
     pages = "22808--22821",
     url = "https://proceedings.neurips.cc/paper/2021/hash/c0f52c6624ae1359e105c8a5d8cd956a-Abstract.html"

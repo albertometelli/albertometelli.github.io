@@ -6,11 +6,11 @@ acceptance: 'Acceptance rate: 2344/9122 (25.7%), Spotlight: 260/9122 (2.9%)'
 rankCORE: 'CORE 2021: A*'
 rankGGS: 'GGS 2021: A++'
 date: 2021-01-01
-venue: 'Advances in Neural Information Processing Systems 34 (NeurIPS)'
+venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
 paperurl: 'https://proceedings.neurips.cc/paper/2021/hash/4476b929e30dd0c4e8bdbcc82c6ba23a-Abstract.html'
 pubtype: 'conferences'
 authors: ' Alberto Maria Metelli,  Alessio  Russo, and  Marcello  Restelli'
-citation: ' Alberto Maria Metelli,  Alessio  Russo, and  Marcello  Restelli&quot;Subgaussian and Differentiable Importance Sampling for Off-Policy Evaluation and Learning.&quot; Advances in Neural Information Processing Systems 34 (NeurIPS), 2021'
+citation: ' Alberto Maria Metelli,  Alessio  Russo, and  Marcello  Restelli&quot;Subgaussian and Differentiable Importance Sampling for Off-Policy Evaluation and Learning.&quot; Advances in Neural Information Processing Systems (NeurIPS), 2021'
 bibtexfile: '/files/bibtex/metelli2021subgaussian.bib'
 ---
 Abstract
@@ -20,7 +20,7 @@ Abstract
 <pre> @incollection{metelli2021subgaussian,
     author = "Metelli, Alberto Maria and Russo, Alessio and Restelli, Marcello",
     title = "Subgaussian and Differentiable Importance Sampling for Off-Policy Evaluation and Learning",
-    booktitle = "Advances in Neural Information Processing Systems 34 (NeurIPS)",
+    booktitle = "Advances in Neural Information Processing Systems (NeurIPS)",
     year = "2021",
     pages = "8119--8132",
     url = "https://proceedings.neurips.cc/paper/2021/hash/4476b929e30dd0c4e8bdbcc82c6ba23a-Abstract.html"

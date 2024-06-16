@@ -6,11 +6,11 @@ acceptance: 'Acceptance rate: 1184/5513 (21.5%)'
 rankCORE: 'CORE 2021: A*'
 rankGGS: 'GGS 2021: A++'
 date: 2021-01-01
-venue: 'Proceedings of the 38th International Conference on Machine Learning (ICML)'
+venue: 'International Conference on Machine Learning (ICML)'
 paperurl: 'http://proceedings.mlr.press/v139/metelli21a.html'
 pubtype: 'conferences'
 authors: ' Alberto Maria Metelli*,  Giorgia  Ramponi*,  Alessandro  Concetti, and  Marcello  Restelli'
-citation: ' Alberto Maria Metelli*,  Giorgia  Ramponi*,  Alessandro  Concetti, and  Marcello  Restelli&quot;Provably Efficient Learning of Transferable Rewards.&quot; Proceedings of the 38th International Conference on Machine Learning (ICML), 2021'
+citation: ' Alberto Maria Metelli*,  Giorgia  Ramponi*,  Alessandro  Concetti, and  Marcello  Restelli&quot;Provably Efficient Learning of Transferable Rewards.&quot; International Conference on Machine Learning (ICML), 2021'
 bibtexfile: '/files/bibtex/metelli2021provably.bib'
 ---
 Abstract
@@ -20,7 +20,7 @@ Abstract
 <pre> @incollection{metelli2021provably,
     author = "Metelli*, Alberto Maria and Ramponi*, Giorgia and Concetti, Alessandro and Restelli, Marcello",
     title = "Provably Efficient Learning of Transferable Rewards",
-    booktitle = "Proceedings of the 38th International Conference on Machine Learning ({ICML})",
+    booktitle = "International Conference on Machine Learning ({ICML})",
     volume = "139",
     pages = "7665--7676",
     publisher = "{PMLR}",

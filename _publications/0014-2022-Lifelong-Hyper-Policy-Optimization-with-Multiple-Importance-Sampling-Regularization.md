@@ -6,11 +6,11 @@ acceptance: 'Acceptance rate: 1349/9020 (15.0%)'
 rankCORE: 'CORE 2021: A*'
 rankGGS: 'GGS 2021: A++'
 date: 2022-01-01
-venue: 'The Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI)'
+venue: 'AAAI Conference on Artificial Intelligence (AAAI)'
 paperurl: 'https://doi.org/10.1609/aaai.v36i7.20717'
 pubtype: 'conferences'
 authors: ' Pierre  Liotet,  Francesco  Vidaich,  Alberto Maria Metelli, and  Marcello  Restelli'
-citation: ' Pierre  Liotet,  Francesco  Vidaich,  Alberto Maria Metelli, and  Marcello  Restelli&quot;Lifelong Hyper-Policy Optimization with Multiple Importance Sampling Regularization.&quot; The Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI), 2022'
+citation: ' Pierre  Liotet,  Francesco  Vidaich,  Alberto Maria Metelli, and  Marcello  Restelli&quot;Lifelong Hyper-Policy Optimization with Multiple Importance Sampling Regularization.&quot; AAAI Conference on Artificial Intelligence (AAAI), 2022'
 bibtexfile: '/files/bibtex/liotet2022lifelong.bib'
 ---
 Abstract
@@ -20,7 +20,7 @@ Abstract
 <pre> @incollection{liotet2022lifelong,
     author = "Liotet, Pierre and Vidaich, Francesco and Metelli, Alberto Maria and Restelli, Marcello",
     title = "Lifelong Hyper-Policy Optimization with Multiple Importance Sampling Regularization",
-    booktitle = "The Thirty-Sixth {AAAI} Conference on Artificial Intelligence ({AAAI})",
+    booktitle = "{AAAI} Conference on Artificial Intelligence ({AAAI})",
     publisher = "{AAAI} Press",
     year = "2022",
     url = "https://doi.org/10.1609/aaai.v36i7.20717",
