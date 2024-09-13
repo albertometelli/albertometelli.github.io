@@ -14,7 +14,7 @@ bibtexfile: '/files/bibtex/depaola2024power.bib'
 ---
  [[BibTeX](/files/bibtex/depaola2024power.bib){:target="_blank"}] 
 <pre> @incollection{depaola2024power,
-    author = "Paola, Vincenzo De and Calcagno, Giuseppe and Metelli, Alberto Maria and Restelli, Marcello",
+    author = "De Paola, Vincenzo and Calcagno, Giuseppe and Metelli, Alberto Maria and Restelli, Marcello",
     title = "The Power of Hybrid Learning in Industrial Robotics: Efficient Grasping Strategies with Supervised-Driven Reinforcement Learning",
     booktitle = "IEEE World Congress on Computational Intelligence - International Joint Conference on Neural Networks ({IJCNN})",
     organization = "IEEE",
