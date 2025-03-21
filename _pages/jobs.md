@@ -17,7 +17,7 @@ The objectives of this project include, but are not limited to, developing a for
 
 Postdoctoral Positions
 ---
-I am seeking postdoctoral research fellows to work on reinforcement learning, starting in September 2025. These are fully funded, full-time research positions with no mandatory teaching duties (though teaching is possible) and an expected duration of two years. Successful candidates will work under my direct supervision at the [RL3](https://rl.airlab.deib.polimi.it/) research group at Politecnico di Milano, with opportunities to collaborate with other researchers in the group.
+I am seeking postdoctoral research fellows to work on reinforcement learning, starting from September 2025. These are fully funded, full-time research positions with no mandatory teaching duties (though teaching is possible) and an expected duration of two years. Successful candidates will work under my direct supervision at the [RL3](https://rl.airlab.deib.polimi.it/) research group at Politecnico di Milano, with opportunities to collaborate with other researchers in the group.
 
 Ideal candidates should have a strong track record of top-quality research in machine learning, consistent with the standards of venues such as ICML, NeurIPS, ICLR, AISTATS, COLT, and JMLR. Demonstrated experience in reinforcement learning theory, bandit problems, and online learning theory will be highly valued. Strong communication skills in both written and spoken English are also important.
 
@@ -33,7 +33,7 @@ Please apply by <b>April 30, 2025</b>. I expect to review applications and begin
 
 PhD Positions
 ---
-I am seeking PhD students to work on reinforcement learning, starting in September 2025. These are fully funded, full-time research positions with no mandatory teaching duties (though teaching is possible) and an expected duration of three years. Successful candidates will work under my direct supervision at the [RL3](https://rl.airlab.deib.polimi.it/) research group at Politecnico di Milano, with opportunities to collaborate with other researchers in the group.
+I am seeking PhD students to work on reinforcement learning, starting from September 2025. These are fully funded, full-time research positions with no mandatory teaching duties (though teaching is possible) and an expected duration of three years. Successful candidates will work under my direct supervision at the [RL3](https://rl.airlab.deib.polimi.it/) research group at Politecnico di Milano, with opportunities to collaborate with other researchers in the group.
 
 I am looking for candidates interested in either theoretical or experimental research. Ideal candidates for theoretical research should have a strong background in mathematics, including calculus, linear algebra, probability, and statistics. Ideal candidates for experimental research should have a strong background in computer science, including algorithms, data structures, and programming, as well as experience with frameworks like PyTorch and familiarity with using GPUs. In both cases, a minimal background in both fields is required. Additionally, some familiarity with machine learning is expected, and knowledge of reinforcement learning will be considered a plus. Strong communication skills in both written and spoken English are also important.
 
