@@ -19,6 +19,10 @@ defending the thesis "[Compatible Reward Inverse Reinforcement Learning](https:/
 
 Download my [Curriculum Vitae](/files/cv.pdf){:target="_blank"}{:rel="noopener noreferrer"} (updated March 2025)
 
+
+<p style="color:red;"><b>I am looking for PhD students and Postdoctoral researchers starting from September 2025. Details [here](https://albertometelli.github.io/jobs/).</b></p>
+
+
 Research Interests
 ---
 My research interests focus on Artificial Intelligence and Machine Learning, in particular <b>Reinfocement Learning</b>. I am currently working on theoreticalabou
