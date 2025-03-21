@@ -11,7 +11,7 @@ Having recently received an FIS2 Starting Grant, I will be hiring PhD students a
 
 About the Project
 ---
-The <b>Human Learning from Diverse Feedback</b> (<b>HUmLrn</b>) project broadly focuses on developing learning algorithms that utilize human feedback to improve the learning process of artificial agents. This includes, but is not limited to, cases in which humans provide demonstrations, corrections, preferences, and proxy rewards.
+The <b>Human Learning from Diverse Feedback</b> (<b>HUmLrn</b>) project broadly focuses on developing learning algorithms that utilize human feedback to improve the learning process of artificial agents. This includes cases in which humans provide demonstrations, corrections, preferences, and proxy rewards.
 The objectives of this project include, but are not limited to, developing a formal unified framework for human feedback, designing learning algorithms and proving formal guarantees, studying the computational and statistical hardness of learning problems, developing practical deep learning algorithms, and validating these approaches in simulated autonomous driving environments.
 
 
@@ -56,7 +56,7 @@ Please apply by <b>April 30, 2025</b>. I expect to review applications and begin
 
 About the Environment
 ---
-[Politecnico di Milano](https://www.polimi.it/) is a public university in Milan, Italy. According to international rankings (QS World Ranking), it is the top university in Italy and is ranked [111nd worldwide](https://www.topuniversities.com/universities/politecnico-di-milano). The [RL3](https://rl.airlab.deib.polimi.it/) research group is part of the [Department of Electronics, Information, and Bioengineering](https://www.deib.polimi.it/eng/home-page) and consists of 4 faculty members, 1 postdoctoral researcher, and 15 PhD students. It is the most active research group on reinforcement learning in Italy. We are consistently engaged in publishing at top-tier venues, including ICML, NeurIPS, ICLR, AISTATS, COLT, and JMLR.
+[Politecnico di Milano](https://www.polimi.it/) is a public university in Milan, Italy. According to international rankings (QS World Ranking), it is the top university in Italy and is ranked [111nd worldwide](https://www.topuniversities.com/universities/politecnico-di-milano). The [RL3](https://rl.airlab.deib.polimi.it/) research group is part of the [Department of Electronics, Information, and Bioengineering](https://www.deib.polimi.it/eng/home-page) and consists of 4 faculty members, 1 postdoctoral researcher, and 15 PhD students. It is the most active research group on reinforcement learning in Italy. We are consistently engaged in publishing at top-tier venues, including ICML, NeurIPS, ICLR, AISTATS, COLT, and JMLR (see [https://rl.airlab.deib.polimi.it/publications-all/](https://rl.airlab.deib.polimi.it/publications-all/)).
 
 
 
