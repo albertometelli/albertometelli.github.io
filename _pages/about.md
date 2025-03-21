@@ -17,7 +17,7 @@ In July 2015, I obtained the Bachelor of Science in Computer Engineering at Poli
 I received the Master of Science in Computer Science and Engineering at Politecnico di Milano (with honors), 
 defending the thesis "[Compatible Reward Inverse Reinforcement Learning](https://www.politesi.polimi.it/handle/10589/135141)". Since November 2021, I am an [ELLIS](https://ellis.eu/) Member.
 
-Download my [Curriculum Vitae](/files/cv.pdf){:target="_blank"}{:rel="noopener noreferrer"} (updated December 2024)
+Download my [Curriculum Vitae](/files/cv.pdf){:target="_blank"}{:rel="noopener noreferrer"} (updated March 2025)
 
 Research Interests
 ---
@@ -27,6 +27,7 @@ and algorithmic aspects of:
 * <i>Efficient Sample (Re)Use in Reinforcement Learning</i>
 * <i>Multi-Armed Bandits</i>
 * <i>Automated Reinforcement Learning</i>
+* <i>Preference-based Reinforcement Learning</i>
 
 I am also interested in algorithms, optimization, statistics, probability, and recommendation systems.
 
@@ -87,6 +88,7 @@ Awards and Recognitions (selected)
 
 Competitive Research Projects
 ---
+* 2025-2028: HUmLrn - Unified Learning from Diverse Human Feedback (FIS 2 Starting Grant) 
 * 2023-2027: [AI4REALNET](https://www.linkedin.com/company/ai4realnet-project) - AI for REAL-world NETwork operation (HORIZON EUROPE)
 * 2023-2028: [iBeCHANGE](https://www.polimi.it/en/spotlight/news-details/home/ibechange-project-kicks-off) - Addressing Psychosocial and Lifestyle Risk Factors to Promote Primary Cancer Prevention: An Integrated Platform to Promote Behavioural Change (HORIZON RIA)
 * 2023-2026: [FAIR](https://future-ai-research.it/) - Future Artificial Intelligence Research - Spoke 4: Adaptive AI (PNRR Extended Partnership)
