@@ -3,15 +3,15 @@ main:
   - title: "About Me"
     url: /about/
     
-  - title: "Job Opportunities"
-    url: /jobs/
-    
   - title: "Publications"
     url: /publications/    
 
   - title: "Teaching"
     url: /teaching/   
-  
+    
+  - title: "Job Opportunities"
+    url: /jobs/
+    
   - title: "Contacts"
     url: /contacts/   
     
