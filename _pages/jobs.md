@@ -28,7 +28,7 @@ Candidates should send the following materials to [rl3polimi.applications@gmail.
 * Links to 1–2 papers from your previous work that you are most proud of.
 * Any other documents relevant to your application.
 
-Please apply by <b>May 31, 2025</b>. I expect to review applications and begin interviewing shortlisted candidates in early June. If you do not receive a response by mid-June, it means you have not been shortlisted.
+Please apply by <b><s>May 31, 2025</s></b><b>June 22, 2025</b>. I expect to review applications and begin interviewing shortlisted candidates in <s>early</s>late June. If you do not receive a response by mid-June, it means you have not been shortlisted.
 
 
 PhD Positions
@@ -51,7 +51,7 @@ There are also formal requirements for enrolling in the PhD program. While these
 * An English language certificate.
 
 See [this call](https://www.dottorato.polimi.it/fileadmin/user_upload/bandi/ciclo40/bandi_aggiuntivi/5_feb25/4827_4324_APPLICATION_INFO__COMPUTER_SCIENCE_AND_ENGINEERING.pdf) as an example of the precise formal requirements.
-Please apply by <b>May 31, 2025</b>. I expect to review applications and begin interviewing shortlisted candidates in early June. If you do not receive a response by mid-June, it means you have not been shortlisted.
+Please apply by <b><s>May 31, 2025</s></b><b>June 22, 2025</b>. I expect to review applications and begin interviewing shortlisted candidates in <s>early</s>late June. If you do not receive a response by mid-June, it means you have not been shortlisted.
 
 
 About the Environment
