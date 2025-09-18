@@ -28,7 +28,7 @@ Candidates should send the following materials to [rl3polimi.applications@gmail.
 * Links to 1–2 papers from your previous work that you are most proud of.
 * Any other documents relevant to your application.
 
-Please apply by <b><s>June 22, 2025</s></b> <b>August 31, 2025</b>. I expect to review applications and begin interviewing shortlisted candidates at the beginning of September. If you do not receive a response by the end of September, it means you have not been shortlisted.
+Please apply by <b><s>June 22, 2025</s></b> <b>October 30, 2025</b>. I expect to review applications and begin interviewing shortlisted candidates at the beginning of November. If you do not receive a response by the end of November, it means you have not been shortlisted.
 
 
 PhD Positions
