@@ -17,7 +17,7 @@ The objectives of this project include, but are not limited to, developing a for
 
 Postdoctoral Positions
 ---
-I am seeking postdoctoral research fellows to work on reinforcement learning, starting in 2026. These are fully funded, full-time research positions with no mandatory teaching duties (though teaching is possible) and an expected duration of two years. Successful candidates will work under my direct supervision at the [RL3](https://rl.airlab.deib.polimi.it/) research group at Politecnico di Milano, with opportunities to collaborate with other researchers in the group.
+I am seeking postdoctoral research fellows to work on reinforcement learning (flexible starting date). These are fully funded, full-time research positions with no mandatory teaching duties (though teaching is possible) and an expected duration of two years. Successful candidates will work under my direct supervision at the [RL3](https://rl.airlab.deib.polimi.it/) research group at Politecnico di Milano, with opportunities to collaborate with other researchers in the group.
 
 Ideal candidates should have a strong track record of top-quality research in machine learning, consistent with the standards of venues such as ICML, NeurIPS, ICLR, AISTATS, COLT, and JMLR. Demonstrated experience in reinforcement learning theory, bandit problems, and online learning theory will be highly valued. Good programming skills and experience with frameworks like PyTorch are appreciated. Strong communication skills in both written and spoken English are also important.
 
@@ -28,10 +28,9 @@ Candidates should send the following materials to [rl3polimi.applications@gmail.
 * Links to 1–2 papers from your previous work that you are most proud of.
 * Any other documents relevant to your application.
 
-Please apply by <b><s>June 22, 2025</s></b> <b>October 30, 2025</b>. I expect to review applications and begin interviewing shortlisted candidates at the beginning of November. If you do not receive a response by the end of November, it means you have not been shortlisted.
+I expect to review applications and begin interviewing shortlisted candidates as soon as they arrive. If you do not receive a response within two months, it means you have not been shortlisted.
 
-
-PhD Positions
+PhD Positions (no open positions)
 ---
 I am seeking PhD students to work on reinforcement learning, starting in fall 2025. These are fully funded, full-time research positions with no mandatory teaching duties (though teaching is possible) and an expected duration of three years. Successful candidates will work under my direct supervision at the [RL3](https://rl.airlab.deib.polimi.it/) research group at Politecnico di Milano, with opportunities to collaborate with other researchers in the group.
 
