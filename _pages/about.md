@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ---
-Since March 2023, I am an Assistant Professor of Computer Engineering with the Dipartimento di Elettronica, Informazione e Bioingegneria 
+Since March 2023, I am a Tanure-track Assistant Professor of Computer Engineering with the Dipartimento di Elettronica, Informazione e Bioingegneria 
 ([DEIB](https://www.deib.polimi.it/)), in the Artificial Intelligence and Robotic Laboratory ([AIRLab](http://airlab.deib.polimi.it/)) 
 of [Politecnico di Milano](https://www.polimi.it/). In March 2021, I received the  Ph.D. in Information Technology at Politecnico di 
 Milano (with honors), defending the dissertation "[Exploiting Environment Configurability in Reinforcement Learning](https://www.politesi.polimi.it/handle/10589/170616)",
@@ -46,7 +46,8 @@ Apply here: [[Link]](https://docs.google.com/forms/d/e/1FAIpQLScixoApzSl5E20yjl9
 
 Academic Experience
 ---
-* Assistant Professor, DEIB, Politecnico di Milano, 2023-present
+* Tenure-track Assistant Professor, DEIB, Politecnico di Milano, 2026-present
+* Assistant Professor, DEIB, Politecnico di Milano, 2023-2026
 * Postdoctoral Researcher, DEIB, Politecnico di Milano, 2020-2023
 
 National Scientific Qualifications
