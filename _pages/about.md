@@ -73,6 +73,11 @@ I am co-founder of [ML cube S.r.l.](https://www.mlcube.com/), a Politecnico di M
 
 [![ML cube](/images/ml_cube.png){: width="250" .align-left}](https://www.mlcube.com/platform/)    [![AD cube](/images/adcube.png){: width="250" .align-right}](https://adcube.ai/)
 
+
+![](/images/mur.jpg){: width="250" .align-left}
+![](/images/fis.png){: width="250" .align-left}
+![](/images/ellis.png){: width="250" .align-left}
+
 <br>
 <br>
 
@@ -103,3 +108,7 @@ Trivia
 ---
 * My [Erdős Number](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project) is [<b>3</b>](https://www.csauthors.net/distance/paul-erdos/alberto-maria-metelli)
 * My [Mathematics Genealogy Project](https://genealogy.math.ndsu.nodak.edu/id.php?id=308643) entry
+
+
+
+
