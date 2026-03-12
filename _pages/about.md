@@ -20,7 +20,7 @@ defending the thesis "[Compatible Reward Inverse Reinforcement Learning](https:/
 Download my [Curriculum Vitae](/files/cv.pdf){:target="_blank"}{:rel="noopener noreferrer"} (updated March 2025)
 
 
-<p style="color:red;"><b>I am looking for PostDocs! Details <a href="https://albertometelli.github.io/jobs/">here</a>.</b></p>
+<p style="color:red;"><b><h2>I am looking for PostDocs! Details <a href="https://albertometelli.github.io/jobs/">here</a>.</h2></b></p>
 
 
 Research Interests
