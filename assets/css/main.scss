@@ -39,3 +39,33 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+.team-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+  gap:18px;
+  margin-top:1rem;
+}
+.team-card{
+  display:flex;
+  gap:14px;
+  padding:14px;
+  border:1px solid rgba(0,0,0,.12);
+  border-radius:12px;
+  background:#fff;
+}
+.team-photo{
+  width:84px;
+  height:84px;
+  border-radius:12px;
+  object-fit:cover;
+  flex:0 0 auto;
+}
+.team-meta{ min-width:0; }
+.team-name{ font-weight:700; font-size:1.05rem; line-height:1.2; }
+.team-role{ margin-top:2px; font-weight:600; }
+.team-qual{ margin-top:4px; opacity:.9; }
+.team-links{ margin-top:8px; display:flex; gap:10px; flex-wrap:wrap; }
+.team-links a{ text-decoration:none; }
+.team-links a:hover{ text-decoration:underline; }

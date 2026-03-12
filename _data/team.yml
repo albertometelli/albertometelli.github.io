@@ -1,4 +1,5 @@
 - name: "Alberto Maria Metelli"
+  category: "Faculty and Postdocs"
   role: "Tenure-track Assistant Professor"
   photo: "/images/team/alberto-metelli.jpeg"
   links:
@@ -6,6 +7,7 @@
       url: "https://scholar.google.com/citations?user=R31IsPwAAAAJ&hl=en"
 
 - name: "Marco Mussi"
+  category: "Faculty and Postdocs"
   role: "Assistant Professor"
   photo: "/images/team/marco-mussi.jpg"
   links:
@@ -13,6 +15,7 @@
       url: "https://scholar.google.com/citations?user=3gca-JUAAAAJ&hl=en"
 
 - name: "Gianmarco Genalti"
+  category: "Faculty and Postdocs"
   role: "Postdoctoral Researcher"
   photo: "/images/team/gianmarco-genalti.jpg"
   links:
@@ -20,29 +23,36 @@
       url: "https://scholar.google.com/citations?user=b4UMI8kAAAAJ&hl=en"
       
 - name: "Filippo Lazzati"
+  category: "PhD students"
   role: "PhD Student"
   photo: "/images/team/filippo-lazzati.jpeg"
   
 - name: "Alessandro Montenegro"
+  category: "PhD students"
   role: "PhD Student"
   photo: "/images/team/alessandro-montenegro.jpeg"
   
 - name: "Simone Drago"
+  category: "PhD students"
   role: "PhD Student"
   photo: "/images/team/simone-drago.jpecg"
   
 - name: "Federico Corso"
+  category: "PhD students"
   role: "PhD Student"
   photo: "/images/team/federico-corso.jpg"
   
 - name: "Cristiano Migali"
+  category: "PhD students"
   role: "PhD Student"
   photo: "/images/team/cristiano-migali.jpg"
   
 - name: "Diego Alovisetti"
+  category: "PhD students"
   role: "PhD Student"
   photo: "/images/team/diego-alovisetti.jpg"
   
 - name: "Riccardo Venturelli"
+  category: "Research assistants"
   role: "Research Assistant"
   photo: "/images/team/riccardo-venturelli.jpeg"
