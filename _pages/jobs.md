@@ -18,10 +18,12 @@ The objectives of this project include, but are not limited to, developing a for
 
 PostDoc Positions
 ---
-I am seeking postdoctoral research fellows to work on reinforcement learning (flexible starting date). These are fully funded, full-time research positions with no mandatory teaching duties (though teaching is possible) and an expected duration of two years. Successful candidates will work under my direct supervision at the [RL3](https://rl.airlab.deib.polimi.it/) research group at Politecnico di Milano, with opportunities to collaborate with other researchers in the group.
+I am seeking postdoctoral research fellows to work on reinforcement learning and/or online learning (<b>flexible starting date</b>). These are fully funded, full-time research positions with no mandatory teaching duties (though teaching is possible) and an expected duration of two years. Successful candidates will work under my direct supervision in my research group at Politecnico di Milano, with opportunities to collaborate with other researchers in the group and beyond.
+
+The positions are funded by the <b>FIS2 Starting Grant</b> (the Italian equivalent of an ERC Starting Grant). Research topics are flexible, provided they center on reinforcement learning and/or online learning and align with my research interests (see my [Google Scholar](https://scholar.google.com/citations?user=R31IsPwAAAAJ&hl=en) page).
 
 Ideal candidates should have a strong track record of top-quality research in machine learning, consistent with the standards of venues such as ICML, NeurIPS, ICLR, AISTATS, COLT, and JMLR.
-We are looking for both <b>theory-oriented and experimental-oriented profiles</b>. 
+I am looking for both <b>theory-oriented and experimental-oriented profiles</b>. 
 For theory-oriented profiles, demonstrated experience in reinforcement learning theory, bandit problems, and online learning theory will be highly valued. 
 For experimental-oriented profiles, demonstrated experience in experimental reinforcement learning, strong programming skills, and experience with frameworks such as PyTorch will be highly valued. 
 Strong communication skills in both written and spoken English are also important.
@@ -33,7 +35,7 @@ Candidates should send the following materials to [rl3polimi.applications@gmail.
 * Links to 1–2 papers from your previous work that you are most proud of.
 * Any other documents relevant to your application.
 
-I expect to review applications and begin interviewing shortlisted candidates as soon as they arrive. If you do not receive a response within two months, it means you have not been shortlisted.
+<b>I expect to review applications and begin interviewing shortlisted candidates as soon as they arrive</b>. If you do not receive a response within two months, it means you have not been shortlisted.
 
 <!--
 PhD Positions (no open positions)
@@ -61,7 +63,7 @@ Please apply by <b><s>May 31, 2025</s></b> <b>June 22, 2025</b>. I expect to rev
 
 About the Environment
 ---
-[Politecnico di Milano](https://www.polimi.it/) is a public university in Milan, Italy. According to international rankings (QS World Ranking), it is the top university in Italy and is ranked [98th worldwide](https://www.topuniversities.com/universities/politecnico-di-milano). The [RL3](https://rl.airlab.deib.polimi.it/) research group is part of the [Department of Electronics, Information, and Bioengineering](https://www.deib.polimi.it/eng/home-page) and consists of 4 faculty members, 1 postdoctoral researcher, and 15 PhD students. It is the most active research group on reinforcement learning in Italy. We are consistently engaged in publishing at top-tier venues, including ICML, NeurIPS, ICLR, AISTATS, COLT, and JMLR (see [https://rl.airlab.deib.polimi.it/publications-all/](https://rl.airlab.deib.polimi.it/publications-all/)).
+[Politecnico di Milano](https://www.polimi.it/) is a public university in Milan, Italy. According to international rankings (QS World Ranking), it is the top university in Italy and is ranked [98th worldwide](https://www.topuniversities.com/universities/politecnico-di-milano). My team belongs to the [RL3](https://rl.airlab.deib.polimi.it/) research group that is part of the [Department of Electronics, Information, and Bioengineering](https://www.deib.polimi.it/eng/home-page) and consists of 4 faculty members, 1 postdoctoral researcher, and 15 PhD students. It is the most active research group on reinforcement learning in Italy. We are consistently engaged in publishing at top-tier venues, including ICML, NeurIPS, ICLR, AISTATS, COLT, and JMLR (see [https://rl.airlab.deib.polimi.it/publications-all/](https://rl.airlab.deib.polimi.it/publications-all/)).
 
 
 
