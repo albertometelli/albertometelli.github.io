@@ -16,6 +16,8 @@ author_profile: true
     <div class="team-card">
       <img class="team-photo" src="{{ m.photo | relative_url }}" alt="{{ m.name }}">
       
+      <br>
+      
       <div class="team-meta">
         <div class="team-name">{{ m.name }}</div>
         {% if m.role %}<div class="team-role">{{ m.role }}</div>{% endif %}

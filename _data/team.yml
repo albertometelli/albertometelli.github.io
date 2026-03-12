@@ -17,7 +17,7 @@
 - name: "Gianmarco Genalti"
   category: "Faculty and Postdocs"
   role: "Postdoctoral Researcher"
-  photo: "/images/team/gianmarco-genalti.jpg"
+  photo: "/images/team/gianmarco-genalti.jpeg"
   links:
     - label: "Google Scholar"
       url: "https://scholar.google.com/citations?user=b4UMI8kAAAAJ&hl=en"
@@ -35,7 +35,7 @@
 - name: "Simone Drago"
   category: "PhD students"
   role: "PhD Student"
-  photo: "/images/team/simone-drago.jpecg"
+  photo: "/images/team/simone-drago.jpeg"
   
 - name: "Federico Corso"
   category: "PhD students"
