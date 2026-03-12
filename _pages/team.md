@@ -9,26 +9,27 @@ author_profile: true
 {% for cat in categories %}
 ## {{ cat }}
 
-<div class="team-grid">
-  {% for m in site.data.team %}
-    {% if m.category == cat %}
-      <div class="team-card">
-        <img class="team-photo" src="{{ m.photo | relative_url }}" alt="{{ m.name }}">
-        <div class="team-meta">
-          <div class="team-name">{{ m.name }}</div>
-          {% if m.role %}<div class="team-role">{{ m.role }}</div>{% endif %}
-          {% if m.qualification %}<div class="team-qual">{{ m.qualification }}</div>{% endif %}
+{% assign members = site.data.team | where: "category", cat | sort: "order" %}
 
-          {% if m.links %}
-            <div class="team-links">
-              {% for l in m.links %}
-                <a href="{{ l.url }}" target="_blank" rel="noopener">{{ l.label }}</a>
-              {% endfor %}
-            </div>
-          {% endif %}
-        </div>
+<div class="team-grid">
+  {% for m in members %}
+    <div class="team-card">
+      <img class="team-photo" src="{{ m.photo | relative_url }}" alt="{{ m.name }}">
+      
+      <div class="team-meta">
+        <div class="team-name">{{ m.name }}</div>
+        {% if m.role %}<div class="team-role">{{ m.role }}</div>{% endif %}
+        {% if m.qualification %}<div class="team-qual">{{ m.qualification }}</div>{% endif %}
+        
+        {% if m.links %}
+          <div class="team-links">
+            {% for l in m.links %}
+              <a href="{{ l.url }}" target="_blank" rel="noopener">{{ l.label }}</a>
+            {% endfor %}
+          </div>
+        {% endif %}
       </div>
-    {% endif %}
+    </div>
   {% endfor %}
 </div>
 
