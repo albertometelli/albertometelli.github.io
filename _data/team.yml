@@ -11,3 +11,38 @@
   links:
     - label: "Google Scholar"
       url: "https://scholar.google.com/citations?user=3gca-JUAAAAJ&hl=en"
+
+- name: "Gianmarco Genalti"
+  role: "Postdoctoral Researcher"
+  photo: "/images/team/gianmarco-genalti.jpg"
+  links:
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=b4UMI8kAAAAJ&hl=en"
+      
+- name: "Filippo Lazzati"
+  role: "PhD Student"
+  photo: "/images/team/filippo-lazzati.jpeg"
+  
+- name: "Alessandro Montenegro"
+  role: "PhD Student"
+  photo: "/images/team/alessandro-montenegro.jpeg"
+  
+- name: "Simone Drago"
+  role: "PhD Student"
+  photo: "/images/team/simone-drago.jpecg"
+  
+- name: "Federico Corso"
+  role: "PhD Student"
+  photo: "/images/team/federico-corso.jpg"
+  
+- name: "Cristiano Migali"
+  role: "PhD Student"
+  photo: "/images/team/cristiano-migali.jpg"
+  
+- name: "Diego Alovisetti"
+  role: "PhD Student"
+  photo: "/images/team/diego-alovisetti.jpg"
+  
+- name: "Riccardo Venturelli"
+  role: "Research Assistant"
+  photo: "/images/team/riccardo-venturelli.jpeg"
