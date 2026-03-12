@@ -74,7 +74,6 @@ I am co-founder of [ML cube S.r.l.](https://www.mlcube.com/), a Politecnico di M
 [![ML cube](/images/ml_cube.png){: width="250" .align-left}](https://www.mlcube.com/platform/)    [![AD cube](/images/adcube.png){: width="250" .align-right}](https://adcube.ai/)
 
 
-![](/images/mur.jpg){: height="150" .align-left} ![](/images/fis.png){: height="150" .align-left} ![](/images/ellis.png){: height="150" .align-left}
 
 <br>
 <br>
