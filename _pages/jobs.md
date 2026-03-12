@@ -65,9 +65,9 @@ About the Environment
 ---
 [Politecnico di Milano](https://www.polimi.it/) is a public university in Milan, Italy. According to international rankings (QS World Ranking), it is the top university in Italy and is ranked [98th worldwide](https://www.topuniversities.com/universities/politecnico-di-milano). My team belongs to the [RL3](https://rl.airlab.deib.polimi.it/) research group that is part of the [Department of Electronics, Information, and Bioengineering](https://www.deib.polimi.it/eng/home-page) and consists of 4 faculty members, 1 postdoctoral researcher, and 15 PhD students. It is the most active research group on reinforcement learning in Italy. We are part of [Ellis Unit Milan](https://www.ellismilan.eu/). We are consistently engaged in publishing at top-tier venues, including ICML, NeurIPS, ICLR, AISTATS, COLT, and JMLR (see [https://rl.airlab.deib.polimi.it/publications-all/](https://rl.airlab.deib.polimi.it/publications-all/)).
 
-[![MUR](/images/mur.jpg){: width="250" .align-left}]()
-[![FIS](/images/fis.png){: width="250" .align-left}]()
-[![ELLIS](/images/ellis.png){: width="250" .align-left}]()
+![](/images/mur.jpg){: width="250" .align-left}
+![](/images/fis.png){: width="250" .align-left}
+![](/images/ellis.png){: width="250" .align-left}
 
 
 
