@@ -18,7 +18,7 @@ The objectives of this project include, but are not limited to, developing a for
 
 PostDoc Positions
 ---
-I am seeking PostDocs to work on reinforcement learning and/or online learning (flexible starting date). These are fully funded, full-time research positions with no mandatory teaching duties (though teaching is possible) and an expected duration of two years. Successful candidates will work under my direct supervision in my research team at Politecnico di Milano, with opportunities to collaborate with other researchers in the group and outside.
+I am seeking PostDocs to work on reinforcement learning and/or online learning (flexible starting date). These are fully funded, full-time research positions with no mandatory teaching duties (though teaching is possible) and an expected duration of two years. Successful candidates will work under my direct supervision in my research [team](https://albertometelli.github.io/team/) at Politecnico di Milano, with opportunities to collaborate with other researchers in the group and outside.
 
 The positions are funded by the <b>FIS2 Starting Grant</b> (the Italian equivalent of an ERC Starting Grant). Research topics are flexible, provided they center on reinforcement learning and/or online learning and align with my research interests (see my [Google Scholar](https://scholar.google.com/citations?user=R31IsPwAAAAJ&hl=en) page).
 
@@ -63,7 +63,7 @@ Please apply by <b><s>May 31, 2025</s></b> <b>June 22, 2025</b>. I expect to rev
 
 About the Environment
 ---
-[Politecnico di Milano](https://www.polimi.it/) is a public university in Milan, Italy. According to international rankings (QS World Ranking), it is the top university in Italy and is ranked [98th worldwide](https://www.topuniversities.com/universities/politecnico-di-milano). My team belongs to the [RL3](https://rl.airlab.deib.polimi.it/) research group that is part of the [Department of Electronics, Information, and Bioengineering](https://www.deib.polimi.it/eng/home-page) and consists of 4 faculty members, 1 postdoctoral researcher, and 15 PhD students. It is the most active research group on reinforcement learning in Italy. We are part of [Ellis Unit Milan](https://www.ellismilan.eu/). We are consistently engaged in publishing at top-tier venues, including ICML, NeurIPS, ICLR, AISTATS, COLT, and JMLR (see [https://rl.airlab.deib.polimi.it/publications-all/](https://rl.airlab.deib.polimi.it/publications-all/)).
+[Politecnico di Milano](https://www.polimi.it/) is a public university in Milan, Italy. According to international rankings (QS World Ranking), it is the top university in Italy and is ranked [98th worldwide](https://www.topuniversities.com/universities/politecnico-di-milano). My [team](https://albertometelli.github.io/team/) belongs to the [RL3](https://rl.airlab.deib.polimi.it/) research group that is part of the [Department of Electronics, Information, and Bioengineering](https://www.deib.polimi.it/eng/home-page) and consists of 4 faculty members, 1 postdoctoral researcher, and 15 PhD students. It is the most active research group on reinforcement learning in Italy. We are part of [Ellis Unit Milan](https://www.ellismilan.eu/). We are consistently engaged in publishing at top-tier venues, including ICML, NeurIPS, ICLR, AISTATS, COLT, and JMLR (see [https://rl.airlab.deib.polimi.it/publications-all/](https://rl.airlab.deib.polimi.it/publications-all/)).
 
 
 ![](../images/all_logos.jpeg)
