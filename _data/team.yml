@@ -1,0 +1,14 @@
+- name: "Alice Rossi"
+  role: "Postdoctoral Researcher"
+  qualification: "PhD, Computer Science (Sapienza University of Rome)"
+  photo: "/images/team/alice-rossi.jpg"
+  links:
+    - label: "Website"
+      url: "https://example.com"
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/..."
+
+- name: "Marco Bianchi"
+  role: "PhD Student"
+  qualification: "MSc, Data Science (Politecnico di Milano)"
+  photo: "/images/team/marco-bianchi.jpg"
