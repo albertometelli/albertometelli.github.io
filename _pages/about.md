@@ -22,6 +22,8 @@ Download my [Curriculum Vitae](/files/cv.pdf){:target="_blank"}{:rel="noopener n
 
 <p style="color:red;"><b>I am looking for PostDocs! Details <a href="https://albertometelli.github.io/jobs/">here</a>.</b></p>
 
+<p style="color:green;"><b>Theses proposals <a href="/files/theses0626.pdf">[Slides]</a> <a href="https://forms.gle/DvFmBqeGGHqPDrg76">[Apply here]</a></b></p>
+
 
 Research Interests
 ---
