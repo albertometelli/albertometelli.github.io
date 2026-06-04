@@ -22,7 +22,7 @@ Download my [Curriculum Vitae](/files/cv.pdf){:target="_blank"}{:rel="noopener n
 
 <p style="color:red;"><b>I am looking for PostDocs! Details <a href="https://albertometelli.github.io/jobs/">here</a>.</b></p>
 
-<p style="color:green;"><b>Theses proposals</b> <a href="/files/theses0626.pdf">[Slides]</a> [Video](https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=1577d83316e8e603519e90ca99c21222) <a href="https://forms.gle/DvFmBqeGGHqPDrg76">[Apply here]</a></p>
+<p style="color:green;"><b>Theses proposals</b> <a href="/files/theses0626.pdf">[Slides]</a> <a href="https://politecnicomilano.webex.com/politecnicomilano/ldr.php?RCID=1577d83316e8e603519e90ca99c21222">[Video]</a> <a href="https://forms.gle/DvFmBqeGGHqPDrg76">[Apply here]</a></p>
 
 
 Research Interests
