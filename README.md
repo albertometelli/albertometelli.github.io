@@ -1,6 +1,6 @@
 # Alberto Maria Metelli — Static academic website
 
-Eight static HTML pages inspired by the graphical language of Marco Mussi's academic site. No runtime database, backend or JavaScript framework. Bibliography is maintained as an **incrementally enriched, locally versioned annotated BibTeX archive**. The Publications page and all clean citation downloads are generated directly from those BibTeX sources; no bibliography data is fetched by visitors' browsers.
+Eight static HTML pages academic site. No runtime database, backend or JavaScript framework. Bibliography is maintained as an **incrementally enriched, locally versioned annotated BibTeX archive**. The Publications page and all clean citation downloads are generated directly from those BibTeX sources.
 
 ## Local preview
 
@@ -56,17 +56,3 @@ Run `python scripts/download_assets.py` on a network-connected machine to refres
 All team members, roles, links, and portrait sources are maintained in `data/team.json`. Run `python scripts/render_shared_layout.py` after editing it. The renderer also applies the shared cache-busting version to the stylesheet and script on every page.
 
 Maintained sources: [DBLP](https://dblp.org/pid/209/4941), [CORE](https://portal.core.edu.au/conf-ranks/), [SCImago](https://www.scimagojr.com/), [Crossref](https://www.crossref.org/), [OpenAccept](https://github.com/OpenAccept/openaccept-metadata).
-
-
-### v7 content updates (October 2026)
-
-- Page headers use title-only styling. The homepage includes aligned profile links and author names in recent publications.
-- Research interests include *Stability in Reinforcement Learning*. Projects display acronym, official title, and funding on separate lines.
-- Teaching is grouped by academic year with original course links to WeBeep (or historic Beep links for early classes).
-- Team data and portrait sources are centralized in `data/team.json`; `scripts/download_assets.py` refreshes all portraits.
-- Open positions uses a green status indicator; Publications removes the duplicate header count and automatic-update caption.
-
-### v8 About refinements
-
-- The **Recent publications** preview displays title, venue, and year only (without author names). The full Publications page is unchanged.
-- The **Academic experience** and **Education** sections show one uninterrupted vertical timeline with date labels to the left, nodes, and descriptions to the right on desktop. On mobile, the timeline shifts left while maintaining the exact original text.
