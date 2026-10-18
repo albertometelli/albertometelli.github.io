@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-10-18",
+  "source": "bibliography/biblio_*.bib",
+  "notes": [],
+  "new_dblp_publications": 0,
+  "bibliographic_fields_filled": 0,
+  "external_fields_updated": 0,
+  "warnings": [],
+  "coverage": {
+    "missing_doi": 115,
+    "missing_paper_url": 6,
+    "missing_acceptance_rate_for_conferences": 9,
+    "missing_core_rating_for_conferences": 5,
+    "missing_sjr_rating_for_journals": 3
+  },
+  "temporal_warnings": [
+    "fedeli2023iwda: SJR edition may postdate publication year",
+    "metelli2022a: SJR edition may postdate publication year",
+    "metelli2022policy: SJR edition may postdate publication year",
+    "likmeta2021dealing: SJR edition may postdate publication year",
+    "metelli2021safe: SJR edition may postdate publication year",
+    "likmeta2020combining: SJR edition may postdate publication year",
+    "metelli2020importance: SJR edition may postdate publication year",
+    "metelli2020on: SJR edition may postdate publication year"
+  ],
+  "counts": {
+    "unique_publications": 171,
+    "missing_required_fields": 0
+  },
+  "missing_fields": []
+}
