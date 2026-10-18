@@ -1,32 +1,72 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# Alberto Maria Metelli — Static academic website
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+Eight static HTML pages inspired by the graphical language of Marco Mussi's academic site. No runtime database, backend or JavaScript framework. Bibliography is maintained as an **incrementally enriched, locally versioned annotated BibTeX archive**. The Publications page and all clean citation downloads are generated directly from those BibTeX sources; no bibliography data is fetched by visitors' browsers.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+## Local preview
 
-# Instructions
+```shell
+python -m http.server 8000
+```
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+Visit http://localhost:8000. For detailed deployment and data-provenance instructions see the [English guide](GUIDE_EN.md) or the [Italian guide](GUIDA_IT.md).
 
-See more info at https://academicpages.github.io/
+## Shared layout and metadata
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+The navigation header and footer are maintained in `templates/header.html` and `templates/footer.html`. After editing either template, regenerate every page with:
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+```shell
+python scripts/render_shared_layout.py
+```
 
-# Changelog -- bugfixes and enhancements
+The same command refreshes canonical URLs, Open Graph metadata, and page-specific JSON-LD (`Person`, `Course`, and recent `ScholarlyArticle` records). Use it for shared-layout or page-content changes; use the complete publications build below after changing bibliography data.
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+## One-command publications build
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
-# website_academic
+Install the development dependencies once:
+
+```shell
+python -m pip install -r requirements.txt
+```
+
+Then run the complete offline build whenever a canonical BibTeX file changes:
+
+```shell
+python scripts/build_publications.py
+```
+
+This deterministic offline command reads the canonical BibTeX files, validates and sorts them, refreshes clean citation downloads, renders the static Publications page and homepage preview, and runs the complete regression suite. It stops immediately if any stage fails.
+
+## Experimental online enrichment
+
+Online bibliographic download and enrichment are **experimental**. The canonical local BibTeX files and the deterministic offline build remain authoritative.
+
+```shell
+python -m pip install -r requirements.txt
+python scripts/build_publications.py --online --crossref-limit 35
+```
+
+The GitHub Actions workflow never enables online enrichment. When a canonical BibTeX file changes on `main`—or when the workflow is started manually—it runs the deterministic offline build and opens a pull request containing only the regenerated site artifacts.
+
+Canonical source files: `bibliography/biblio_{a,b,bb,c,j,r,t,u,w}.bib`. `biblio_top.bib` is a generated selection. Do **not** manually edit `publications.html`, `bibliography/biblio_all.bib`, or `bibliography/downloads/`; rebuild them with `scripts/build_publications.py`.
+
+Output: full annotated `.bib` files, clean `.bib` exports suitable for citations, `data/reports/bibliography_report.json` for build auditing, and a fully rendered static Publications page. No publication dataset is shipped as JSON or loaded by the website. `@inproceedings` is used for conference papers. CORE/ICORE, SCImago category-specific quartiles, acceptance statistics and presentation links are shown on the website when available but excluded from citation downloads. Q1 coverage is time-checked.
+
+Run `python scripts/download_assets.py` on a network-connected machine to refresh the original photograph, CV, local material assets, logos, and every team portrait. Team portraits are normalized to compact 384×384 WebP files; their sources and destinations are declared in `data/team.json`. Social icons are inline SVG and require no CDN; only the optional Google Maps embed requires a third-party connection.
+
+All team members, roles, links, and portrait sources are maintained in `data/team.json`. Run `python scripts/render_shared_layout.py` after editing it. The renderer also applies the shared cache-busting version to the stylesheet and script on every page.
+
+Maintained sources: [DBLP](https://dblp.org/pid/209/4941), [CORE](https://portal.core.edu.au/conf-ranks/), [SCImago](https://www.scimagojr.com/), [Crossref](https://www.crossref.org/), [OpenAccept](https://github.com/OpenAccept/openaccept-metadata).
+
+
+### v7 content updates (October 2026)
+
+- Page headers use title-only styling. The homepage includes aligned profile links and author names in recent publications.
+- Research interests include *Stability in Reinforcement Learning*. Projects display acronym, official title, and funding on separate lines.
+- Teaching is grouped by academic year with original course links to WeBeep (or historic Beep links for early classes).
+- Team data and portrait sources are centralized in `data/team.json`; `scripts/download_assets.py` refreshes all portraits.
+- Open positions uses a green status indicator; Publications removes the duplicate header count and automatic-update caption.
+
+### v8 About refinements
+
+- The **Recent publications** preview displays title, venue, and year only (without author names). The full Publications page is unchanged.
+- The **Academic experience** and **Education** sections show one uninterrupted vertical timeline with date labels to the left, nodes, and descriptions to the right on desktop. On mobile, the timeline shifts left while maintaining the exact original text.

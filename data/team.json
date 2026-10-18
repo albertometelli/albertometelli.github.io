@@ -1,0 +1,183 @@
+{
+  "sections": [
+    {
+      "title": "Faculty & postdocs",
+      "class": "section",
+      "members": [
+        {
+          "name": "Alberto Maria Metelli",
+          "initials": "AM",
+          "role": "Tenure-track Assistant Professor",
+          "photo": "assets/team/alberto-metelli.webp",
+          "photo_source": "https://albertometelli.github.io/images/team/alberto-metelli.jpeg",
+          "homepage": "index.html",
+          "links": {
+            "Scholar": "https://scholar.google.it/citations?hl=en&user=R31IsPwAAAAJ",
+            "GitHub": "https://github.com/albertometelli",
+            "LinkedIn": "https://www.linkedin.com/in/alberto-maria-metelli-01504214b",
+            "X": "https://x.com/alberto_metelli"
+          }
+        },
+        {
+          "name": "Marco Mussi",
+          "initials": "MM",
+          "role": "Assistant Professor",
+          "photo": "assets/team/marco-mussi.webp",
+          "photo_source": "https://albertometelli.github.io/images/team/marco-mussi.jpg",
+          "homepage": "https://marcomussi.github.io/",
+          "links": {
+            "Scholar": "https://scholar.google.com/citations?hl=en&user=3gca-JUAAAAJ",
+            "GitHub": "https://github.com/marcomussi",
+            "LinkedIn": "https://www.linkedin.com/in/marcomussi95/"
+          }
+        },
+        {
+          "name": "Gianmarco Genalti",
+          "initials": "GG",
+          "role": "Postdoctoral Researcher",
+          "photo": "assets/team/gianmarco-genalti.webp",
+          "photo_source": "https://albertometelli.github.io/images/team/gianmarco-genalti.jpeg",
+          "homepage": "https://gianmarcogenalti.github.io/",
+          "links": {
+            "Scholar": "https://scholar.google.com/citations?hl=it&user=b4UMI8kAAAAJ",
+            "GitHub": "https://github.com/gianmarcogenalti",
+            "LinkedIn": "https://www.linkedin.com/in/gianmarco-genalti-26328a1a4/"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Ph.D. students",
+      "class": "section band",
+      "members": [
+        {
+          "name": "Filippo Lazzati",
+          "initials": "FL",
+          "role": "Ph.D. Student",
+          "photo": "assets/team/filippo-lazzati.webp",
+          "photo_source": "https://albertometelli.github.io/images/team/filippo-lazzati.jpeg",
+          "homepage": "https://filippolazzati.github.io/",
+          "links": {
+            "Scholar": "https://scholar.google.com/citations?hl=en&user=lIf4g_IAAAAJ",
+            "GitHub": "https://github.com/filippolazzati",
+            "LinkedIn": "https://www.linkedin.com/in/filippo-lazzati"
+          }
+        },
+        {
+          "name": "Alessandro Montenegro",
+          "initials": "AM",
+          "role": "Ph.D. Student",
+          "photo": "assets/team/alessandro-montenegro.webp",
+          "photo_source": "https://albertometelli.github.io/images/team/alessandro-montenegro.jpeg",
+          "homepage": "https://montenegroalessandro.github.io/",
+          "links": {
+            "Scholar": "https://scholar.google.com/citations?user=CugD-ogAAAAJ&hl=it&oi=ao",
+            "GitHub": "https://github.com/MontenegroAlessandro",
+            "LinkedIn": "https://www.linkedin.com/in/alessandro-montenegro"
+          }
+        },
+        {
+          "name": "Simone Drago",
+          "initials": "SD",
+          "role": "Ph.D. Student",
+          "photo": "assets/team/simone-drago.webp",
+          "photo_source": "https://albertometelli.github.io/images/team/simone-drago.jpeg",
+          "links": {
+            "Scholar": "https://scholar.google.com/citations?user=TMHon60AAAAJ&hl=it&oi=ao",
+            "LinkedIn": "https://www.linkedin.com/in/drago-simone"
+          }
+        },
+        {
+          "name": "Federico Corso",
+          "initials": "FC",
+          "role": "Ph.D. Student",
+          "photo": "assets/team/federico-corso.webp",
+          "photo_source": "https://albertometelli.github.io/images/team/federico-corso.jpg",
+          "links": {
+            "Scholar": "https://scholar.google.com/citations?user=jsxnVbUAAAAJ&hl=it&oi=ao",
+            "LinkedIn": "https://www.linkedin.com/in/federico-corso-1109311aa/"
+          }
+        },
+        {
+          "name": "Cristiano Migali",
+          "initials": "CM",
+          "role": "Ph.D. Student",
+          "photo": "assets/team/cristiano-migali.webp",
+          "photo_source": "https://albertometelli.github.io/images/team/cristiano-migali.jpg",
+          "links": {
+            "Scholar": "https://scholar.google.com/citations?user=GwD8QoQAAAAJ&hl=it&oi=ao",
+            "GitHub": "https://github.com/m1gwings",
+            "LinkedIn": "https://www.linkedin.com/in/migwings/"
+          }
+        },
+        {
+          "name": "Diego Alovisetti",
+          "initials": "DA",
+          "role": "Ph.D. Student",
+          "photo": "assets/team/diego-alovisetti.webp",
+          "photo_source": "https://albertometelli.github.io/images/team/diego-alovisetti.jpg",
+          "links": {
+            "LinkedIn": "https://www.linkedin.com/in/diego-alovisetti-888730258"
+          }
+        },
+        {
+          "name": "Riccardo Colletti",
+          "initials": "RC",
+          "role": "Ph.D. Student",
+          "photo": "assets/team/riccardo-colletti.webp",
+          "photo_source": "https://collettiriccardo.com/assets/photos/me/riccardo.jpg",
+          "homepage": "https://collettiriccardo.com/",
+          "links": {
+            "Scholar": "https://scholar.google.com/citations?user=pXsVWq4AAAAJ&hl=it&oi=ao",
+            "GitHub": "https://github.com/collettiriccardo",
+            "LinkedIn": "https://www.linkedin.com/in/riccardo-colletti/"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Research assistants",
+      "class": "section",
+      "members": [
+        {
+          "name": "Riccardo Venturelli",
+          "initials": "RV",
+          "role": "Research Assistant",
+          "photo": "assets/team/riccardo-venturelli.webp",
+          "photo_source": "https://albertometelli.github.io/images/team/riccardo-venturelli.jpeg",
+          "links": {
+            "GitHub": "https://github.com/RVenturelli01",
+            "LinkedIn": "https://www.linkedin.com/in/riccardoventurelli/"
+          }
+        },
+        {
+          "name": "Maria Cristina Centorame",
+          "initials": "MC",
+          "role": "Research Assistant",
+          "photo": "assets/team/maria-cristina-centorame.webp",
+          "photo_source": "https://albertometelli.github.io/images/team/maria-cristina-centorame.jpg",
+          "links": {
+            "LinkedIn": "https://www.linkedin.com/in/maria-cristina-centorame"
+          }
+        },
+        {
+          "name": "Caterina Motti",
+          "initials": "CM",
+          "role": "Research Assistant",
+          "photo": "assets/team/caterina-motti.webp",
+          "photo_source": "https://albertometelli.github.io/images/team/caterina-motti.jpg",
+          "homepage": "https://mttcrn.github.io/",
+          "links": {
+            "LinkedIn": "https://www.linkedin.com/in/motticaterina/"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Alumni / Former members",
+      "class": "section alumni-section",
+      "hidden": true,
+      "members": []
+    }
+  ]
+}
