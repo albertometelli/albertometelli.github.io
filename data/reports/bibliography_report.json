@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18",
+  "generated_at": "2026-11-20",
   "source": "bibliography/biblio_*.bib",
   "notes": [],
   "new_dblp_publications": 0,
@@ -7,7 +7,7 @@
   "external_fields_updated": 0,
   "warnings": [],
   "coverage": {
-    "missing_doi": 115,
+    "missing_doi": 114,
     "missing_paper_url": 6,
     "missing_acceptance_rate_for_conferences": 9,
     "missing_core_rating_for_conferences": 5,
